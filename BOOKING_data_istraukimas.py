@@ -30,14 +30,14 @@ for hotel in hotels:
 
 
     hotels_data.append({
-        'name': name,
-        'location': location,
-        'price': price,
-        'rating': rating,
-        'rating meaning': rating_meaning,
-        'distance': distance,
-        'breakfast': breakfast,
-        'free cancelation': free_cancelation
+        'Name': name,
+        'Location': location,
+        'Price': price,
+        'Rating': rating,
+        'Rating meaning': rating_meaning,
+        'Distance': distance,
+        'Breakfast': breakfast,
+        #'Free cancelation': free_cancelation
         #'stars': stars
     })
 
