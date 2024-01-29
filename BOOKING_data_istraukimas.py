@@ -18,7 +18,7 @@ for i in range(0, 901, 25):
         price = hotel.find('span', {'data-testid': 'price-and-discounted-price'}).text.strip().replace('€\xa0', '').replace(',', '')
         rating = hotel.find('div', {'class': 'a3b8729ab1 d86cee9b25'}).text.strip()
         rating_meaning = hotel.find('div', {'class': 'a3b8729ab1 e6208ee469 cb2cbb3ccb'}).text.strip().replace('Review score', 'Fair')
-        distance = hotel.find('span', {'data-testid': 'distance'}).text.strip().replace('km from centre', '')
+        distance = hotel.find('span', {'data-testid': 'distance'}).text.strip().replace('km from centre', '').replace('350 m from centre', '0.3')
         breakfast = hotel.find('span', {'class': 'a19404c4d7'})
         free_cancelation = hotel.find('div', {'class': 'abf093bdfe d068504c75'})
 
