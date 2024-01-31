@@ -1,962 +1,915 @@
 Name,Location,Price,Rating,Rating meaning,Distance from the centre (km),Breakfast,Free cancelation
-Kingsland Locke,Hackney,435,8.7,Fabulous,6 ,-,-
-ME London by Melia,Westminster Borough,1181,8.5,Very good,0.8 ,-,-
-Citadines Barbican London,Islington,386,8.2,Very good,2.6 ,-,-
-Hampton By Hilton London Docklands,Newham,272,8.3,Very good,11.7 ,Breakfast included,-
+Citadines Barbican London,Islington,409,8.2,Very good,2.6 ,-,-
+ME London by Melia,Westminster Borough,1178,8.5,Very good,0.8 ,-,-
+TRIBE London Canary Wharf,Tower Hamlets,336,8.4,Very good,7.9 ,-,-
 The Waterman's Arms,Tower Hamlets,304,8.6,Fabulous,8.6 ,-,Free cancellation
-TRIBE London Canary Wharf,Tower Hamlets,332,8.4,Very good,7.9 ,-,-
-Leman Locke,Tower Hamlets,475,8.8,Fabulous,4 ,-,-
-Cove Landmark Pinnacle,Tower Hamlets,388,9.0,Superb,7.2 ,-,-
-Camden Enterprise Hotel,Camden,571,8.6,Fabulous,4.4 ,-,-
-The Barbican Rooms,Islington,568,7.5,Good,2.9 ,-,Free cancellation
-The Montcalm At Brewery London City,City of London,595,7.0,Good,2.9 ,-,Free cancellation
-The Piccadilly London West End,Westminster Borough,880,8.0,Very good,0.6 ,Breakfast included,Free cancellation
-Rubens At The Palace,Westminster Borough,832,8.6,Fabulous,1.5 ,-,Free cancellation
-The Z Hotel Gloucester Place,Westminster Borough,410,7.9,Good,2.4 ,-,-
-Apex City Of London Hotel,City of London,513,8.8,Fabulous,3.4 ,-,-
-Hotel La Place,Westminster Borough,757,8.0,Very good,2.4 ,-,Free cancellation
-Hour Glass Hotel,Southwark,218,6.9,Fair,3.8 ,-,-
-The Chesterfield Mayfair,Westminster Borough,1054,9.0,Superb,1.4 ,-,Free cancellation
-Park Grand London Kensington,Kensington and Chelsea,499,7.9,Good,4.7 ,-,-
-The Knaresborough by Aura Collection,Kensington and Chelsea,382,7.8,Good,4.6 ,-,-
-Croft Court Hotel,Golders Green,246,8.0,Very good,9.2 ,-,-
-Haven Hotel,Westminster Borough,333,7.0,Good,3.2 ,-,Free cancellation
-"The Hoxton, Holborn",Camden,665,8.4,Very good,1.1 ,-,Free cancellation
-198 Studios,Camden,325,8.1,Very good,6.5 ,-,-
-Moxy London Excel,Newham,278,8.2,Very good,11.8 ,-,-
-DoubleTree By Hilton London Excel,Newham,299,7.9,Good,11.5 ,-,-
-Kingsland Locke,Hackney,435,8.7,Fabulous,6 ,-,-
-ME London by Melia,Westminster Borough,1181,8.5,Very good,0.8 ,-,-
-Citadines Barbican London,Islington,386,8.2,Very good,2.6 ,-,-
-The Nayland Hotel,Westminster Borough,358,7.1,Good,3.2 ,-,-
-Corus Hyde Park Hotel,Westminster Borough,500,6.6,Fair,3.5 ,-,-
-Millennium Hotel London Knightsbridge,Kensington and Chelsea,619,6.8,Fair,2.4 ,-,-
-Leonardo Royal London Tower Bridge,Tower Hamlets,594,8.1,Very good,3.9 ,-,-
-The Tudor Inn Hotel,Westminster Borough,843,6.8,Fair,2.1 ,-,-
-Hampton By Hilton London Docklands,Newham,272,8.3,Very good,11.7 ,Breakfast included,-
-"Radisson Blu Edwardian Kenilworth Hotel, London",Camden,622,7.9,Good,1.2 ,-,-
-NOX Golders Green,Golders Green,254,8.2,Very good,9 ,-,-
-Novotel London Greenwich,Greenwich,451,7.5,Good,8.6 ,-,-
-DoubleTree by Hilton London Chelsea,Hammersmith and Fulham,498,7.9,Good,5.4 ,-,-
-The Waterman's Arms,Tower Hamlets,304,8.6,Fabulous,8.6 ,-,Free cancellation
-easyHotel Victoria,Westminster Borough,328,5.7,Fair,2 ,-,-
-Ashburn Hotel,Kensington and Chelsea,655,8.0,Very good,4.2 ,-,-
-Goodwood Hotel,Camden,209,5.0,Fair,2 ,-,-
-TRIBE London Canary Wharf,Tower Hamlets,332,8.4,Very good,7.9 ,-,-
-The Portico Hotel,Westminster Borough,659,7.9,Good,2.2 ,-,-
-Leman Locke,Tower Hamlets,475,8.8,Fabulous,4 ,-,-
-Moxy London Stratford,Newham,451,8.2,Very good,9.6 ,-,-
-Clayton Hotel Chiswick,Chiswick,358,8.4,Very good,10.6 ,-,-
-Malmaison London,Islington,535,8.1,Very good,2.4 ,-,-
-"The Hoxton, Shepherds Bush",Hammersmith and Fulham,466,8.8,Fabulous,6.7 ,-,Free cancellation
-Bedford Hotel,Camden,562,7.8,Good,1.5 ,-,Free cancellation
-Hampton by Hilton London Park Royal,Ealing,423,8.2,Very good,11.2 ,Breakfast included,-
-Kingsland Locke,Hackney,435,8.7,Fabulous,6 ,-,-
-ME London by Melia,Westminster Borough,1181,8.5,Very good,0.8 ,-,-
-Leman Locke,Tower Hamlets,475,8.8,Fabulous,4 ,-,-
-Cove Landmark Pinnacle,Tower Hamlets,388,9.0,Superb,7.2 ,-,-
-Camden Enterprise Hotel,Camden,514,8.6,Fabulous,4.4 ,-,-
-The Barbican Rooms,Islington,531,7.5,Good,2.9 ,-,Free cancellation
-The Montcalm At Brewery London City,City of London,535,7.0,Good,2.9 ,-,Free cancellation
-The Piccadilly London West End,Westminster Borough,792,8.0,Very good,0.6 ,Breakfast included,Free cancellation
-Rubens At The Palace,Westminster Borough,748,8.6,Fabulous,1.5 ,-,Free cancellation
-Citadines Barbican London,Islington,386,8.2,Very good,2.6 ,-,-
-Hotel La Place,Westminster Borough,681,8.0,Very good,2.4 ,-,Free cancellation
-The Chesterfield Mayfair,Westminster Borough,949,9.0,Superb,1.4 ,-,Free cancellation
-Park Grand London Kensington,Kensington and Chelsea,466,7.9,Good,4.7 ,-,-
-Haven Hotel,Westminster Borough,333,7.0,Good,3.2 ,-,Free cancellation
-"Radisson Blu Edwardian Bloomsbury Street Hotel, London",Camden,700,8.4,Very good,1.1 ,-,-
-Crane Court by City2Stay,City of London,740,8.4,Very good,1.5 ,-,-
+Park Avenue J Hotel London Hyde Park,Westminster Borough,442,7.3,Good,4 ,-,Free cancellation
+55 by Le Mirage,Westminster Borough,418,8.5,Very good,4.5 ,-,-
+"The Hoxton, Shepherds Bush",Hammersmith and Fulham,430,8.7,Fabulous,6.7 ,-,Free cancellation
+citizenM London Bankside,Southwark,500,8.6,Fabulous,2.1 ,-,Free cancellation
+Hampton By Hilton London Docklands,Newham,320,8.3,Very good,11.7 ,Breakfast included,-
+Apex City Of London Hotel,City of London,512,8.8,Fabulous,3.4 ,-,-
+Haven Hotel,Westminster Borough,332,7.1,Good,3.2 ,-,Free cancellation
+"Holiday Inn London - Regent's Park, an IHG Hotel",Westminster Borough,512,7.9,Good,2 ,-,-
+"Holiday Inn Express London-Hammersmith, an IHG Hotel",Hammersmith and Fulham,449,8.0,Very good,7.4 ,Breakfast included,Free cancellation
+"Holiday Inn Express Southwark, an IHG Hotel",Southwark,605,8.1,Very good,1.8 ,Breakfast included,Free cancellation
+DoubleTree By Hilton London Excel,Newham,302,7.9,Good,11.5 ,-,-
+Croft Court Hotel,Golders Green,245,8.0,Very good,9.2 ,-,-
+Assembly Covent Garden,Westminster Borough,501,7.9,Good,0.3,-,-
+Moxy London Excel,Newham,277,8.2,Very good,11.8 ,-,-
+ibis London City - Shoreditch,Tower Hamlets,500,7.9,Good,3.9 ,-,Free cancellation
+"Maldron Hotel Finsbury Park, London",Islington,429,8.5,Very good,6.4 ,-,Free cancellation
+The Coach,Clerkenwell,503,8.2,Very good,2.2 ,-,Free cancellation
+198 Studios,Camden,324,8.1,Very good,6.5 ,-,-
+"Inhabit, Queen's Gardens",Westminster Borough,528,8.3,Very good,3.8 ,-,-
+Hilton London Kensington Hotel,Kensington and Chelsea,425,7.0,Good,6 ,-,-
+Gem Langham Court Hotel,Westminster Borough,628,7.1,Good,1.6 ,-,Free cancellation
+Royal National Hotel,Camden,390,7.3,Good,1.8 ,-,Free cancellation
+DoubleTree By Hilton London Excel,Newham,302,7.9,Good,11.5 ,-,-
+Park Grand London Kensington,Kensington and Chelsea,465,7.9,Good,4.7 ,-,-
+Croft Court Hotel,Golders Green,245,8.0,Very good,9.2 ,-,-
+Ember Locke Kensington,Kensington and Chelsea,496,8.7,Fabulous,4.8 ,-,-
+Crane Court by City2Stay,City of London,739,8.4,Very good,1.5 ,-,-
+Assembly Covent Garden,Westminster Borough,501,7.9,Good,0.3,-,-
+Moxy London Excel,Newham,277,8.2,Very good,11.8 ,-,-
+ibis London City - Shoreditch,Tower Hamlets,500,7.9,Good,3.9 ,-,Free cancellation
+"Maldron Hotel Finsbury Park, London",Islington,429,8.5,Very good,6.4 ,-,Free cancellation
+The Coach,Clerkenwell,503,8.2,Very good,2.2 ,-,Free cancellation
+198 Studios,Camden,324,8.1,Very good,6.5 ,-,-
+"Radisson Blu Edwardian Bloomsbury Street Hotel, London",Camden,703,8.4,Very good,1.1 ,-,-
+"Inhabit, Queen's Gardens",Westminster Borough,528,8.3,Very good,3.8 ,-,-
+Hilton London Kensington Hotel,Kensington and Chelsea,425,7.0,Good,6 ,-,-
+Gem Langham Court Hotel,Westminster Borough,547,7.1,Good,1.6 ,-,-
+Royal National Hotel,Camden,390,7.3,Good,1.8 ,-,Free cancellation
+DoubleTree by Hilton Hotel London - Tower of London,City of London,636,7.6,Good,3.4 ,-,Free cancellation
+"The Hoxton, Holborn",Camden,664,8.4,Very good,1.1 ,-,Free cancellation
+"Radisson Blu Edwardian Vanderbilt Hotel, London",Kensington and Chelsea,589,7.7,Good,4 ,-,-
+Keystone House,Islington,374,7.9,Good,2.7 ,-,-
+Hour Glass Hotel,Southwark,217,6.9,Review score,3.8 ,-,-
+Hilton London Metropole,Westminster Borough,448,7.5,Good,3.2 ,-,-
 Central Studio Like a Hotel Room,Islington,234,7.1,Good,5.8 ,-,Free cancellation
-"Radisson Blu Edwardian Vanderbilt Hotel, London",Kensington and Chelsea,590,7.7,Good,4 ,-,-
-ibis London Canning Town,Newham,301,8.8,Fabulous,9.5 ,-,-
-NYX Hotel London Holborn by Leonardo Hotels,Camden,729,8.4,Very good,1.4 ,-,-
-The Londoner,Westminster Borough,1136,9.0,Superb,0.3,-,-
-City View Hotel Roman Road,Tower Hamlets,150,3.8,Fair,5.9 ,-,Free cancellation
-The Dome,Camden,286,6.6,Fair,2.4 ,-,Free cancellation
-Brick lane stay,Tower Hamlets,176,4.3,Fair,4.1 ,-,Free cancellation
-The Beaufort,Kensington and Chelsea,586,7.4,Good,2.7 ,-,-
-Town Hall Hotel - Shoreditch,Tower Hamlets,522,8.2,Very good,5.6 ,-,-
-Kingsland Locke,Hackney,435,8.7,Fabulous,6 ,-,-
-ME London by Melia,Westminster Borough,1181,8.5,Very good,0.8 ,-,-
-Citadines Barbican London,Islington,386,8.2,Very good,2.6 ,-,-
-Hampton By Hilton London Docklands,Newham,272,8.3,Very good,11.7 ,Breakfast included,-
-The Waterman's Arms,Tower Hamlets,304,8.6,Fabulous,8.6 ,-,Free cancellation
-TRIBE London Canary Wharf,Tower Hamlets,332,8.4,Very good,7.9 ,-,-
-Leman Locke,Tower Hamlets,475,8.8,Fabulous,4 ,-,-
-Cove Landmark Pinnacle,Tower Hamlets,388,9.0,Superb,7.2 ,-,-
-Camden Enterprise Hotel,Camden,514,8.6,Fabulous,4.4 ,-,-
-The Barbican Rooms,Islington,531,7.5,Good,2.9 ,-,Free cancellation
-The Montcalm At Brewery London City,City of London,535,7.0,Good,2.9 ,-,Free cancellation
-The Piccadilly London West End,Westminster Borough,792,8.0,Very good,0.6 ,Breakfast included,Free cancellation
-Rubens At The Palace,Westminster Borough,748,8.6,Fabulous,1.5 ,-,Free cancellation
-The Z Hotel Gloucester Place,Westminster Borough,410,7.9,Good,2.4 ,-,-
-Apex City Of London Hotel,City of London,513,8.8,Fabulous,3.4 ,-,-
-Hotel La Place,Westminster Borough,681,8.0,Very good,2.4 ,-,Free cancellation
-Hour Glass Hotel,Southwark,218,6.9,Fair,3.8 ,-,-
-The Chesterfield Mayfair,Westminster Borough,949,9.0,Superb,1.4 ,-,Free cancellation
-Park Grand London Kensington,Kensington and Chelsea,466,7.9,Good,4.7 ,-,-
-The Knaresborough by Aura Collection,Kensington and Chelsea,382,7.8,Good,4.6 ,-,-
-Croft Court Hotel,Golders Green,246,8.0,Very good,9.2 ,-,-
-Haven Hotel,Westminster Borough,333,7.0,Good,3.2 ,-,Free cancellation
-"The Hoxton, Holborn",Camden,665,8.4,Very good,1.1 ,-,Free cancellation
-198 Studios,Camden,325,8.1,Very good,6.5 ,-,-
-Moxy London Excel,Newham,278,8.2,Very good,11.8 ,-,-
-DoubleTree By Hilton London Excel,Newham,299,7.9,Good,11.5 ,-,-
-Kingsland Locke,Hackney,435,8.7,Fabulous,6 ,-,-
-ME London by Melia,Westminster Borough,1181,8.5,Very good,0.8 ,-,-
-Citadines Barbican London,Islington,386,8.2,Very good,2.6 ,-,-
-Hampton By Hilton London Docklands,Newham,272,8.3,Very good,11.7 ,Breakfast included,-
-The Waterman's Arms,Tower Hamlets,304,8.6,Fabulous,8.6 ,-,Free cancellation
-TRIBE London Canary Wharf,Tower Hamlets,332,8.4,Very good,7.9 ,-,-
-The Z Hotel Gloucester Place,Westminster Borough,410,7.9,Good,2.4 ,-,-
-Apex City Of London Hotel,City of London,513,8.8,Fabulous,3.4 ,-,-
-Hour Glass Hotel,Southwark,218,6.9,Fair,3.8 ,-,-
-The Knaresborough by Aura Collection,Kensington and Chelsea,382,7.8,Good,4.6 ,-,-
-Croft Court Hotel,Golders Green,246,8.0,Very good,9.2 ,-,-
-Haven Hotel,Westminster Borough,333,7.0,Good,3.2 ,-,Free cancellation
-"The Hoxton, Holborn",Camden,665,8.4,Very good,1.1 ,-,Free cancellation
-198 Studios,Camden,325,8.1,Very good,6.5 ,-,-
-Moxy London Excel,Newham,278,8.2,Very good,11.8 ,-,-
-DoubleTree By Hilton London Excel,Newham,299,7.9,Good,11.5 ,-,-
-The Coach,Clerkenwell,504,8.2,Very good,2.2 ,-,Free cancellation
-"The Hoxton, Shepherds Bush",Hammersmith and Fulham,466,8.8,Fabulous,6.7 ,-,Free cancellation
-citizenM London Bankside,Southwark,507,8.6,Fabulous,2.1 ,-,Free cancellation
-ibis London City - Shoreditch,Tower Hamlets,490,7.9,Good,3.9 ,-,Free cancellation
-"Maldron Hotel Finsbury Park, London",Islington,430,8.5,Very good,6.4 ,-,Free cancellation
-The Z Hotel Piccadilly,Westminster Borough,468,7.9,Good,0.3,-,-
-"Holiday Inn Express Southwark, an IHG Hotel",Southwark,607,8.1,Very good,1.8 ,Breakfast included,Free cancellation
-The Z Hotel Shoreditch,Islington,369,7.8,Good,3.5 ,-,-
-Hilton London Kensington Hotel,Kensington and Chelsea,416,7.0,Good,6 ,-,-
-"Holiday Inn London - Regent's Park, an IHG Hotel",Westminster Borough,513,7.9,Good,2 ,-,-
-Kingsland Locke,Hackney,435,8.7,Fabulous,6 ,-,-
-ME London by Melia,Westminster Borough,1181,8.5,Very good,0.8 ,-,-
-"Holiday Inn London Kensington High St., an IHG Hotel",Kensington and Chelsea,436,7.1,Good,4.6 ,-,-
-Citadines Barbican London,Islington,386,8.2,Very good,2.6 ,-,-
-The 29 London,Westminster Borough,506,6.7,Fair,2.2 ,-,-
-Apex City Of London Hotel,City of London,513,8.8,Fabulous,3.4 ,-,-
-NOX Hyde Park,Westminster Borough,443,7.1,Good,4.2 ,-,-
-Hampton By Hilton London Docklands,Newham,272,8.3,Very good,11.7 ,Breakfast included,-
-Thistle London Park Lane,Westminster Borough,687,7.5,Good,2.3 ,-,-
-The Waterman's Arms,Tower Hamlets,304,8.6,Fabulous,8.6 ,-,Free cancellation
-Sheraton Grand London Park Lane,Westminster Borough,795,8.2,Very good,1.4 ,-,-
-Avon Hotel,Westminster Borough,431,6.7,Fair,3.3 ,Breakfast included,Free cancellation
-Dog and Fox,Wimbledon,384,8.6,Fabulous,11.1 ,-,Free cancellation
-TRIBE London Canary Wharf,Tower Hamlets,332,8.4,Very good,7.9 ,-,-
-Leman Locke,Tower Hamlets,475,8.8,Fabulous,4 ,-,-
-Roseview Alexandra Palace Hotel,Muswell Hill,383,6.5,Fair,9.4 ,-,-
-Cheshire Hotel Central London,Camden,557,6.7,Fair,1.1 ,-,-
-Citadines Holborn - Covent Garden London,Camden,679,7.7,Good,1.3 ,-,-
-Cove Landmark Pinnacle,Tower Hamlets,388,9.0,Superb,7.2 ,-,-
-Camden Enterprise Hotel,Camden,571,8.6,Fabulous,4.4 ,-,-
-The Barbican Rooms,Islington,568,7.5,Good,2.9 ,-,Free cancellation
-Tony's House Hotel,Westminster Borough,373,6.1,Fair,3.3 ,Breakfast included,Free cancellation
-Batty Langley's,Tower Hamlets,735,9.3,Superb,3.8 ,-,Free cancellation
-Sonder Kensington Gardens,Kensington and Chelsea,659,7.9,Good,4.1 ,Breakfast included,-
-Melia White House Hotel,West End,589,7.8,Good,2.2 ,-,-
-The Montcalm At Brewery London City,City of London,595,7.0,Good,2.9 ,-,Free cancellation
-Kingsland Locke,Hackney,435,8.7,Fabulous,6 ,-,-
-ME London by Melia,Westminster Borough,1181,8.5,Very good,0.8 ,-,-
-"The Tower Hotel, London",Tower Hamlets,595,7.8,Good,3.8 ,-,-
-Citadines Barbican London,Islington,386,8.2,Very good,2.6 ,-,-
-Copthorne Tara Hotel London Kensington,Kensington and Chelsea,571,6.9,Fair,4.5 ,-,-
-Park Avenue Baker Street,Westminster Borough,529,6.7,Fair,3 ,-,-
-Hotel 65,Hammersmith and Fulham,231,7.5,Good,6.6 ,-,-
-Hampton By Hilton London Docklands,Newham,272,8.3,Very good,11.7 ,Breakfast included,-
-Mermaid Suite Hotel,Westminster Borough,410,7.3,Good,1.5 ,-,-
-Marlin Apartments London Bridge - Empire Square,Southwark,543,7.6,Good,2.7 ,-,Free cancellation
-Doubletree By Hilton London - Greenwich,Greenwich,429,8.2,Very good,8.3 ,-,-
-The Waterman's Arms,Tower Hamlets,304,8.6,Fabulous,8.6 ,-,Free cancellation
-The Mad Hatter Hotel,Southwark,557,8.9,Fabulous,1.6 ,Breakfast included,-
-Moxy London Excel,Newham,278,8.2,Very good,11.8 ,-,-
-Hilton London Olympia,Kensington and Chelsea,449,7.1,Good,5.6 ,-,-
-TRIBE London Canary Wharf,Tower Hamlets,332,8.4,Very good,7.9 ,-,-
-Leman Locke,Tower Hamlets,475,8.8,Fabulous,4 ,-,-
-Hyatt Regency London Stratford,Newham,400,8.4,Very good,9.2 ,-,-
-Ravna Gora,Kensington and Chelsea,466,8.1,Very good,5.3 ,-,Free cancellation
-DoubleTree by Hilton London Victoria,Westminster Borough,649,7.7,Good,1.9 ,-,-
-Marylebone Inn,Westminster Borough,577,8.2,Very good,2.7 ,-,-
-Cove Landmark Pinnacle,Tower Hamlets,388,9.0,Superb,7.2 ,-,-
-Fraser Suites Queens Gate,Kensington and Chelsea,694,7.6,Good,3.9 ,-,-
-Victoria Inn,Southwark,337,8.5,Very good,5.8 ,-,-
-BOKA Hotel,Kensington and Chelsea,384,5.1,Fair,5.2 ,-,-
-Park Plaza Victoria London,Westminster Borough,599,8.2,Very good,1.7 ,-,-
-Kingsland Locke,Hackney,435,8.7,Fabulous,6 ,-,-
-ME London by Melia,Westminster Borough,1181,8.5,Very good,0.8 ,-,-
-Citadines Barbican London,Islington,386,8.2,Very good,2.6 ,-,-
-Hampton By Hilton London Docklands,Newham,272,8.3,Very good,11.7 ,Breakfast included,-
-The Waterman's Arms,Tower Hamlets,304,8.6,Fabulous,8.6 ,-,Free cancellation
-TRIBE London Canary Wharf,Tower Hamlets,332,8.4,Very good,7.9 ,-,-
-Leman Locke,Tower Hamlets,475,8.8,Fabulous,4 ,-,-
-Cove Landmark Pinnacle,Tower Hamlets,388,9.0,Superb,7.2 ,-,-
-Camden Enterprise Hotel,Camden,571,8.6,Fabulous,4.4 ,-,-
-The Barbican Rooms,Islington,568,7.5,Good,2.9 ,-,Free cancellation
-The Montcalm At Brewery London City,City of London,595,7.0,Good,2.9 ,-,Free cancellation
-The Piccadilly London West End,Westminster Borough,880,8.0,Very good,0.6 ,Breakfast included,Free cancellation
-The Beaufort,Kensington and Chelsea,652,7.4,Good,2.7 ,-,-
-Rubens At The Palace,Westminster Borough,832,8.6,Fabulous,1.5 ,-,Free cancellation
-The Z Hotel Gloucester Place,Westminster Borough,410,7.9,Good,2.4 ,-,-
-Apex City Of London Hotel,City of London,513,8.8,Fabulous,3.4 ,-,-
-Hotel La Place,Westminster Borough,757,8.0,Very good,2.4 ,-,Free cancellation
-Hour Glass Hotel,Southwark,218,6.9,Fair,3.8 ,-,-
-The Chesterfield Mayfair,Westminster Borough,1054,9.0,Superb,1.4 ,-,Free cancellation
-Park Grand London Kensington,Kensington and Chelsea,499,7.9,Good,4.7 ,-,-
-The Knaresborough by Aura Collection,Kensington and Chelsea,382,7.8,Good,4.6 ,-,-
-Croft Court Hotel,Golders Green,246,8.0,Very good,9.2 ,-,-
-Haven Hotel,Westminster Borough,333,7.0,Good,3.2 ,-,Free cancellation
-"The Hoxton, Holborn",Camden,665,8.4,Very good,1.1 ,-,Free cancellation
-198 Studios,Camden,325,8.1,Very good,6.5 ,-,-
-Moxy London Excel,Newham,278,8.2,Very good,11.8 ,-,-
-Kingsland Locke,Hackney,435,8.7,Fabulous,6 ,-,-
-ME London by Melia,Westminster Borough,1181,8.5,Very good,0.8 ,-,-
-Citadines Barbican London,Islington,386,8.2,Very good,2.6 ,-,-
-Hampton By Hilton London Docklands,Newham,272,8.3,Very good,11.7 ,Breakfast included,-
-The Waterman's Arms,Tower Hamlets,304,8.6,Fabulous,8.6 ,-,Free cancellation
-TRIBE London Canary Wharf,Tower Hamlets,332,8.4,Very good,7.9 ,-,-
-Leman Locke,Tower Hamlets,475,8.8,Fabulous,4 ,-,-
-Cove Landmark Pinnacle,Tower Hamlets,388,9.0,Superb,7.2 ,-,-
-Camden Enterprise Hotel,Camden,571,8.6,Fabulous,4.4 ,-,-
-The Barbican Rooms,Islington,568,7.5,Good,2.9 ,-,Free cancellation
-The Montcalm At Brewery London City,City of London,595,7.0,Good,2.9 ,-,Free cancellation
-The Piccadilly London West End,Westminster Borough,880,8.0,Very good,0.6 ,Breakfast included,Free cancellation
-Rubens At The Palace,Westminster Borough,832,8.6,Fabulous,1.5 ,-,Free cancellation
-The Z Hotel Gloucester Place,Westminster Borough,410,7.9,Good,2.4 ,-,-
-Apex City Of London Hotel,City of London,513,8.8,Fabulous,3.4 ,-,-
-Hotel La Place,Westminster Borough,757,8.0,Very good,2.4 ,-,Free cancellation
-Hour Glass Hotel,Southwark,218,6.9,Fair,3.8 ,-,-
-The Chesterfield Mayfair,Westminster Borough,1054,9.0,Superb,1.4 ,-,Free cancellation
-Park Grand London Kensington,Kensington and Chelsea,499,7.9,Good,4.7 ,-,-
-The Knaresborough by Aura Collection,Kensington and Chelsea,382,7.8,Good,4.6 ,-,-
-Croft Court Hotel,Golders Green,246,8.0,Very good,9.2 ,-,-
-Haven Hotel,Westminster Borough,333,7.0,Good,3.2 ,-,Free cancellation
-"The Hoxton, Holborn",Camden,665,8.4,Very good,1.1 ,-,Free cancellation
-198 Studios,Camden,325,8.1,Very good,6.5 ,-,-
-Moxy London Excel,Newham,278,8.2,Very good,11.8 ,-,-
-DoubleTree By Hilton London Excel,Newham,299,7.9,Good,11.5 ,-,-
-Kingsland Locke,Hackney,435,8.7,Fabulous,6 ,-,-
-ME London by Melia,Westminster Borough,1181,8.5,Very good,0.8 ,-,-
-Citadines Barbican London,Islington,386,8.2,Very good,2.6 ,-,-
-Hampton By Hilton London Docklands,Newham,272,8.3,Very good,11.7 ,Breakfast included,-
-The Waterman's Arms,Tower Hamlets,304,8.6,Fabulous,8.6 ,-,Free cancellation
-TRIBE London Canary Wharf,Tower Hamlets,332,8.4,Very good,7.9 ,-,-
-Leman Locke,Tower Hamlets,475,8.8,Fabulous,4 ,-,-
-Cove Landmark Pinnacle,Tower Hamlets,388,9.0,Superb,7.2 ,-,-
-The Barbican Rooms,Islington,568,7.5,Good,2.9 ,-,Free cancellation
-Camden Enterprise Hotel,Camden,601,8.6,Fabulous,4.4 ,-,-
-The Montcalm At Brewery London City,City of London,595,7.0,Good,2.9 ,-,Free cancellation
-Rubens At The Palace,Westminster Borough,832,8.6,Fabulous,1.5 ,-,Free cancellation
-The Z Hotel Gloucester Place,Westminster Borough,410,7.9,Good,2.4 ,-,-
-Apex City Of London Hotel,City of London,513,8.8,Fabulous,3.4 ,-,-
-Hotel La Place,Westminster Borough,757,8.0,Very good,2.4 ,-,Free cancellation
-Hour Glass Hotel,Southwark,218,6.9,Fair,3.8 ,-,-
-The Chesterfield Mayfair,Westminster Borough,1054,9.0,Superb,1.4 ,-,Free cancellation
-Park Grand London Kensington,Kensington and Chelsea,499,7.9,Good,4.7 ,-,-
-The Knaresborough by Aura Collection,Kensington and Chelsea,382,7.8,Good,4.6 ,-,-
-Croft Court Hotel,Golders Green,246,8.0,Very good,9.2 ,-,-
-Haven Hotel,Westminster Borough,333,7.0,Good,3.2 ,-,Free cancellation
-"The Hoxton, Holborn",Camden,665,8.4,Very good,1.1 ,-,Free cancellation
-198 Studios,Camden,325,8.1,Very good,6.5 ,-,-
-Moxy London Excel,Newham,278,8.2,Very good,11.8 ,-,-
-DoubleTree By Hilton London Excel,Newham,299,7.9,Good,11.5 ,-,-
-The Coach,Clerkenwell,504,8.2,Very good,2.2 ,-,Free cancellation
-Kingsland Locke,Hackney,435,8.7,Fabulous,6 ,-,-
-ME London by Melia,Westminster Borough,1181,8.5,Very good,0.8 ,-,-
-Citadines Barbican London,Islington,386,8.2,Very good,2.6 ,-,-
-Hampton By Hilton London Docklands,Newham,272,8.3,Very good,11.7 ,Breakfast included,-
-The Waterman's Arms,Tower Hamlets,304,8.6,Fabulous,8.6 ,-,Free cancellation
-TRIBE London Canary Wharf,Tower Hamlets,332,8.4,Very good,7.9 ,-,-
-Leman Locke,Tower Hamlets,475,8.8,Fabulous,4 ,-,-
-Cove Landmark Pinnacle,Tower Hamlets,388,9.0,Superb,7.2 ,-,-
-Camden Enterprise Hotel,Camden,571,8.6,Fabulous,4.4 ,-,-
-The Barbican Rooms,Islington,568,7.5,Good,2.9 ,-,Free cancellation
-The Montcalm At Brewery London City,City of London,595,7.0,Good,2.9 ,-,Free cancellation
-The Piccadilly London West End,Westminster Borough,880,8.0,Very good,0.6 ,Breakfast included,Free cancellation
-Rubens At The Palace,Westminster Borough,832,8.6,Fabulous,1.5 ,-,Free cancellation
-The Z Hotel Gloucester Place,Westminster Borough,410,7.9,Good,2.4 ,-,-
-Apex City Of London Hotel,City of London,513,8.8,Fabulous,3.4 ,-,-
-Hotel La Place,Westminster Borough,757,8.0,Very good,2.4 ,-,Free cancellation
-Hour Glass Hotel,Southwark,218,6.9,Fair,3.8 ,-,-
-The Chesterfield Mayfair,Westminster Borough,1054,9.0,Superb,1.4 ,-,Free cancellation
-Park Grand London Kensington,Kensington and Chelsea,499,7.9,Good,4.7 ,-,-
-The Knaresborough by Aura Collection,Kensington and Chelsea,382,7.8,Good,4.6 ,-,-
-Croft Court Hotel,Golders Green,246,8.0,Very good,9.2 ,-,-
-Haven Hotel,Westminster Borough,333,7.0,Good,3.2 ,-,Free cancellation
-"The Hoxton, Holborn",Camden,665,8.4,Very good,1.1 ,-,Free cancellation
-198 Studios,Camden,325,8.1,Very good,6.5 ,-,-
-Moxy London Excel,Newham,278,8.2,Very good,11.8 ,-,-
-DoubleTree By Hilton London Excel,Newham,299,7.9,Good,11.5 ,-,-
-Kingsland Locke,Hackney,435,8.7,Fabulous,6 ,-,-
-ME London by Melia,Westminster Borough,1181,8.5,Very good,0.8 ,-,-
-Camden Enterprise Hotel,Camden,514,8.6,Fabulous,4.4 ,-,-
-The Barbican Rooms,Islington,531,7.5,Good,2.9 ,-,Free cancellation
-Leman Locke,Tower Hamlets,475,8.8,Fabulous,4 ,-,-
-Park Grand London Kensington,Kensington and Chelsea,466,7.9,Good,4.7 ,-,-
-Cove Landmark Pinnacle,Tower Hamlets,388,9.0,Superb,7.2 ,-,-
-The Montcalm At Brewery London City,City of London,535,7.0,Good,2.9 ,-,Free cancellation
-The Piccadilly London West End,Westminster Borough,792,8.0,Very good,0.6 ,Breakfast included,Free cancellation
-Central Studio Like a Hotel Room,Islington,234,7.1,Good,5.8 ,-,Free cancellation
-Hotel La Place,Westminster Borough,681,8.0,Very good,2.4 ,-,Free cancellation
-The Chesterfield Mayfair,Westminster Borough,949,9.0,Superb,1.4 ,-,Free cancellation
-Citadines Barbican London,Islington,386,8.2,Very good,2.6 ,-,-
-Haven Hotel,Westminster Borough,333,7.0,Good,3.2 ,-,Free cancellation
-The Dome,Camden,286,6.6,Fair,2.4 ,-,Free cancellation
-"Radisson Blu Edwardian Bloomsbury Street Hotel, London",Camden,700,8.4,Very good,1.1 ,-,-
-Crane Court by City2Stay,City of London,740,8.4,Very good,1.5 ,-,-
-The Beaufort,Kensington and Chelsea,586,7.4,Good,2.7 ,-,-
-"Radisson Blu Edwardian Vanderbilt Hotel, London",Kensington and Chelsea,590,7.7,Good,4 ,-,-
-The Londoner,Westminster Borough,1136,9.0,Superb,0.3,-,-
-Town Hall Hotel - Shoreditch,Tower Hamlets,522,8.2,Very good,5.6 ,-,-
-The Paramount Hotel,Kensington and Chelsea,274,7.0,Good,5.1 ,-,-
-ibis London Canning Town,Newham,301,8.8,Fabulous,9.5 ,-,-
-NYX Hotel London Holborn by Leonardo Hotels,Camden,729,8.4,Very good,1.4 ,-,-
-One Hundred Shoreditch,Hackney,626,8.7,Fabulous,4 ,-,-
-City View Hotel Roman Road,Tower Hamlets,150,3.8,Fair,5.9 ,-,Free cancellation
-Kingsland Locke,Hackney,435,8.7,Fabulous,6 ,-,-
-ME London by Melia,Westminster Borough,1181,8.5,Very good,0.8 ,-,-
-"The Tower Hotel, London",Tower Hamlets,595,7.8,Good,3.8 ,-,-
-Copthorne Tara Hotel London Kensington,Kensington and Chelsea,571,6.9,Fair,4.5 ,-,-
-Park Avenue Baker Street,Westminster Borough,529,6.7,Fair,3 ,-,-
-Hotel 65,Hammersmith and Fulham,231,7.5,Good,6.6 ,-,-
-Mermaid Suite Hotel,Westminster Borough,410,7.3,Good,1.5 ,-,-
-Marlin Apartments London Bridge - Empire Square,Southwark,543,7.6,Good,2.7 ,-,Free cancellation
-Doubletree By Hilton London - Greenwich,Greenwich,429,8.2,Very good,8.3 ,-,-
-The Mad Hatter Hotel,Southwark,557,8.9,Fabulous,1.6 ,Breakfast included,-
-Moxy London Excel,Newham,278,8.2,Very good,11.8 ,-,-
-Hilton London Olympia,Kensington and Chelsea,449,7.1,Good,5.6 ,-,-
-Leman Locke,Tower Hamlets,475,8.8,Fabulous,4 ,-,-
-Hyatt Regency London Stratford,Newham,400,8.4,Very good,9.2 ,-,-
-Ravna Gora,Kensington and Chelsea,420,8.1,Very good,5.3 ,-,-
-DoubleTree by Hilton London Victoria,Westminster Borough,649,7.7,Good,1.9 ,-,-
-Marylebone Inn,Westminster Borough,577,8.2,Very good,2.7 ,-,-
-Cove Landmark Pinnacle,Tower Hamlets,388,9.0,Superb,7.2 ,-,-
-Fraser Suites Queens Gate,Kensington and Chelsea,694,7.6,Good,3.9 ,-,-
-Victoria Inn,Southwark,337,8.5,Very good,5.8 ,-,-
-BOKA Hotel,Kensington and Chelsea,384,5.1,Fair,5.2 ,-,-
-Park Plaza Victoria London,Westminster Borough,599,8.2,Very good,1.7 ,-,-
-Camden Enterprise Hotel,Camden,571,8.6,Fabulous,4.4 ,-,-
-Hilton London Hyde Park,Bayswater,574,7.3,Good,4.2 ,-,-
-The Barbican Rooms,Islington,568,7.5,Good,2.9 ,-,Free cancellation
-Canopy by Hilton London City,City of London,576,8.7,Fabulous,3.6 ,-,-
-Kingsland Locke,Hackney,435,8.7,Fabulous,6 ,-,-
-ME London by Melia,Westminster Borough,1181,8.5,Very good,0.8 ,-,-
-Citadines Barbican London,Islington,386,8.2,Very good,2.6 ,-,-
-Hampton By Hilton London Docklands,Newham,272,8.3,Very good,11.7 ,Breakfast included,-
-The Waterman's Arms,Tower Hamlets,304,8.6,Fabulous,8.6 ,-,Free cancellation
-TRIBE London Canary Wharf,Tower Hamlets,332,8.4,Very good,7.9 ,-,-
-The Z Hotel Gloucester Place,Westminster Borough,410,7.9,Good,2.4 ,-,-
-Apex City Of London Hotel,City of London,513,8.8,Fabulous,3.4 ,-,-
-Hour Glass Hotel,Southwark,218,6.9,Fair,3.8 ,-,-
-The Knaresborough by Aura Collection,Kensington and Chelsea,382,7.8,Good,4.6 ,-,-
-Croft Court Hotel,Golders Green,246,8.0,Very good,9.2 ,-,-
-Haven Hotel,Westminster Borough,333,7.0,Good,3.2 ,-,Free cancellation
-"The Hoxton, Holborn",Camden,665,8.4,Very good,1.1 ,-,Free cancellation
-198 Studios,Camden,325,8.1,Very good,6.5 ,-,-
-DoubleTree By Hilton London Excel,Newham,299,7.9,Good,11.5 ,-,-
-The Coach,Clerkenwell,504,8.2,Very good,2.2 ,-,Free cancellation
-"The Hoxton, Shepherds Bush",Hammersmith and Fulham,466,8.8,Fabulous,6.7 ,-,Free cancellation
-citizenM London Bankside,Southwark,507,8.6,Fabulous,2.1 ,-,Free cancellation
-ibis London City - Shoreditch,Tower Hamlets,490,7.9,Good,3.9 ,-,Free cancellation
-"Maldron Hotel Finsbury Park, London",Islington,430,8.5,Very good,6.4 ,-,Free cancellation
-The Z Hotel Piccadilly,Westminster Borough,468,7.9,Good,0.3,-,-
-"Holiday Inn Express Southwark, an IHG Hotel",Southwark,607,8.1,Very good,1.8 ,Breakfast included,Free cancellation
-The Z Hotel Shoreditch,Islington,369,7.8,Good,3.5 ,-,-
-Hilton London Kensington Hotel,Kensington and Chelsea,416,7.0,Good,6 ,-,-
-"Holiday Inn London - Regent's Park, an IHG Hotel",Westminster Borough,513,7.9,Good,2 ,-,-
-DoubleTree by Hilton Hotel London - Tower of London,City of London,638,7.6,Good,3.4 ,-,Free cancellation
-Kingsland Locke,Hackney,435,8.7,Fabulous,6 ,-,-
-ME London by Melia,Westminster Borough,1181,8.5,Very good,0.8 ,-,-
-Citadines Barbican London,Islington,386,8.2,Very good,2.6 ,-,-
-Hampton By Hilton London Docklands,Newham,272,8.3,Very good,11.7 ,Breakfast included,-
-The Waterman's Arms,Tower Hamlets,304,8.6,Fabulous,8.6 ,-,Free cancellation
-TRIBE London Canary Wharf,Tower Hamlets,332,8.4,Very good,7.9 ,-,-
-Cove Landmark Pinnacle,Tower Hamlets,388,9.0,Superb,7.2 ,-,-
-Camden Enterprise Hotel,Camden,571,8.6,Fabulous,4.4 ,-,-
-The Montcalm At Brewery London City,City of London,595,7.0,Good,2.9 ,-,Free cancellation
-The Piccadilly London West End,Westminster Borough,880,8.0,Very good,0.6 ,Breakfast included,Free cancellation
-The Z Hotel Gloucester Place,Westminster Borough,410,7.9,Good,2.4 ,-,-
-Apex City Of London Hotel,City of London,513,8.8,Fabulous,3.4 ,-,-
-Hotel La Place,Westminster Borough,757,8.0,Very good,2.4 ,-,Free cancellation
-Hour Glass Hotel,Southwark,218,6.9,Fair,3.8 ,-,-
-The Chesterfield Mayfair,Westminster Borough,1054,9.0,Superb,1.4 ,-,Free cancellation
-Park Grand London Kensington,Kensington and Chelsea,499,7.9,Good,4.7 ,-,-
-The Knaresborough by Aura Collection,Kensington and Chelsea,382,7.8,Good,4.6 ,-,-
-Croft Court Hotel,Golders Green,246,8.0,Very good,9.2 ,-,-
-Haven Hotel,Westminster Borough,333,7.0,Good,3.2 ,-,Free cancellation
-"The Hoxton, Holborn",Camden,665,8.4,Very good,1.1 ,-,Free cancellation
-198 Studios,Camden,325,8.1,Very good,6.5 ,-,-
-Moxy London Excel,Newham,278,8.2,Very good,11.8 ,-,-
-DoubleTree By Hilton London Excel,Newham,299,7.9,Good,11.5 ,-,-
-The Coach,Clerkenwell,504,8.2,Very good,2.2 ,-,Free cancellation
-"The Hoxton, Shepherds Bush",Hammersmith and Fulham,466,8.8,Fabulous,6.7 ,-,Free cancellation
-ibis London City - Shoreditch,Tower Hamlets,490,7.9,Good,3.9 ,-,Free cancellation
-Kingsland Locke,Hackney,435,8.7,Fabulous,6 ,-,-
-ME London by Melia,Westminster Borough,1181,8.5,Very good,0.8 ,-,-
-Citadines Barbican London,Islington,386,8.2,Very good,2.6 ,-,-
-Hampton By Hilton London Docklands,Newham,272,8.3,Very good,11.7 ,Breakfast included,-
-TRIBE London Canary Wharf,Tower Hamlets,332,8.4,Very good,7.9 ,-,-
-Leman Locke,Tower Hamlets,475,8.8,Fabulous,4 ,-,-
-Cove Landmark Pinnacle,Tower Hamlets,388,9.0,Superb,7.2 ,-,-
-The Barbican Rooms,Islington,568,7.5,Good,2.9 ,-,Free cancellation
-The Montcalm At Brewery London City,City of London,595,7.0,Good,2.9 ,-,Free cancellation
-The Piccadilly London West End,Westminster Borough,880,8.0,Very good,0.6 ,Breakfast included,Free cancellation
-Rubens At The Palace,Westminster Borough,832,8.6,Fabulous,1.5 ,-,Free cancellation
-The Z Hotel Gloucester Place,Westminster Borough,410,7.9,Good,2.4 ,-,-
-Apex City Of London Hotel,City of London,513,8.8,Fabulous,3.4 ,-,-
-Hotel La Place,Westminster Borough,757,8.0,Very good,2.4 ,-,Free cancellation
-Hour Glass Hotel,Southwark,218,6.9,Fair,3.8 ,-,-
-The Chesterfield Mayfair,Westminster Borough,1054,9.0,Superb,1.4 ,-,Free cancellation
-Park Grand London Kensington,Kensington and Chelsea,499,7.9,Good,4.7 ,-,-
-The Knaresborough by Aura Collection,Kensington and Chelsea,382,7.8,Good,4.6 ,-,-
-Haven Hotel,Westminster Borough,333,7.0,Good,3.2 ,-,Free cancellation
-"The Hoxton, Holborn",Camden,665,8.4,Very good,1.1 ,-,Free cancellation
-198 Studios,Camden,325,8.1,Very good,6.5 ,-,-
-Moxy London Excel,Newham,278,8.2,Very good,11.8 ,-,-
-DoubleTree By Hilton London Excel,Newham,299,7.9,Good,11.5 ,-,-
-The Coach,Clerkenwell,504,8.2,Very good,2.2 ,-,Free cancellation
-"The Hoxton, Shepherds Bush",Hammersmith and Fulham,466,8.8,Fabulous,6.7 ,-,Free cancellation
-citizenM London Bankside,Southwark,507,8.6,Fabulous,2.1 ,-,Free cancellation
-Kingsland Locke,Hackney,435,8.7,Fabulous,6 ,-,-
-ME London by Melia,Westminster Borough,1181,8.5,Very good,0.8 ,-,-
-Citadines Barbican London,Islington,386,8.2,Very good,2.6 ,-,-
-Hampton By Hilton London Docklands,Newham,272,8.3,Very good,11.7 ,Breakfast included,-
-The Waterman's Arms,Tower Hamlets,304,8.6,Fabulous,8.6 ,-,Free cancellation
-TRIBE London Canary Wharf,Tower Hamlets,332,8.4,Very good,7.9 ,-,-
-Leman Locke,Tower Hamlets,475,8.8,Fabulous,4 ,-,-
-Cove Landmark Pinnacle,Tower Hamlets,388,9.0,Superb,7.2 ,-,-
-Camden Enterprise Hotel,Camden,571,8.6,Fabulous,4.4 ,-,-
-The Barbican Rooms,Islington,568,7.5,Good,2.9 ,-,Free cancellation
-The Montcalm At Brewery London City,City of London,595,7.0,Good,2.9 ,-,Free cancellation
-The Piccadilly London West End,Westminster Borough,880,8.0,Very good,0.6 ,Breakfast included,Free cancellation
-Rubens At The Palace,Westminster Borough,832,8.6,Fabulous,1.5 ,-,Free cancellation
-The Z Hotel Gloucester Place,Westminster Borough,410,7.9,Good,2.4 ,-,-
-Apex City Of London Hotel,City of London,513,8.8,Fabulous,3.4 ,-,-
-Hotel La Place,Westminster Borough,757,8.0,Very good,2.4 ,-,Free cancellation
-Hour Glass Hotel,Southwark,218,6.9,Fair,3.8 ,-,-
-The Chesterfield Mayfair,Westminster Borough,1054,9.0,Superb,1.4 ,-,Free cancellation
-Park Grand London Kensington,Kensington and Chelsea,499,7.9,Good,4.7 ,-,-
-The Knaresborough by Aura Collection,Kensington and Chelsea,382,7.8,Good,4.6 ,-,-
-Croft Court Hotel,Golders Green,246,8.0,Very good,9.2 ,-,-
-Haven Hotel,Westminster Borough,333,7.0,Good,3.2 ,-,Free cancellation
-"The Hoxton, Holborn",Camden,665,8.4,Very good,1.1 ,-,Free cancellation
-198 Studios,Camden,325,8.1,Very good,6.5 ,-,-
-Moxy London Excel,Newham,278,8.2,Very good,11.8 ,-,-
-DoubleTree By Hilton London Excel,Newham,299,7.9,Good,11.5 ,-,-
-Kingsland Locke,Hackney,435,8.7,Fabulous,6 ,-,-
-ME London by Melia,Westminster Borough,1181,8.5,Very good,0.8 ,-,-
-Citadines Barbican London,Islington,386,8.2,Very good,2.6 ,-,-
-Hampton By Hilton London Docklands,Newham,272,8.3,Very good,11.7 ,Breakfast included,-
-TRIBE London Canary Wharf,Tower Hamlets,332,8.4,Very good,7.9 ,-,-
-Leman Locke,Tower Hamlets,475,8.8,Fabulous,4 ,-,-
-Camden Enterprise Hotel,Camden,571,8.6,Fabulous,4.4 ,-,-
-Cove Landmark Pinnacle,Tower Hamlets,388,9.0,Superb,7.2 ,-,-
-The Barbican Rooms,Islington,568,7.5,Good,2.9 ,-,Free cancellation
-The Montcalm At Brewery London City,City of London,595,7.0,Good,2.9 ,-,Free cancellation
-Rubens At The Palace,Westminster Borough,832,8.6,Fabulous,1.5 ,-,Free cancellation
-The Piccadilly London West End,Westminster Borough,880,8.0,Very good,0.6 ,Breakfast included,Free cancellation
-Park Grand London Kensington,Kensington and Chelsea,499,7.9,Good,4.7 ,-,-
-Croft Court Hotel,Golders Green,246,8.0,Very good,9.2 ,-,-
-The Corner London City,Tower Hamlets,409,8.1,Very good,4.3 ,-,-
-Hotel La Place,Westminster Borough,757,8.0,Very good,2.4 ,-,Free cancellation
-Central Studio Like a Hotel Room,Islington,234,7.1,Good,5.8 ,-,Free cancellation
-The Chesterfield Mayfair,Westminster Borough,1054,9.0,Superb,1.4 ,-,Free cancellation
-The Z Hotel Gloucester Place,Westminster Borough,410,7.9,Good,2.4 ,-,-
-Apex City Of London Hotel,City of London,513,8.8,Fabulous,3.4 ,-,-
-Haven Hotel,Westminster Borough,333,7.0,Good,3.2 ,-,Free cancellation
-"Club Quarters Hotel London City, London",City of London,434,7.3,Good,3 ,-,-
-198 Studios,Camden,325,8.1,Very good,6.5 ,-,-
-Moxy London Excel,Newham,278,8.2,Very good,11.8 ,-,-
-"Inhabit, Queen's Gardens",Westminster Borough,529,8.3,Very good,3.8 ,-,-
-The Coach,Clerkenwell,504,8.2,Very good,2.2 ,-,Free cancellation
-Kingsland Locke,Hackney,435,8.7,Fabulous,6 ,-,-
-ME London by Melia,Westminster Borough,1181,8.5,Very good,0.8 ,-,-
-Citadines Barbican London,Islington,386,8.2,Very good,2.6 ,-,-
-Hampton By Hilton London Docklands,Newham,272,8.3,Very good,11.7 ,Breakfast included,-
-The Waterman's Arms,Tower Hamlets,304,8.6,Fabulous,8.6 ,-,Free cancellation
-TRIBE London Canary Wharf,Tower Hamlets,332,8.4,Very good,7.9 ,-,-
-Leman Locke,Tower Hamlets,475,8.8,Fabulous,4 ,-,-
-Camden Enterprise Hotel,Camden,571,8.6,Fabulous,4.4 ,-,-
-The Barbican Rooms,Islington,568,7.5,Good,2.9 ,-,Free cancellation
-The Montcalm At Brewery London City,City of London,595,7.0,Good,2.9 ,-,Free cancellation
-The Piccadilly London West End,Westminster Borough,880,8.0,Very good,0.6 ,Breakfast included,Free cancellation
-The Beaufort,Kensington and Chelsea,652,7.4,Good,2.7 ,-,-
-Rubens At The Palace,Westminster Borough,832,8.6,Fabulous,1.5 ,-,Free cancellation
-The Z Hotel Gloucester Place,Westminster Borough,410,7.9,Good,2.4 ,-,-
-Apex City Of London Hotel,City of London,513,8.8,Fabulous,3.4 ,-,-
-Hotel La Place,Westminster Borough,757,8.0,Very good,2.4 ,-,Free cancellation
-Hour Glass Hotel,Southwark,218,6.9,Fair,3.8 ,-,-
-The Chesterfield Mayfair,Westminster Borough,1054,9.0,Superb,1.4 ,-,Free cancellation
-Park Grand London Kensington,Kensington and Chelsea,499,7.9,Good,4.7 ,-,-
-The Knaresborough by Aura Collection,Kensington and Chelsea,382,7.8,Good,4.6 ,-,-
-Croft Court Hotel,Golders Green,246,8.0,Very good,9.2 ,-,-
-Haven Hotel,Westminster Borough,333,7.0,Good,3.2 ,-,Free cancellation
-"The Hoxton, Holborn",Camden,665,8.4,Very good,1.1 ,-,Free cancellation
-198 Studios,Camden,325,8.1,Very good,6.5 ,-,-
-DoubleTree By Hilton London Excel,Newham,299,7.9,Good,11.5 ,-,-
-The Coach,Clerkenwell,504,8.2,Very good,2.2 ,-,Free cancellation
-Kingsland Locke,Hackney,435,8.7,Fabulous,6 ,-,-
-ME London by Melia,Westminster Borough,1181,8.5,Very good,0.8 ,-,-
-Citadines Barbican London,Islington,386,8.2,Very good,2.6 ,-,-
-Hampton By Hilton London Docklands,Newham,272,8.3,Very good,11.7 ,Breakfast included,-
-The Waterman's Arms,Tower Hamlets,304,8.6,Fabulous,8.6 ,-,Free cancellation
-TRIBE London Canary Wharf,Tower Hamlets,332,8.4,Very good,7.9 ,-,-
-Leman Locke,Tower Hamlets,475,8.8,Fabulous,4 ,-,-
-Cove Landmark Pinnacle,Tower Hamlets,388,9.0,Superb,7.2 ,-,-
-Camden Enterprise Hotel,Camden,571,8.6,Fabulous,4.4 ,-,-
-The Barbican Rooms,Islington,568,7.5,Good,2.9 ,-,Free cancellation
-The Montcalm At Brewery London City,City of London,595,7.0,Good,2.9 ,-,Free cancellation
-The Piccadilly London West End,Westminster Borough,880,8.0,Very good,0.6 ,Breakfast included,Free cancellation
-Rubens At The Palace,Westminster Borough,832,8.6,Fabulous,1.5 ,-,Free cancellation
-The Z Hotel Gloucester Place,Westminster Borough,410,7.9,Good,2.4 ,-,-
-Apex City Of London Hotel,City of London,513,8.8,Fabulous,3.4 ,-,-
-Hotel La Place,Westminster Borough,757,8.0,Very good,2.4 ,-,Free cancellation
-Hour Glass Hotel,Southwark,218,6.9,Fair,3.8 ,-,-
-The Chesterfield Mayfair,Westminster Borough,1054,9.0,Superb,1.4 ,-,Free cancellation
-Park Grand London Kensington,Kensington and Chelsea,499,7.9,Good,4.7 ,-,-
-The Knaresborough by Aura Collection,Kensington and Chelsea,382,7.8,Good,4.6 ,-,-
-Croft Court Hotel,Golders Green,246,8.0,Very good,9.2 ,-,-
-Haven Hotel,Westminster Borough,333,7.0,Good,3.2 ,-,Free cancellation
-"The Hoxton, Holborn",Camden,665,8.4,Very good,1.1 ,-,Free cancellation
-198 Studios,Camden,325,8.1,Very good,6.5 ,-,-
-DoubleTree By Hilton London Excel,Newham,299,7.9,Good,11.5 ,-,-
-"The Hoxton, Shepherds Bush",Hammersmith and Fulham,466,8.8,Fabulous,6.7 ,-,Free cancellation
-Kingsland Locke,Hackney,435,8.7,Fabulous,6 ,-,-
-ME London by Melia,Westminster Borough,1181,8.5,Very good,0.8 ,-,-
-Citadines Barbican London,Islington,386,8.2,Very good,2.6 ,-,-
-Hampton By Hilton London Docklands,Newham,272,8.3,Very good,11.7 ,Breakfast included,-
-The Waterman's Arms,Tower Hamlets,304,8.6,Fabulous,8.6 ,-,Free cancellation
-TRIBE London Canary Wharf,Tower Hamlets,332,8.4,Very good,7.9 ,-,-
-Leman Locke,Tower Hamlets,475,8.8,Fabulous,4 ,-,-
-Cove Landmark Pinnacle,Tower Hamlets,388,9.0,Superb,7.2 ,-,-
-Camden Enterprise Hotel,Camden,571,8.6,Fabulous,4.4 ,-,-
-The Barbican Rooms,Islington,568,7.5,Good,2.9 ,-,Free cancellation
-The Montcalm At Brewery London City,City of London,595,7.0,Good,2.9 ,-,Free cancellation
-The Piccadilly London West End,Westminster Borough,880,8.0,Very good,0.6 ,Breakfast included,Free cancellation
-Rubens At The Palace,Westminster Borough,832,8.6,Fabulous,1.5 ,-,Free cancellation
-The Z Hotel Gloucester Place,Westminster Borough,410,7.9,Good,2.4 ,-,-
-Apex City Of London Hotel,City of London,513,8.8,Fabulous,3.4 ,-,-
-Hotel La Place,Westminster Borough,757,8.0,Very good,2.4 ,-,Free cancellation
-Hour Glass Hotel,Southwark,218,6.9,Fair,3.8 ,-,-
-The Chesterfield Mayfair,Westminster Borough,1054,9.0,Superb,1.4 ,-,Free cancellation
-Park Grand London Kensington,Kensington and Chelsea,499,7.9,Good,4.7 ,-,-
-The Knaresborough by Aura Collection,Kensington and Chelsea,382,7.8,Good,4.6 ,-,-
-Croft Court Hotel,Golders Green,246,8.0,Very good,9.2 ,-,-
-Haven Hotel,Westminster Borough,333,7.0,Good,3.2 ,-,Free cancellation
-"The Hoxton, Holborn",Camden,665,8.4,Very good,1.1 ,-,Free cancellation
-198 Studios,Camden,325,8.1,Very good,6.5 ,-,-
-Moxy London Excel,Newham,278,8.2,Very good,11.8 ,-,-
-DoubleTree By Hilton London Excel,Newham,299,7.9,Good,11.5 ,-,-
-Kingsland Locke,Hackney,435,8.7,Fabulous,6 ,-,-
-ME London by Melia,Westminster Borough,1181,8.5,Very good,0.8 ,-,-
-Citadines Barbican London,Islington,386,8.2,Very good,2.6 ,-,-
-Novotel London Bridge,Southwark,630,8.4,Very good,2.3 ,-,-
-"Holiday Inn Express Southwark, an IHG Hotel",Southwark,607,8.1,Very good,1.8 ,Breakfast included,Free cancellation
-Apex Temple Court Hotel,City of London,595,8.9,Fabulous,1.5 ,-,-
-Hampton By Hilton London Docklands,Newham,272,8.3,Very good,11.7 ,Breakfast included,-
-London - Wembley International Hotel,Wembley,386,6.7,Fair,12.3 ,-,Free cancellation
-St George's Inn Victoria,Westminster Borough,520,6.7,Fair,2 ,-,-
-Camden Enterprise Hotel,Camden,571,8.6,Fabulous,4.4 ,-,-
-Courtyard by Marriott London City Airport,Newham,327,8.6,Fabulous,11.8 ,-,-
-The Waterman's Arms,Tower Hamlets,304,8.6,Fabulous,8.6 ,-,Free cancellation
-"The Hoxton, Shoreditch",Hackney,642,8.3,Very good,3.7 ,-,Free cancellation
-The Barbican Rooms,Islington,568,7.5,Good,2.9 ,-,Free cancellation
-TRIBE London Canary Wharf,Tower Hamlets,332,8.4,Very good,7.9 ,-,-
-Leman Locke,Tower Hamlets,475,8.8,Fabulous,4 ,-,-
-easyHotel London City Shoreditch,Islington,316,6.8,Fair,3 ,-,-
-Park Grand London Kensington,Kensington and Chelsea,499,7.9,Good,4.7 ,-,-
-The Knaresborough by Aura Collection,Kensington and Chelsea,382,7.8,Good,4.6 ,-,-
-The Montcalm At Brewery London City,City of London,595,7.0,Good,2.9 ,-,Free cancellation
-Milestone Hotel Kensington,Kensington and Chelsea,1180,9.4,Superb,4.1 ,-,-
-Leonardo Royal London St Paul’s,City of London,703,8.6,Fabulous,2.1 ,-,-
-The Piccadilly London West End,Westminster Borough,880,8.0,Very good,0.6 ,Breakfast included,Free cancellation
-Sloane Place,Kensington and Chelsea,866,8.6,Fabulous,2.8 ,-,-
-wembar Hotel,Kensington and Chelsea,306,5.9,Fair,5 ,-,Free cancellation
-Central Studio Like a Hotel Room,Islington,234,7.1,Good,5.8 ,-,Free cancellation
-Kingsland Locke,Hackney,435,8.7,Fabulous,6 ,-,-
-ME London by Melia,Westminster Borough,1181,8.5,Very good,0.8 ,-,-
-Citadines Barbican London,Islington,386,8.2,Very good,2.6 ,-,-
-Hampton By Hilton London Docklands,Newham,272,8.3,Very good,11.7 ,Breakfast included,-
-The Waterman's Arms,Tower Hamlets,304,8.6,Fabulous,8.6 ,-,Free cancellation
-TRIBE London Canary Wharf,Tower Hamlets,332,8.4,Very good,7.9 ,-,-
-Leman Locke,Tower Hamlets,475,8.8,Fabulous,4 ,-,-
-Cove Landmark Pinnacle,Tower Hamlets,388,9.0,Superb,7.2 ,-,-
-Camden Enterprise Hotel,Camden,571,8.6,Fabulous,4.4 ,-,-
-The Barbican Rooms,Islington,568,7.5,Good,2.9 ,-,Free cancellation
-The Montcalm At Brewery London City,City of London,595,7.0,Good,2.9 ,-,Free cancellation
-The Piccadilly London West End,Westminster Borough,880,8.0,Very good,0.6 ,Breakfast included,Free cancellation
-Rubens At The Palace,Westminster Borough,832,8.6,Fabulous,1.5 ,-,Free cancellation
-The Z Hotel Gloucester Place,Westminster Borough,410,7.9,Good,2.4 ,-,-
-Apex City Of London Hotel,City of London,513,8.8,Fabulous,3.4 ,-,-
-Hotel La Place,Westminster Borough,757,8.0,Very good,2.4 ,-,Free cancellation
-Hour Glass Hotel,Southwark,218,6.9,Fair,3.8 ,-,-
-The Chesterfield Mayfair,Westminster Borough,1054,9.0,Superb,1.4 ,-,Free cancellation
-Park Grand London Kensington,Kensington and Chelsea,499,7.9,Good,4.7 ,-,-
-The Knaresborough by Aura Collection,Kensington and Chelsea,382,7.8,Good,4.6 ,-,-
-Croft Court Hotel,Golders Green,246,8.0,Very good,9.2 ,-,-
-Haven Hotel,Westminster Borough,333,7.0,Good,3.2 ,-,Free cancellation
-"The Hoxton, Holborn",Camden,665,8.4,Very good,1.1 ,-,Free cancellation
-198 Studios,Camden,325,8.1,Very good,6.5 ,-,-
-Moxy London Excel,Newham,278,8.2,Very good,11.8 ,-,-
-DoubleTree By Hilton London Excel,Newham,299,7.9,Good,11.5 ,-,-
-Kingsland Locke,Hackney,435,8.7,Fabulous,6 ,-,-
-ME London by Melia,Westminster Borough,1181,8.5,Very good,0.8 ,-,-
-Citadines Barbican London,Islington,386,8.2,Very good,2.6 ,-,-
-Riu Plaza London Victoria,Westminster Borough,662,8.3,Very good,1.7 ,Breakfast included,-
+The BoTree - Preferred Hotels and Resorts,Westminster Borough,899,9.1,Superb,1.7 ,-,-
+Green Rooms,London,213,7.2,Good,10 ,-,-
+Gem Langham Court Hotel,Westminster Borough,547,7.1,Good,1.6 ,-,-
+The Beaufort,Kensington and Chelsea,598,7.4,Good,2.7 ,-,-
+Aptel East,Tower Hamlets,450,8.6,Fabulous,4.7 ,-,Free cancellation
+Royal National Hotel,Camden,390,7.3,Good,1.8 ,-,Free cancellation
+DoubleTree by Hilton Hotel London - Tower of London,City of London,636,7.6,Good,3.4 ,-,Free cancellation
+"The Hoxton, Holborn",Camden,664,8.4,Very good,1.1 ,-,Free cancellation
+The Bryson Hotel,Camden,478,7.6,Good,2.1 ,-,Free cancellation
+Victory House Leicester Square,Westminster Borough,624,8.0,Very good,450 m from centre,-,-
+"Inhabit, Southwick Street",Westminster Borough,587,8.0,Very good,3.1 ,-,-
+The Cleveland,Westminster Borough,439,8.2,Very good,3.9 ,-,-
+"Radisson Blu Edwardian Vanderbilt Hotel, London",Kensington and Chelsea,589,7.7,Good,4 ,-,-
+Keystone House,Islington,374,7.9,Good,2.7 ,-,-
+Hour Glass Hotel,Southwark,217,6.9,Review score,3.8 ,-,-
+Town Hall Hotel - Shoreditch,Tower Hamlets,503,8.2,Very good,5.6 ,-,-
+The Chilworth London Paddington,Westminster Borough,566,7.6,Good,3.6 ,-,-
+Eurotraveller Hotel - Premier - Tower Bridge,Southwark,374,7.5,Good,3.8 ,-,Free cancellation
+Hilton London Metropole,Westminster Borough,448,7.5,Good,3.2 ,-,-
+Queens Park Premier London Hyde Park,Westminster Borough,507,7.7,Good,4 ,-,Free cancellation
+The BoTree - Preferred Hotels and Resorts,Westminster Borough,899,9.1,Superb,1.7 ,-,-
+The Fitzrovia Belle Hotel,Camden,538,8.2,Very good,1.8 ,Breakfast included,Free cancellation
+The Royale Chulan Hyde Park Hotel,Westminster Borough,391,7.4,Good,4.5 ,-,-
+Best Western London Highbury,Hackney,300,7.7,Good,7 ,-,-
+Green Rooms,London,213,7.2,Good,10 ,-,-
+Hilton London Canary Wharf,Tower Hamlets,445,8.6,Fabulous,7.6 ,-,-
+The ULH,London,248,7.5,Good,7.7 ,-,-
+Bedford Hotel,Camden,561,7.8,Good,1.5 ,-,Free cancellation
+Days Inn Hyde Park,Westminster Borough,399,7.4,Good,3.3 ,Breakfast included,-
+The Knaresborough by Aura Collection,Kensington and Chelsea,396,7.8,Good,4.6 ,-,-
+The Chilworth London Paddington,Westminster Borough,550,7.6,Good,3.6 ,-,-
+The Z Hotel City,City of London,456,7.8,Good,1.4 ,-,-
+City View Hotel Roman Road,Tower Hamlets,150,3.8,Review score,5.9 ,-,Free cancellation
+YOTEL London Shoreditch,Tower Hamlets,457,7.6,Good,5.5 ,-,Free cancellation
+Snoozebox Olympic Park,Newham,283,8.0,Very good,8.4 ,-,-
+The Cleveland,Westminster Borough,477,8.2,Very good,3.9 ,-,-
+"Holiday Inn Express Earls Court, an IHG Hotel",Hammersmith and Fulham,406,8.2,Very good,5.7 ,Breakfast included,-
+DoubleTree by Hilton London – Docklands Riverside,Southwark,401,7.9,Good,6.5 ,-,-
+Ruby Zoe Hotel London,Kensington and Chelsea,465,8.8,Fabulous,5 ,-,-
+Eurotraveller Hotel - Premier - Tower Bridge,Southwark,407,7.5,Good,3.8 ,-,Free cancellation
+Thistle London Holborn,Camden,595,8.0,Very good,1.2 ,-,-
+Citadines Islington London,Islington,480,8.8,Fabulous,3.9 ,-,-
+The Z Hotel Piccadilly,Westminster Borough,514,7.9,Good,0.3,-,-
+City Sleeper at Royal National Hotel,Camden,605,8.1,Very good,1.8 ,-,Free cancellation
+The Landmark London,Westminster Borough,960,8.9,Fabulous,2.9 ,-,-
+The Stafford London,Westminster Borough,1025,9.0,Superb,0.9 ,-,-
+Canopy by Hilton London City,City of London,575,8.7,Fabulous,3.6 ,-,-
+Aptel East,Tower Hamlets,489,8.6,Fabulous,4.7 ,-,Free cancellation
+"Club Quarters Hotel St Paul's, London",City of London,501,7.5,Good,2 ,-,-
+Hilton London Wembley,Wembley,367,8.5,Very good,12.1 ,-,-
+The Z Hotel Shoreditch,Islington,397,7.8,Good,3.5 ,-,-
+The Fitzrovia Belle Hotel,Camden,584,8.2,Very good,1.8 ,Breakfast included,Free cancellation
+Milestone Hotel Kensington,Kensington and Chelsea,939,9.4,Superb,4.1 ,-,-
+"Signature London, The J Marylebone",Westminster Borough,718,7.9,Good,2.9 ,-,-
+Motel One London-Tower Hill,City of London,512,8.5,Very good,3.7 ,-,Free cancellation
+"Radisson Blu Edwardian New Providence Wharf Hotel, London",Tower Hamlets,642,8.8,Fabulous,8.5 ,-,-
+Beaconsfield Hotel,London,206,5.7,Review score,7.9 ,-,Free cancellation
+Eurotraveller Hotel- Express (Elephant & Castle),Southwark,344,7.6,Good,2.8 ,-,Free cancellation
+The Dilly,Westminster Borough,975,8.0,Very good,0.6 ,-,-
+Victory House Leicester Square,Westminster Borough,679,8.0,Very good,450 m from centre,-,-
+"Hux Hotel, Kensington",Kensington and Chelsea,559,8.4,Very good,4.2 ,-,Free cancellation
+"St. James' Court, A Taj Hotel, London",Westminster Borough,752,8.5,Very good,1.2 ,Breakfast included,Free cancellation
+The ULH,London,270,7.5,Good,7.7 ,-,-
+The Station Hotel,Lewisham,278,8.4,Very good,10.7 ,-,Free cancellation
+Nobu Hotel London Portman Square,Westminster Borough,1085,8.6,Fabulous,2.3 ,-,-
+Andaz London Liverpool Street - a Concept by Hyatt,City of London,700,8.7,Fabulous,3.3 ,-,Free cancellation
+Park Grand Paddington Court,Westminster Borough,449,7.0,Good,3.7 ,-,-
+Thistle London Trafalgar Square,Westminster Borough,622,8.0,Very good,300 m from centre,-,-
+Americana Hotel,Westminster Borough,374,7.1,Good,3 ,Breakfast included,-
+Tavistock Hotel,Camden,412,7.5,Good,1.9 ,-,Free cancellation
+Gem Fitzrovia Hotel,Westminster Borough,547,7.8,Good,1.9 ,-,-
+ibis London Excel-Docklands,Newham,261,7.8,Good,10.4 ,-,-
+Ruby Stella Hotel London,Camden,533,,,2.1 ,-,Free cancellation
+London Bridge Hotel,Southwark,542,8.6,Fabulous,2.7 ,Breakfast included,-
+W12 Rooms,Hammersmith and Fulham,348,8.1,Very good,6.3 ,-,-
+Best Western London Highbury,Hackney,326,7.7,Good,7 ,-,-
+The Royale Chulan Hyde Park Hotel,Westminster Borough,425,7.4,Good,4.5 ,-,-
+Best Western London Highbury,Hackney,326,7.7,Good,7 ,-,-
+"Hart Shoreditch Hotel London, Curio Collection by Hilton",Hackney,560,9.0,Superb,3.7 ,-,-
+41,Westminster Borough,1221,9.7,Exceptional,1.5 ,-,-
+Studio 64,Hackney,421,9.1,Superb,3.4 ,-,Free cancellation
+Wilde Aparthotels London Aldgate Tower Bridge,Tower Hamlets,525,9.1,Superb,4.4 ,-,-
+ibis Styles London Gloucester Road,Kensington and Chelsea,486,8.0,Very good,4.1 ,-,-
+citizenM London Victoria Station,Westminster Borough,746,8.9,Fabulous,1.7 ,-,Free cancellation
+ME London by Melia,Westminster Borough,1178,8.5,Very good,0.8 ,-,-
+"The Hoxton, Shoreditch",Hackney,641,8.3,Very good,3.7 ,-,Free cancellation
+Zedwell Underground Tottenham Court Rd,Camden,472,6.6,Review score,1.1 ,-,-
+Zedwell Greenwich,Greenwich,313,7.0,Good,8 ,-,-
+"The Hoxton, Southwark",Southwark,769,8.7,Fabulous,1.6 ,-,Free cancellation
+NoMad London,Westminster Borough,1490,9.1,Superb,0.8 ,-,-
+"The Cumberland, London",Westminster Borough,549,8.0,Very good,2.3 ,-,-
+Rhodes Hotel,Westminster Borough,510,7.3,Good,3.3 ,-,Free cancellation
+Studios next to Emirates Stadium,Islington,234,6.5,Review score,6 ,-,Free cancellation
+Aparthotel Adagio London Stratford,Newham,389,8.9,Fabulous,9.3 ,-,-
+Hotel Saint London,City of London,556,8.5,Very good,3.7 ,-,-
+Vintry & Mercer,City of London,923,9.4,Superb,2.4 ,-,Free cancellation
+Courtyard by Marriott London City Airport,Newham,326,8.6,Fabulous,11.8 ,-,-
+Lancaster Gate Hotel,Westminster Borough,491,7.8,Good,3.8 ,-,-
+Clayton Hotel Chiswick,Chiswick,368,8.4,Very good,10.6 ,-,-
+COMO The Halkin,Westminster Borough,896,9.1,Superb,1.9 ,-,Free cancellation
+Hampton by Hilton London Waterloo,Lambeth,600,8.2,Very good,1.5 ,Breakfast included,-
+Best Western Chiswick Palace & Suites London,Chiswick,341,8.0,Very good,8.7 ,-,-
+"St. James' Court, A Taj Hotel, London",Westminster Borough,752,8.5,Very good,1.2 ,Breakfast included,Free cancellation
+The ULH,London,270,7.5,Good,7.7 ,-,-
+The Station Hotel,Lewisham,278,8.4,Very good,10.7 ,-,Free cancellation
+Nobu Hotel London Portman Square,Westminster Borough,1085,8.6,Fabulous,2.3 ,-,-
+Andaz London Liverpool Street - a Concept by Hyatt,City of London,700,8.7,Fabulous,3.3 ,-,Free cancellation
+Park Grand Paddington Court,Westminster Borough,449,7.0,Good,3.7 ,-,-
+Thistle London Trafalgar Square,Westminster Borough,622,8.0,Very good,300 m from centre,-,-
+Americana Hotel,Westminster Borough,374,7.1,Good,3 ,Breakfast included,-
+Gem Fitzrovia Hotel,Westminster Borough,547,7.8,Good,1.9 ,-,-
+ibis London Excel-Docklands,Newham,261,7.8,Good,10.4 ,-,-
+Ruby Stella Hotel London,Camden,533,,,2.1 ,-,Free cancellation
+London Bridge Hotel,Southwark,542,8.6,Fabulous,2.7 ,Breakfast included,-
+W12 Rooms,Hammersmith and Fulham,348,8.1,Very good,6.3 ,-,-
+Best Western London Highbury,Hackney,326,7.7,Good,7 ,-,-
+The Royale Chulan Hyde Park Hotel,Westminster Borough,425,7.4,Good,4.5 ,-,-
+"Hart Shoreditch Hotel London, Curio Collection by Hilton",Hackney,560,9.0,Superb,3.7 ,-,-
+41,Westminster Borough,1221,9.7,Exceptional,1.5 ,-,-
+Studio 64,Hackney,421,9.1,Superb,3.4 ,-,Free cancellation
+Wilde Aparthotels London Aldgate Tower Bridge,Tower Hamlets,525,9.1,Superb,4.4 ,-,-
+ibis Styles London Gloucester Road,Kensington and Chelsea,486,8.0,Very good,4.1 ,-,-
+citizenM London Victoria Station,Westminster Borough,746,8.9,Fabulous,1.7 ,-,Free cancellation
+ME London by Melia,Westminster Borough,1178,8.5,Very good,0.8 ,-,-
+"The Hoxton, Shoreditch",Hackney,641,8.3,Very good,3.7 ,-,Free cancellation
+Zedwell Underground Tottenham Court Rd,Camden,472,6.6,Review score,1.1 ,-,-
+Zedwell Greenwich,Greenwich,313,7.0,Good,8 ,-,-
+The Gyle,Camden,807,8.3,Very good,2.4 ,-,Free cancellation
+The Bloomsbury Hotel,Camden,1087,8.9,Fabulous,1.1 ,-,Free cancellation
+Corinthia London,Westminster Borough,1978,9.2,Superb,250 m from centre,-,Free cancellation
+Hilton London Paddington,Westminster Borough,536,7.4,Good,3.5 ,-,-
+"The Westminster London, Curio Collection by Hilton",Westminster Borough,690,8.3,Very good,1.6 ,-,-
+Buckle Street Studios by Locke,Tower Hamlets,457,8.5,Very good,4 ,-,-
+President Hotel,Camden,439,7.3,Good,1.7 ,-,Free cancellation
+"Lost Property St Pauls London, Curio Collection By Hilton",City of London,591,8.7,Fabulous,2 ,-,-
+Bedford Corner Hotel,Camden,512,7.7,Good,1.3 ,-,-
+Hilton London Bankside,Southwark,623,8.9,Fabulous,1.8 ,-,-
+Sloane Square Hotel,Kensington and Chelsea,663,7.8,Good,2.6 ,-,Free cancellation
+Bermonds Locke,Southwark,492,8.9,Fabulous,3.5 ,-,-
+Thistle London Piccadilly,Westminster Borough,663,8.1,Very good,400 m from centre,-,-
+"Holiday Inn Express London Greenwich, an IHG Hotel",Greenwich,584,7.8,Good,9.7 ,Breakfast included,Free cancellation
+Grange Clarendon Hotel,Camden,598,7.0,Good,1.4 ,-,Free cancellation
+The Z Hotel Strand,Westminster Borough,526,8.5,Very good,450 m from centre,-,-
+Hyde Park Executive Apartments,Westminster Borough,359,6.3,Review score,4.1 ,-,Free cancellation
+The Marylebone Hotel,Westminster Borough,1040,8.3,Very good,1.9 ,-,Free cancellation
+The Z Hotel Soho,Westminster Borough,538,7.5,Good,0.7 ,-,-
+Hilton London Olympia,Kensington and Chelsea,448,7.1,Good,5.6 ,-,-
+Grange Beauchamp Hotel,Camden,710,7.2,Good,1.5 ,-,Free cancellation
+London Court Hotel,Kensington and Chelsea,551,8.0,Very good,4.9 ,-,-
+London Marriott Maida Vale,Camden,495,8.2,Very good,5.4 ,-,-
+The Z Hotel Holborn,Camden,503,8.1,Very good,1.1 ,-,-
+"The Clermont London, Victoria",Westminster Borough,714,8.8,Fabulous,1.8 ,-,-
+Hyde Park Executive Apartments,Westminster Borough,359,6.3,Review score,4.1 ,-,Free cancellation
+The Marylebone Hotel,Westminster Borough,1040,8.3,Very good,1.9 ,-,Free cancellation
+The Z Hotel Soho,Westminster Borough,538,7.5,Good,0.7 ,-,-
+Hilton London Olympia,Kensington and Chelsea,448,7.1,Good,5.6 ,-,-
+Paddington Court Executive Rooms,Westminster Borough,493,7.3,Good,3.7 ,-,-
+London Court Hotel,Kensington and Chelsea,551,8.0,Very good,4.9 ,-,-
+1 Hotel Mayfair,Westminster Borough,1210,9.0,Superb,1 ,-,Free cancellation
+The Z Hotel Holborn,Camden,503,8.1,Very good,1.1 ,-,-
+"The Clermont London, Victoria",Westminster Borough,714,8.8,Fabulous,1.8 ,-,-
+Raffles London at The OWO,Westminster Borough,2192,9.6,Exceptional,250 m from centre,-,Free cancellation
+The Laslett,Kensington and Chelsea,962,8.7,Fabulous,4.8 ,-,Free cancellation
+easyHotel London City Shoreditch,Islington,316,6.8,Review score,3 ,-,-
+Dockers Inn,Tower Hamlets,375,8.4,Very good,4.9 ,-,-
+nhow London,Islington,608,8.9,Fabulous,3.2 ,-,-
+Novotel London West,Hammersmith and Fulham,430,7.4,Good,6.6 ,-,-
+"Mornington Hotel London Kensington, BW Premier Collection",Kensington and Chelsea,532,8.2,Very good,4.9 ,-,-
+Staycity Aparthotels London Greenwich High Road,Greenwich,430,9.1,Superb,8.3 ,-,-
+Morton Hotel,Camden,701,8.0,Very good,1.8 ,-,Free cancellation
+Grand Royale London Hyde Park,Westminster Borough,505,6.9,Review score,4.1 ,Breakfast included,-
+City Gate Guest House,Tower Hamlets,427,7.2,Good,5.8 ,-,Free cancellation
+Thistle London Marble Arch,Westminster Borough,549,7.4,Good,2.2 ,-,-
+Aquarius Hotel,Kensington and Chelsea,267,5.6,Review score,4.8 ,-,Free cancellation
+Pestana Chelsea Bridge Hotel & SPA,Wandsworth,619,8.2,Very good,3.2 ,-,-
+Hilton London Euston,Camden,555,7.2,Good,2.1 ,-,-
+Admiral Hardy,Greenwich,547,8.7,Fabulous,8.7 ,-,Free cancellation
+NOX Belsize Park,Camden,292,7.1,Good,5.2 ,-,-
+The Ampersand Hotel,Kensington and Chelsea,996,8.9,Fabulous,3.6 ,-,Free cancellation
+The Grand at Trafalgar Square,Westminster Borough,682,8.1,Very good,100 m from centre,-,-
+Hotel Cafe Royal,Westminster Borough,2092,9.3,Superb,0.6 ,-,Free cancellation
+The Crescent Hyde Park,Westminster Borough,516,8.0,Very good,3.5 ,-,-
+Hilton London Hyde Park,Bayswater,573,7.3,Good,4.2 ,-,-
+Hampton By Hilton London Docklands,Newham,320,8.3,Very good,11.7 ,Breakfast included,-
+Norfolk Towers Paddington,Westminster Borough,433,7.6,Good,3.2 ,-,-
+"Club Quarters Hotel Covent Garden Holborn, London",Camden,619,8.0,Very good,1.2 ,-,-
+The Angel of Bow,Tower Hamlets,292,8.0,Very good,7.5 ,-,Free cancellation
+Park Plaza London Waterloo,Lambeth,608,8.2,Very good,1.4 ,-,-
+Grange Buckingham Hotel,Camden,724,7.6,Good,1.4 ,-,Free cancellation
+Canary Riverside Plaza Hotel,Tower Hamlets,800,8.4,Very good,6.9 ,Breakfast included,Free cancellation
+Megaro Hotel,Camden,817,8.3,Very good,2.5 ,-,Free cancellation
+London Hilton on Park Lane,Westminster Borough,691,7.8,Good,1.6 ,-,-
+Lansbury Heritage Hotel,Tower Hamlets,456,8.7,Fabulous,7.8 ,-,-
+Pullman London St Pancras,Camden,621,8.4,Very good,2.4 ,-,-
+Novotel London Canary Wharf,Tower Hamlets,402,8.4,Very good,7.3 ,-,-
+39 Studios,Westminster Borough,461,7.5,Good,4 ,-,-
+The Kings Head Hotel,Acton,311,7.3,Good,10.1 ,-,-
+Park Plaza Victoria London,Westminster Borough,671,8.2,Very good,1.7 ,-,-
+St Athans Hotel,Camden,350,7.3,Good,2 ,-,-
+Doubletree By Hilton London - Greenwich,Greenwich,422,8.2,Very good,8.3 ,-,-
+Hotel Shepherds Bush London,Hammersmith and Fulham,407,8.1,Very good,6.8 ,-,-
+"The Clermont London, Charing Cross",Westminster Borough,763,8.7,Fabulous,250 m from centre,-,-
+"Holiday Inn London Bloomsbury, an IHG Hotel",Camden,804,7.9,Good,1.9 ,-,Free cancellation
+NOX Belsize Park,Camden,292,7.1,Good,5.2 ,-,-
+The Ampersand Hotel,Kensington and Chelsea,996,8.9,Fabulous,3.6 ,-,Free cancellation
+The Grand at Trafalgar Square,Westminster Borough,682,8.1,Very good,100 m from centre,-,-
+Hotel Cafe Royal,Westminster Borough,2092,9.3,Superb,0.6 ,-,Free cancellation
+The Crescent Hyde Park,Westminster Borough,516,8.0,Very good,3.5 ,-,-
+Hilton London Hyde Park,Bayswater,573,7.3,Good,4.2 ,-,-
+Norfolk Towers Paddington,Westminster Borough,433,7.6,Good,3.2 ,-,-
+"Club Quarters Hotel Covent Garden Holborn, London",Camden,619,8.0,Very good,1.2 ,-,-
+The Angel of Bow,Tower Hamlets,292,8.0,Very good,7.5 ,-,Free cancellation
+Park Plaza London Waterloo,Lambeth,608,8.2,Very good,1.4 ,-,-
+Grange Buckingham Hotel,Camden,724,7.6,Good,1.4 ,-,Free cancellation
+Canary Riverside Plaza Hotel,Tower Hamlets,800,8.4,Very good,6.9 ,Breakfast included,Free cancellation
+Megaro Hotel,Camden,817,8.3,Very good,2.5 ,-,Free cancellation
+London Hilton on Park Lane,Westminster Borough,691,7.8,Good,1.6 ,-,-
+Lansbury Heritage Hotel,Tower Hamlets,456,8.7,Fabulous,7.8 ,-,-
+Pullman London St Pancras,Camden,621,8.4,Very good,2.4 ,-,-
+Novotel London Canary Wharf,Tower Hamlets,402,8.4,Very good,7.3 ,-,-
+39 Studios,Westminster Borough,461,7.5,Good,4 ,-,-
+The Kings Head Hotel,Acton,311,7.3,Good,10.1 ,-,-
+Park Plaza Victoria London,Westminster Borough,671,8.2,Very good,1.7 ,-,-
+Troy Hotel,Westminster Borough,443,7.6,Good,4 ,Breakfast included,Free cancellation
+St Athans Hotel,Camden,350,7.3,Good,2 ,-,-
+Doubletree By Hilton London - Greenwich,Greenwich,422,8.2,Very good,8.3 ,-,-
+Hotel Shepherds Bush London,Hammersmith and Fulham,407,8.1,Very good,6.8 ,-,-
+St George Hotel,Westminster Borough,333,4.9,Review score,3.3 ,Breakfast included,Free cancellation
+Taj 51 Buckingham Gate Suites and Residences,Westminster Borough,1403,9.3,Superb,1.2 ,Breakfast included,Free cancellation
+Peckham Rooms Hotel,Southwark,281,6.9,Review score,5.8 ,-,Free cancellation
+Mimi's Hotel Soho,Westminster Borough,554,7.9,Good,0.8 ,-,-
+The Hari London,Kensington and Chelsea,1313,8.9,Fabulous,2.3 ,-,Free cancellation
+Jumeirah Lowndes Hotel,Kensington and Chelsea,1072,8.0,Very good,2.3 ,-,Free cancellation
+The Berkeley,Westminster Borough,1964,9.1,Superb,2.1 ,-,Free cancellation
+The Pilgrm,Westminster Borough,500,7.7,Good,3.4 ,-,-
+The Brent Hotel - London - Wembley,Wembley,366,8.1,Very good,13.7 ,-,-
+COVE Cannon Street,City of London,475,9.1,Superb,2.4 ,-,-
+The Gate ApartHotel London,Tower Hamlets,547,8.7,Fabulous,4.2 ,-,-
+Leonardo Royal Hotel London City - Tower of London,City of London,572,8.4,Very good,3.5 ,-,-
+The California,Camden,676,7.7,Good,2.5 ,-,Free cancellation
+The William IV,Brent,373,8.1,Very good,6.7 ,Breakfast included,Free cancellation
+THE KNIGHT OF NOTTINGHILL,Kensington and Chelsea,701,8.5,Very good,5.8 ,-,Free cancellation
+The Z Hotel Trafalgar,Westminster Borough,567,8.4,Very good,0.3,-,-
+"Threadneedles, Autograph Collection",City of London,587,8.1,Very good,3 ,-,-
+Park International Hotel,Kensington and Chelsea,493,7.6,Good,4.4 ,-,-
+Regency Hotel Parkside,Westminster Borough,676,8.0,Very good,2.4 ,-,Free cancellation
+Conrad London St James,Westminster Borough,782,8.8,Fabulous,1 ,-,-
+DoubleTree by Hilton London Victoria,Westminster Borough,647,7.7,Good,1.9 ,-,-
+Good Hotel London,Newham,289,7.9,Good,10.2 ,-,-
+The Carlton Tower Jumeirah,Kensington and Chelsea,1854,8.9,Fabulous,2.4 ,-,Free cancellation
+Holmes Hotel London,Westminster Borough,692,8.6,Fabulous,2.5 ,-,-
+The Z Hotel Tottenham Court Road,Westminster Borough,573,8.0,Very good,1 ,-,-
+The Brent Hotel - London - Wembley,Wembley,337,8.1,Very good,13.7 ,-,-
+Pullman London St Pancras,Camden,621,8.4,Very good,2.4 ,-,-
+Novotel London Canary Wharf,Tower Hamlets,402,8.4,Very good,7.3 ,-,-
+39 Studios,Westminster Borough,461,7.5,Good,4 ,-,-
+Central Hoxton Shoreditch,Hackney,387,7.4,Good,4.3 ,-,-
+Park Plaza Victoria London,Westminster Borough,671,8.2,Very good,1.7 ,-,-
+Doubletree By Hilton London - Greenwich,Greenwich,422,8.2,Very good,8.3 ,-,-
+Hotel Shepherds Bush London,Hammersmith and Fulham,407,8.1,Very good,6.8 ,-,-
+Blakemore Hyde Park,Westminster Borough,509,8.2,Very good,3.9 ,-,-
+Albro House Hotel,Westminster Borough,376,7.7,Good,3.2 ,Breakfast included,-
+"The Clermont London, Charing Cross",Westminster Borough,763,8.7,Fabulous,250 m from centre,-,-
+THE KNIGHT OF NOTTINGHILL,Kensington and Chelsea,645,8.5,Very good,5.8 ,-,Free cancellation
+St George Hotel,Westminster Borough,333,4.9,Review score,3.3 ,Breakfast included,Free cancellation
+Taj 51 Buckingham Gate Suites and Residences,Westminster Borough,1403,9.3,Superb,1.2 ,Breakfast included,Free cancellation
+Mimi's Hotel Soho,Westminster Borough,535,7.9,Good,0.8 ,-,-
+The Hari London,Kensington and Chelsea,1313,8.9,Fabulous,2.3 ,-,Free cancellation
+Jumeirah Lowndes Hotel,Kensington and Chelsea,1072,8.0,Very good,2.3 ,-,Free cancellation
+Signature Townhouse London Hyde Park,Westminster Borough,736,6.9,Review score,3.7 ,-,Free cancellation
+The Berkeley,Westminster Borough,1964,9.1,Superb,2.1 ,-,Free cancellation
+The Pilgrm,Westminster Borough,500,7.7,Good,3.4 ,-,-
+COVE Cannon Street,City of London,475,9.1,Superb,2.4 ,-,-
+Great St Helen Hotel,City of London,408,7.7,Good,3.2 ,-,-
+Leonardo Royal Hotel London City - Tower of London,City of London,572,8.4,Very good,3.5 ,-,-
+Garth Hotel,Camden,249,5.2,Review score,1.6 ,-,-
+Sea Containers London,Southwark,705,8.8,Fabulous,1.5 ,-,-
+"Threadneedles, Autograph Collection",City of London,587,8.1,Very good,3 ,-,-
+Park International Hotel,Kensington and Chelsea,493,7.6,Good,4.4 ,-,-
+Regency Hotel Parkside,Westminster Borough,676,8.0,Very good,2.4 ,-,Free cancellation
+Lords Hotel,Westminster Borough,355,6.8,Review score,4.5 ,Breakfast included,-
+Conrad London St James,Westminster Borough,782,8.8,Fabulous,1 ,-,-
+The Eaton Townhouse,Westminster Borough,525,7.5,Good,1.7 ,-,-
+"The Lanesborough, Oetker Collection",Westminster Borough,2408,9.5,Exceptional,1.8 ,-,Free cancellation
+DoubleTree by Hilton London Victoria,Westminster Borough,647,7.7,Good,1.9 ,-,-
+The Carlton Tower Jumeirah,Kensington and Chelsea,1854,8.9,Fabulous,2.4 ,-,Free cancellation
+Holmes Hotel London,Westminster Borough,692,8.6,Fabulous,2.5 ,-,-
+The Z Hotel Tottenham Court Road,Westminster Borough,573,8.0,Very good,1 ,-,-
+"Holiday Inn London - Whitechapel, an IHG Hotel",Tower Hamlets,448,8.2,Very good,4.9 ,-,-
+Melia White House Hotel,West End,588,7.8,Good,2.2 ,-,-
+Lancaster Hall Hotel,Westminster Borough,517,7.9,Good,3.6 ,-,Free cancellation
+"Brown's Hotel, a Rocco Forte Hotel",Westminster Borough,1964,9.0,Superb,1 ,-,Free cancellation
+Blue Sapphire Hotel,London,430,8.0,Very good,16.9 ,-,Free cancellation
+Henrys Townhouse Marylebone,Westminster Borough,1391,10,Exceptional,2.5 ,Breakfast included,Free cancellation
+"The Pond House, Ensuite Rooms - East London Short Let's",Hackney,325,9.3,Superb,7.5 ,-,-
+Moxy London Stratford,Newham,450,8.2,Very good,9.6 ,-,-
+Three Falcons,Westminster Borough,818,8.5,Very good,3.7 ,Breakfast included,Free cancellation
+The Beaumont Hotel,Westminster Borough,1710,9.4,Superb,1.8 ,-,Free cancellation
+Marrable's Farringdon Hotel,Islington,537,8.2,Very good,2.4 ,-,-
+Sydney House Chelsea,Kensington and Chelsea,524,7.8,Good,3.5 ,-,-
+"Holiday Inn London West, an IHG Hotel",Acton,361,7.9,Good,9.5 ,-,-
+The Dorchester - Dorchester Collection,Westminster Borough,2104,9.0,Superb,1.7 ,-,Free cancellation
+Claridge's,Westminster Borough,2525,9.5,Exceptional,1.5 ,-,Free cancellation
+Sloane Square Hotel,Kensington and Chelsea,663,7.8,Good,2.6 ,-,Free cancellation
+H10 London Waterloo,Southwark,645,8.4,Very good,1.8 ,-,-
+Bermonds Locke,Southwark,492,8.9,Fabulous,3.5 ,-,-
+Thistle London Piccadilly,Westminster Borough,663,8.1,Very good,400 m from centre,-,-
+"Holiday Inn Express London Greenwich, an IHG Hotel",Greenwich,584,7.8,Good,9.7 ,Breakfast included,Free cancellation
+Grange Clarendon Hotel,Camden,598,7.0,Good,1.4 ,-,Free cancellation
+Opulence Boutique Hotel,Westminster Borough,491,4.8,Review score,2.4 ,-,Free cancellation
+Hyde Park Boutique Hotel,Westminster Borough,433,6.8,Review score,4 ,-,-
+The Z Hotel Strand,Westminster Borough,526,8.5,Very good,450 m from centre,-,-
+The Marylebone Hotel,Westminster Borough,1040,8.3,Very good,1.9 ,-,Free cancellation
+Hotel Cavendish,Camden,473,6.5,Review score,1.7 ,Breakfast included,-
+The Z Hotel Soho,Westminster Borough,538,7.5,Good,0.7 ,-,-
+Hilton London Olympia,Kensington and Chelsea,448,7.1,Good,5.6 ,-,-
+Paddington Court Executive Rooms,Westminster Borough,493,7.3,Good,3.7 ,-,-
+Grange Beauchamp Hotel,Camden,710,7.2,Good,1.5 ,-,Free cancellation
+London Court Hotel,Kensington and Chelsea,551,8.0,Very good,4.9 ,-,-
+London Marriott Maida Vale,Camden,495,8.2,Very good,5.4 ,-,-
+1 Hotel Mayfair,Westminster Borough,1210,9.0,Superb,1 ,-,Free cancellation
+The Z Hotel Holborn,Camden,503,8.1,Very good,1.1 ,-,-
+"The Clermont London, Victoria",Westminster Borough,714,8.8,Fabulous,1.8 ,-,-
+The Marble Arch London,Westminster Borough,568,6.3,Review score,2.4 ,-,-
+Raffles London at The OWO,Westminster Borough,2192,9.6,Exceptional,250 m from centre,-,Free cancellation
+The Laslett,Kensington and Chelsea,962,8.7,Fabulous,4.8 ,-,Free cancellation
+Dockers Inn,Tower Hamlets,375,8.4,Very good,4.9 ,-,-
+Hyatt Regency London Blackfriars,City of London,711,8.2,Very good,1.7 ,-,-
+Doubletree By Hilton London Kensington,Kensington and Chelsea,663,7.3,Good,4.1 ,-,-
+Lords Hotel,Westminster Borough,355,6.8,Review score,4.5 ,Breakfast included,-
+Central Hoxton Shoreditch,Hackney,421,7.4,Good,4.3 ,-,-
+Hyatt Regency London Albert Embankment,Lambeth,610,8.5,Very good,1.8 ,-,-
+ibis London Blackfriars,Southwark,465,7.9,Good,1.6 ,-,-
+King Solomon Hotel- Golders Green,Golders Green,191,6.0,Review score,9.2 ,-,-
+The Langham London,Westminster Borough,1197,9.2,Superb,1.6 ,-,-
+"Hotel Indigo London - Kensington, an IHG Hotel",Kensington and Chelsea,643,8.3,Very good,4.7 ,-,-
+The Westin London City,City of London,867,8.8,Fabulous,2.3 ,-,-
+My Place Hotel,Kensington and Chelsea,380,6.2,Review score,4.9 ,Breakfast included,Free cancellation
+Danubius Hotel Regents Park,Westminster Borough,555,8.2,Very good,3.7 ,-,-
+The LaLit London - Small Luxury Hotel of the World,Southwark,616,8.5,Very good,3.4 ,-,-
+NOX Kensington,Kensington and Chelsea,355,7.4,Good,5.7 ,-,-
+Mama Shelter London - Shoreditch,Tower Hamlets,515,8.4,Very good,5.3 ,-,-
+W London,Westminster Borough,999,8.6,Fabulous,450 m from centre,-,-
+Selina Camden,Camden,404,7.9,Good,4.4 ,-,-
+Best Western Swiss Cottage Hotel,Camden,466,7.9,Good,5.2 ,-,-
+"Page8, Page Hotels",Westminster Borough,906,9.0,Superb,250 m from centre,-,-
+Novotel London Greenwich,Greenwich,436,7.5,Good,8.6 ,-,-
+The Sanctuary House Hotel,Westminster Borough,755,8.6,Fabulous,0.9 ,-,-
+Albro House Hotel,Westminster Borough,398,7.7,Good,3.2 ,Breakfast included,-
+The Academy - Small Luxury Hotels of the World,Camden,843,8.1,Very good,1.5 ,Breakfast included,-
+Mornington Victor Hotel London Belgravia,Westminster Borough,573,8.0,Very good,2 ,-,-
+Admiral Hotel at Park Avenue,Westminster Borough,469,6.9,Review score,3.2 ,Breakfast included,-
+ibis London Shepherds Bush - Hammersmith,Hammersmith and Fulham,418,7.9,Good,6.4 ,-,-
+The Eaton Townhouse,Westminster Borough,525,7.5,Good,1.7 ,-,-
+The Resident Soho,Westminster Borough,736,8.9,Fabulous,0.9 ,-,-
+The Mad Hatter Hotel,Southwark,555,8.9,Fabulous,1.6 ,Breakfast included,-
+Residence Inn by Marriott London Kensington,Kensington and Chelsea,574,7.9,Good,5.4 ,Breakfast included,-
+Quality Hotel Hampstead,Camden,465,8.0,Very good,6 ,Breakfast included,-
+Nobu Hotel London Shoreditch,Hackney,700,8.5,Very good,3.7 ,-,-
+Sanderson London,Westminster Borough,769,8.3,Very good,1.3 ,-,-
+Pelican London Hotel and Residence,Wandsworth,334,7.7,Good,9.7 ,-,-
+Mondrian London Shoreditch,Hackney,673,8.6,Fabulous,3.7 ,-,-
+"Hotel Indigo London - 1 Leicester Square, an IHG Hotel",Westminster Borough,723,7.7,Good,400 m from centre,-,-
+"The Trafalgar St. James, London Curio collection by Hilton",Westminster Borough,1041,8.9,Fabulous,100 m from centre,-,-
+Hyatt Regency London Blackfriars,City of London,711,8.2,Very good,1.7 ,-,-
+Doubletree By Hilton London Kensington,Kensington and Chelsea,663,7.3,Good,4.1 ,-,-
+Lords Hotel,Westminster Borough,355,6.8,Review score,4.5 ,Breakfast included,-
+Central Hoxton Shoreditch,Hackney,421,7.4,Good,4.3 ,-,-
+Hyatt Regency London Albert Embankment,Lambeth,610,8.5,Very good,1.8 ,-,-
+ibis London Blackfriars,Southwark,465,7.9,Good,1.6 ,-,-
+King Solomon Hotel- Golders Green,Golders Green,191,6.0,Review score,9.2 ,-,-
+The Langham London,Westminster Borough,1197,9.2,Superb,1.6 ,-,-
+"Hotel Indigo London - Kensington, an IHG Hotel",Kensington and Chelsea,643,8.3,Very good,4.7 ,-,-
+The Westin London City,City of London,867,8.8,Fabulous,2.3 ,-,-
+Citadines South Kensington London,Kensington and Chelsea,610,7.9,Good,4 ,-,-
+My Place Hotel,Kensington and Chelsea,380,6.2,Review score,4.9 ,Breakfast included,Free cancellation
+"Montcalm East, Autograph Collection",Hackney,681,8.6,Fabulous,3.5 ,-,-
+Aspen Hotel,Westminster Borough,457,7.3,Good,3.3 ,-,-
+Balmoral House Hotel,Westminster Borough,481,7.6,Good,3.3 ,Breakfast included,-
+Mabledon Court Hotel,Camden,368,6.4,Review score,2.3 ,Breakfast included,-
+Heeton Concept Hotel – Luma Hammersmith,Hammersmith and Fulham,515,7.8,Good,7.1 ,-,-
+Blandford Hotel,Westminster Borough,583,7.5,Good,2.5 ,Breakfast included,-
+The Omega Hotel,Westminster Borough,547,7.7,Good,3.2 ,Breakfast included,-
+KX Rooms Kings Cross,Camden,268,6.6,Review score,2.4 ,-,-
+Forest House Hotel,London,295,8.2,Very good,11.7 ,-,-
+Pembridge Palace Hotel,Westminster Borough,503,8.0,Very good,4.5 ,-,-
+The Exhibitionist Hotel,Kensington and Chelsea,676,8.4,Very good,3.7 ,-,-
+54 Queen's Gate Hotel,Kensington and Chelsea,688,8.7,Fabulous,3.8 ,-,-
+Sheraton Grand London Park Lane,Westminster Borough,793,8.2,Very good,1.4 ,-,-
+The Guardsman - Preferred Hotels and Resorts,Westminster Borough,973,9.0,Superb,1.2 ,-,-
+Baglioni Hotel London - The Leading Hotels of the World,Kensington and Chelsea,1327,8.8,Fabulous,4 ,Breakfast included,-
+Sofitel London St James,Westminster Borough,1262,9.1,Superb,0.3,-,-
+Montagu Place Hotel,Westminster Borough,734,8.0,Very good,2.5 ,-,-
+La Suite West - Hyde Park,Westminster Borough,650,7.8,Good,4.1 ,-,-
+"Radisson Blu Edwardian Mercer Street Hotel, London",Camden,905,8.8,Fabulous,0.7 ,-,-
+Hatton Homes - Thackeray Avenue,London,158,,,10.7 ,-,-
+"Holiday Inn London Camden Lock, an IHG Hotel",Camden,674,8.2,Very good,3.9 ,-,-
+Sloane Place,Kensington and Chelsea,855,8.6,Fabulous,2.8 ,-,-
+St Giles London – A St Giles Hotel,Camden,439,6.9,Review score,1.2 ,-,-
+Queens Hotel,Hackney,430,7.0,Good,6.8 ,Breakfast included,-
+"11 Cadogan Gardens, The Apartments and The Chelsea Townhouse by Iconic Luxury Hotels",Kensington and Chelsea,840,8.5,Very good,2.7 ,-,-
+Millennium & Copthorne Hotels at Chelsea Football Club,Hammersmith and Fulham,504,7.8,Good,5.2 ,-,-
+Karma Sanctum Soho Hotel,Westminster Borough,801,8.4,Very good,0.9 ,-,-
+Hotel 63,Westminster Borough,605,8.3,Very good,3.4 ,Breakfast included,Free cancellation
+The Shoreditch Inn,Tower Hamlets,555,7.7,Good,4.1 ,Breakfast included,-
+Marlin Apartments Commercial Road - Limehouse,Tower Hamlets,432,7.8,Good,5.9 ,-,Free cancellation
+The Henrietta Hotel,Westminster Borough,1013,8.9,Fabulous,450 m from centre,-,-
+StayInn Holborn,Camden,663,7.0,Good,2 ,-,-
+Althoff St James's Hotel & Club London,Westminster Borough,939,8.0,Very good,0.9 ,-,-
+Marylebone Inn,Westminster Borough,644,8.2,Very good,2.7 ,-,-
+DoubleTree by Hilton London – Docklands Riverside,Southwark,401,7.9,Good,6.5 ,-,-
+The Athenaeum Hotel & Residences,Westminster Borough,1037,8.5,Very good,1.4 ,-,-
+54 Queen's Gate Hotel,Kensington and Chelsea,765,8.7,Fabulous,3.8 ,-,-
+Thistle London Bloomsbury Park,Camden,432,6.9,Review score,1.5 ,-,-
+Flemings Mayfair - Small Luxury Hotel of the World,Westminster Borough,972,8.7,Fabulous,1.2 ,-,-
+NOX Edgware Road,Westminster Borough,442,8.0,Very good,3.6 ,-,-
+Seraphine Hammersmith Hotel,Hammersmith and Fulham,526,7.9,Good,7.2 ,-,-
+Admiral Hotel at Park Avenue,Westminster Borough,521,6.9,Review score,3.2 ,Breakfast included,-
+Argo Hotel - Kings Cross,Camden,608,7.8,Good,2.4 ,-,-
+Ashburn Hotel,Kensington and Chelsea,654,8.0,Very good,4.2 ,-,-
+KingswayPark Hotel at Park Avenue,Westminster Borough,428,7.2,Good,3.2 ,Breakfast included,-
+Native Hyde Park,Westminster Borough,667,7.6,Good,3.4 ,-,-
+44 Curzon Street by Mansley,Westminster Borough,771,8.4,Very good,1.3 ,-,-
+Sonder The Voyage,Westminster Borough,564,7.6,Good,3.3 ,-,Free cancellation
+Grand Plaza Serviced Apartments,Westminster Borough,513,7.7,Good,4.4 ,-,-
+Forest House Hotel,London,319,8.2,Very good,11.7 ,-,-
+NOX West End Lane I,Camden,282,7.2,Good,6.7 ,-,-
+Astor Court Hotel,Westminster Borough,542,8.3,Very good,1.7 ,Breakfast included,Free cancellation
+NOX West Hampstead,Camden,324,8.1,Very good,6.6 ,-,-
+"The Dixon, Tower Bridge, Autograph Collection",Southwark,736,8.6,Fabulous,3.6 ,-,-
+Chateau Denmark,Westminster Borough,955,8.7,Fabulous,0.9 ,-,-
+Snoozebox Olympic Park,Newham,283,8.0,Very good,8.4 ,-,-
+JW Marriott Grosvenor House London,Westminster Borough,962,8.2,Very good,1.9 ,-,-
+Karma Sanctum Soho Hotel,Westminster Borough,801,8.4,Very good,0.9 ,-,-
+Hotel 63,Westminster Borough,605,8.3,Very good,3.4 ,Breakfast included,Free cancellation
+The Cleveland,Westminster Borough,477,8.2,Very good,3.9 ,-,-
+Marlin Apartments Commercial Road - Limehouse,Tower Hamlets,432,7.8,Good,5.9 ,-,Free cancellation
+StayInn Holborn,Camden,663,7.0,Good,2 ,-,-
+Althoff St James's Hotel & Club London,Westminster Borough,939,8.0,Very good,0.9 ,-,-
+"Holiday Inn Express Earls Court, an IHG Hotel",Hammersmith and Fulham,406,8.2,Very good,5.7 ,Breakfast included,-
+Marylebone Inn,Westminster Borough,644,8.2,Very good,2.7 ,-,-
+DoubleTree by Hilton London – Docklands Riverside,Southwark,401,7.9,Good,6.5 ,-,-
+The Athenaeum Hotel & Residences,Westminster Borough,1037,8.5,Very good,1.4 ,-,-
+Roseate House London,Westminster Borough,809,8.5,Very good,3.5 ,-,-
+Thistle London Bloomsbury Park,Camden,432,6.9,Review score,1.5 ,-,-
+Flemings Mayfair - Small Luxury Hotel of the World,Westminster Borough,972,8.7,Fabulous,1.2 ,-,-
+NOX Edgware Road,Westminster Borough,442,8.0,Very good,3.6 ,-,-
+The Standard London,Camden,828,8.6,Fabulous,2.4 ,-,-
+The House of Toby,Camden,631,7.6,Good,2.4 ,-,-
+Seraphine Hammersmith Hotel,Hammersmith and Fulham,526,7.9,Good,7.2 ,-,-
+City View Hotel Stratford,Newham,229,4.5,Review score,9.9 ,Breakfast included,Free cancellation
+Argo Hotel - Kings Cross,Camden,608,7.8,Good,2.4 ,-,-
+Thistle London Bloomsbury Park,Camden,432,6.9,Review score,1.5 ,-,-
+Flemings Mayfair - Small Luxury Hotel of the World,Westminster Borough,972,8.7,Fabulous,1.2 ,-,-
+NOX Edgware Road,Westminster Borough,442,8.0,Very good,3.6 ,-,-
+The Standard London,Camden,828,8.6,Fabulous,2.4 ,-,-
+The House of Toby,Camden,631,7.6,Good,2.4 ,-,-
+Seraphine Hammersmith Hotel,Hammersmith and Fulham,526,7.9,Good,7.2 ,-,-
+City View Hotel Stratford,Newham,229,4.5,Review score,9.9 ,Breakfast included,Free cancellation
+Argo Hotel - Kings Cross,Camden,608,7.8,Good,2.4 ,-,-
+KingswayPark Hotel at Park Avenue,Westminster Borough,428,7.2,Good,3.2 ,Breakfast included,-
+Native Hyde Park,Westminster Borough,667,7.6,Good,3.4 ,-,-
+44 Curzon Street by Mansley,Westminster Borough,771,8.4,Very good,1.3 ,-,-
+Sonder The Voyage,Westminster Borough,564,7.6,Good,3.3 ,-,Free cancellation
+Grand Plaza Serviced Apartments,Westminster Borough,513,7.7,Good,4.4 ,-,-
+NOX West End Lane I,Camden,282,7.2,Good,6.7 ,-,-
+Best Western Northfields Ealing Hotel,Ealing,450,8.1,Very good,13 ,-,-
+The Fox & Goose Hotel,Ealing,534,9.1,Superb,12 ,Breakfast included,-
+"St. Ermin's Hotel, Autograph Collection",Westminster Borough,1011,9.1,Superb,1 ,-,-
+St George's Hotel - Wembley,Wembley,467,7.2,Good,12.2 ,-,-
+The W14 Kensington,Hammersmith and Fulham,448,7.6,Good,6 ,-,-
+Hotel Xanadu,Ealing,399,8.2,Very good,12.3 ,-,-
+Fraser Suites Queens Gate,Kensington and Chelsea,693,7.6,Good,3.9 ,-,-
+Kensington Rooms - Warwick Road,Kensington and Chelsea,447,7.6,Good,5.2 ,-,Free cancellation
+Park Avenue Inn Craven London Hyde Park,Westminster Borough,391,4.9,Review score,3.6 ,-,Free cancellation
+Queens Park Hotel,Westminster Borough,442,5.7,Review score,4 ,-,Free cancellation
+The Jade,Kensington and Chelsea,584,7.8,Good,4.7 ,-,-
+NOX West Hampstead,Camden,324,8.1,Very good,6.6 ,-,-
+"The Dixon, Tower Bridge, Autograph Collection",Southwark,736,8.6,Fabulous,3.6 ,-,-
+Chateau Denmark,Westminster Borough,955,8.7,Fabulous,0.9 ,-,-
+JW Marriott Grosvenor House London,Westminster Borough,962,8.2,Very good,1.9 ,-,-
+Karma Sanctum Soho Hotel,Westminster Borough,801,8.4,Very good,0.9 ,-,-
+Hotel 63,Westminster Borough,605,8.3,Very good,3.4 ,Breakfast included,Free cancellation
+Marlin Apartments Commercial Road - Limehouse,Tower Hamlets,432,7.8,Good,5.9 ,-,Free cancellation
+The Henrietta Hotel,Westminster Borough,1013,8.9,Fabulous,450 m from centre,-,-
+StayInn Holborn,Camden,663,7.0,Good,2 ,-,-
+Althoff St James's Hotel & Club London,Westminster Borough,939,8.0,Very good,0.9 ,-,-
+Marylebone Inn,Westminster Borough,644,8.2,Very good,2.7 ,-,-
+The Athenaeum Hotel & Residences,Westminster Borough,1037,8.5,Very good,1.4 ,-,-
+Roseate House London,Westminster Borough,809,8.5,Very good,3.5 ,-,-
+Thistle London Bloomsbury Park,Camden,432,6.9,Review score,1.5 ,-,-
+Flemings Mayfair - Small Luxury Hotel of the World,Westminster Borough,972,8.7,Fabulous,1.2 ,-,-
+NOX Edgware Road,Westminster Borough,442,8.0,Very good,3.6 ,-,-
+The Standard London,Camden,828,8.6,Fabulous,2.4 ,-,-
+The House of Toby,Camden,631,7.6,Good,2.4 ,-,-
+Seraphine Hammersmith Hotel,Hammersmith and Fulham,526,7.9,Good,7.2 ,-,-
+City View Hotel Stratford,Newham,229,4.5,Review score,9.9 ,Breakfast included,Free cancellation
+Argo Hotel - Kings Cross,Camden,608,7.8,Good,2.4 ,-,-
+Ashburn Hotel,Kensington and Chelsea,654,8.0,Very good,4.2 ,-,-
+KingswayPark Hotel at Park Avenue,Westminster Borough,428,7.2,Good,3.2 ,Breakfast included,-
+Native Hyde Park,Westminster Borough,667,7.6,Good,3.4 ,-,-
+44 Curzon Street by Mansley,Westminster Borough,771,8.4,Very good,1.3 ,-,-
+Best Western Northfields Ealing Hotel,Ealing,450,8.1,Very good,13 ,-,-
+The Fox & Goose Hotel,Ealing,534,9.1,Superb,12 ,Breakfast included,-
+"St. Ermin's Hotel, Autograph Collection",Westminster Borough,1011,9.1,Superb,1 ,-,-
+St George's Hotel - Wembley,Wembley,467,7.2,Good,12.2 ,-,-
+The W14 Kensington,Hammersmith and Fulham,448,7.6,Good,6 ,-,-
+Hotel Xanadu,Ealing,399,8.2,Very good,12.3 ,-,-
+Fraser Suites Queens Gate,Kensington and Chelsea,693,7.6,Good,3.9 ,-,-
+Kensington Rooms - Warwick Road,Kensington and Chelsea,447,7.6,Good,5.2 ,-,Free cancellation
+Park Avenue Inn Craven London Hyde Park,Westminster Borough,391,4.9,Review score,3.6 ,-,Free cancellation
+Queens Park Hotel,Westminster Borough,442,5.7,Review score,4 ,-,Free cancellation
+The Jade,Kensington and Chelsea,584,7.8,Good,4.7 ,-,-
+London Marriott Hotel County Hall,Lambeth,1094,8.4,Very good,0.9 ,-,-
+Leigh House Hotel,Camden,538,7.3,Good,2.1 ,-,-
+Euro Hotel,Camden,762,8.0,Very good,2.1 ,Breakfast included,-
+Kip Hotel,Hackney,459,7.4,Good,6.7 ,-,-
+Park Grand London Lancaster Gate,Westminster Borough,660,7.3,Good,3.7 ,-,-
+"The Capital Hotel, Apartments & Townhouse",Kensington and Chelsea,899,8.3,Very good,2.5 ,-,-
+"Holiday Inn Express London Stratford, an IHG Hotel",Newham,362,8.4,Very good,9.1 ,Breakfast included,-
+Best Western Corona Hotel,Westminster Borough,619,7.3,Good,2.1 ,-,-
+St. Pancras Renaissance Hotel London,Camden,919,7.8,Good,2.5 ,-,-
+City Lodge,Islington,304,7.0,Good,3.1 ,-,-
+The Leonard Hotel,Westminster Borough,619,7.6,Good,2.2 ,-,-
+easyHotel Victoria,Westminster Borough,327,5.7,Review score,2 ,-,-
+Ealing Residency,Ealing,362,9.2,Superb,12.8 ,-,Free cancellation
+Garden Court Hotel,Westminster Borough,625,7.5,Good,4.4 ,Breakfast included,-
+The ULH,London,270,7.5,Good,7.7 ,-,-
+The Queens Gate Hotel,Kensington and Chelsea,836,8.3,Very good,3.8 ,-,-
+"Huttons Hotel, Victoria London",Westminster Borough,646,7.0,Good,2 ,-,-
+Hotel Olympia,Kensington and Chelsea,240,4.3,Review score,5 ,-,-
+The Goodenough Hotel London,Camden,903,8.0,Very good,2.1 ,-,-
+Marlin Apartments London Bridge - Empire Square,Southwark,554,7.6,Good,2.7 ,-,Free cancellation
+The Goring,Westminster Borough,1510,9.2,Superb,1.7 ,-,-
+Dukes London,Westminster Borough,1316,8.3,Very good,0.8 ,-,-
+The Franklin London - Starhotels Collezione,Kensington and Chelsea,1152,8.3,Very good,3.1 ,-,-
+City London Hotel,Southwark,364,7.5,Good,2 ,-,-
+Malmaison London,Islington,534,8.1,Very good,2.4 ,-,-
+The Portico Hotel,Westminster Borough,694,7.9,Good,2.2 ,-,-
+NOX Waterloo,Lambeth,465,8.2,Very good,1.3 ,-,-
+Amber Residence Aparthotel,Westminster Borough,641,7.2,Good,2.4 ,-,-
+The Pelham London - Starhotels Collezione,Kensington and Chelsea,1020,8.3,Very good,3.6 ,-,-
+Cheval Gloucester Park at Kensington,Kensington and Chelsea,1267,9.3,Superb,4.2 ,-,-
+Centel - Excellent Stay in London Zone 1,Southwark,316,6.0,Review score,3.1 ,-,Free cancellation
+Sleepy Joes,Hackney,958,8.9,Fabulous,3.8 ,-,-
+The Mandrake,Westminster Borough,1517,8.5,Very good,1.3 ,-,-
+L'oscar London,Camden,1157,9.3,Superb,1.3 ,-,-
+The Rookery,Islington,746,9.2,Superb,2.2 ,-,Free cancellation
+Cheval Three Quays at The Tower of London,City of London,1378,9.4,Superb,3.3 ,-,-
+King garden hotel,Kensington and Chelsea,281,3.3,Review score,3.8 ,-,Free cancellation
+New Market Ale House,Camden,244,3.8,Review score,4 ,-,Free cancellation
+The Abbey Notting Hill,Kensington and Chelsea,433,7.7,Good,4.8 ,-,-
+The Sumner Hotel,Westminster Borough,571,7.4,Good,2.5 ,-,Free cancellation
+Collingham Serviced Apartments,Kensington and Chelsea,816,8.8,Fabulous,4.5 ,-,-
+"The Park Tower Knightsbridge, a Luxury Collection Hotel, London",Westminster Borough,972,7.5,Good,2.3 ,-,-
+Angel Townhouse,Islington,565,8.1,Very good,4.1 ,-,-
+Dao by Dorsett West London,Hammersmith and Fulham,664,8.4,Very good,6.7 ,-,-
+Hampton By Hilton London City,Tower Hamlets,852,8.5,Very good,4.1 ,Breakfast included,-
+St. David's Hotels Paddington,Westminster Borough,392,7.0,Good,3.3 ,-,-
+1 Lexham Gardens Hotel,Kensington and Chelsea,341,6.1,Review score,4.6 ,-,-
+"The Biltmore Mayfair, LXR Hotels & Resorts",Westminster Borough,1473,8.9,Fabulous,1.7 ,-,-
+Beaufort House - Knightsbridge,Kensington and Chelsea,1052,9.2,Superb,2.8 ,-,-
+The Gore London - Starhotels Collezione,Kensington and Chelsea,947,8.2,Very good,3.7 ,-,-
+The Darlington Hyde Park,Westminster Borough,540,8.1,Very good,3.2 ,Breakfast included,Free cancellation
+Marlin Waterloo,Lambeth,604,8.0,Very good,1.4 ,-,Free cancellation
+The Adria,Kensington and Chelsea,978,9.1,Superb,3.9 ,-,-
+Oliver Plaza Hotel,Kensington and Chelsea,736,8.1,Very good,5 ,-,-
+One Aldwych,Westminster Borough,1683,9.4,Superb,0.8 ,-,-
+Hotel Lily,Hammersmith and Fulham,202,4.2,Review score,5.4 ,-,-
+The J Hyde Park - A Park Avenue Hotel,Westminster Borough,682,7.1,Good,4.4 ,-,-
+The Queens Gate Hotel,Kensington and Chelsea,836,8.3,Very good,3.8 ,-,-
+"Huttons Hotel, Victoria London",Westminster Borough,646,7.0,Good,2 ,-,-
+Hotel Olympia,Kensington and Chelsea,240,4.3,Review score,5 ,-,-
+The Goodenough Hotel London,Camden,903,8.0,Very good,2.1 ,-,-
+Marlin Apartments London Bridge - Empire Square,Southwark,554,7.6,Good,2.7 ,-,Free cancellation
+The Goring,Westminster Borough,1510,9.2,Superb,1.7 ,-,-
+Dukes London,Westminster Borough,1316,8.3,Very good,0.8 ,-,-
+Dukes London,Westminster Borough,1316,8.3,Very good,0.8 ,-,-
+The Franklin London - Starhotels Collezione,Kensington and Chelsea,1152,8.3,Very good,3.1 ,-,-
+City London Hotel,Southwark,364,7.5,Good,2 ,-,-
+Malmaison London,Islington,534,8.1,Very good,2.4 ,-,-
+The Portico Hotel,Westminster Borough,694,7.9,Good,2.2 ,-,-
+NOX Waterloo,Lambeth,465,8.2,Very good,1.3 ,-,-
+Amber Residence Aparthotel,Westminster Borough,641,7.2,Good,2.4 ,-,-
+The Pelham London - Starhotels Collezione,Kensington and Chelsea,1020,8.3,Very good,3.6 ,-,-
+Cheval Gloucester Park at Kensington,Kensington and Chelsea,1267,9.3,Superb,4.2 ,-,-
+Centel - Excellent Stay in London Zone 1,Southwark,316,6.0,Review score,3.1 ,-,Free cancellation
+Cheval Knightsbridge,Kensington and Chelsea,1306,9.0,Superb,2.8 ,-,-
+Arch Hotel,Islington,507,6.9,Review score,6.3 ,-,-
+Sleepy Joes,Hackney,958,8.9,Fabulous,3.8 ,-,-
+The Mandrake,Westminster Borough,1517,8.5,Very good,1.3 ,-,-
+L'oscar London,Camden,1157,9.3,Superb,1.3 ,-,-
+The Rookery,Islington,746,9.2,Superb,2.2 ,-,Free cancellation
+Cheval Three Quays at The Tower of London,City of London,1378,9.4,Superb,3.3 ,-,-
+King garden hotel,Kensington and Chelsea,281,3.3,Review score,3.8 ,-,Free cancellation
+New Market Ale House,Camden,244,3.8,Review score,4 ,-,Free cancellation
+The Abbey Notting Hill,Kensington and Chelsea,433,7.7,Good,4.8 ,-,-
+Farringdon Laceby apartments,Islington,821,8.4,Very good,2.2 ,-,-
+Argyle Square Hotel,Camden,605,6.9,Review score,2.5 ,-,-
+Manor House London,London,181,6.4,Review score,11.6 ,-,-
+Sanctum Regent's Park,Westminster Borough,990,9.0,Superb,4.2 ,-,-
+The Brookmill,Lewisham,326,8.7,Fabulous,8.4 ,-,-
+The Portico Hotel,Westminster Borough,694,7.9,Good,2.2 ,-,-
+NOX Waterloo,Lambeth,465,8.2,Very good,1.3 ,-,-
+Amber Residence Aparthotel,Westminster Borough,641,7.2,Good,2.4 ,-,-
+The Pelham London - Starhotels Collezione,Kensington and Chelsea,1020,8.3,Very good,3.6 ,-,-
+Cheval Gloucester Park at Kensington,Kensington and Chelsea,1267,9.3,Superb,4.2 ,-,-
+Cheval Knightsbridge,Kensington and Chelsea,1306,9.0,Superb,2.8 ,-,-
+Sleepy Joes,Hackney,958,8.9,Fabulous,3.8 ,-,-
+The Melita,Westminster Borough,693,8.1,Very good,2.1 ,-,-
+London comfy doubles,London,315,7.2,Good,9.9 ,-,-
+L'oscar London,Camden,1157,9.3,Superb,1.3 ,-,-
+The Rookery,Islington,746,9.2,Superb,2.2 ,-,Free cancellation
+Cheval Three Quays at The Tower of London,City of London,1378,9.4,Superb,3.3 ,-,-
+Hatton Garden Hotel,Camden,522,8.0,Very good,1.9 ,-,-
+Sanctum Regent's Park,Westminster Borough,911,9.0,Superb,4.2 ,-,-
+Melbourne House Hotel,Westminster Borough,473,8.2,Very good,2 ,-,-
+The Abbey Notting Hill,Kensington and Chelsea,433,7.7,Good,4.8 ,-,-
+Argyle Square Hotel,Camden,605,6.9,Review score,2.5 ,-,-
+Manor House London,London,181,6.4,Review score,11.6 ,-,-
+The Brookmill,Lewisham,326,8.7,Fabulous,8.4 ,-,-
+Hotel Oliver,Kensington and Chelsea,339,6.5,Review score,4.8 ,-,-
+Silk Road Hotel,Brent,258,,,6.4 ,-,Free cancellation
+Limehouse Library Hotel,Tower Hamlets,424,8.7,Fabulous,6.5 ,-,-
+Garden View Hotel,Kensington and Chelsea,318,6.4,Review score,5.1 ,-,-
+Kensington Court Hotel - Earls Court,Kensington and Chelsea,676,7.7,Good,5 ,Breakfast included,-
+"Holiday Inn London Oxford Circus, an IHG Hotel",Westminster Borough,445,6.7,Review score,1.8 ,-,-
+Comfort Inn Edgware Road,Westminster Borough,398,7.1,Good,3.7 ,-,-
+Novotel London Excel,Newham,429,8.1,Very good,10.5 ,-,-
+Hotel Oliver,Kensington and Chelsea,368,6.5,Review score,4.8 ,-,-
+Tony's House Hotel,Westminster Borough,374,6.1,Review score,3.3 ,Breakfast included,Free cancellation
+Doubletree By Hilton London - Greenwich,Greenwich,422,8.2,Very good,8.3 ,-,-
+"The Clermont London, Charing Cross",Westminster Borough,763,8.7,Fabulous,250 m from centre,-,-
+"Number Sixteen, Firmdale Hotels",Kensington and Chelsea,1304,8.9,Fabulous,3.7 ,-,Free cancellation
+Four Seasons Hotel London at Park Lane,Westminster Borough,2192,9.1,Superb,1.6 ,-,Free cancellation
+Central Station,Islington,514,6.8,Review score,2.9 ,-,Free cancellation
+The Drayton Court Hotel,Ealing,445,8.8,Fabulous,13.3 ,Breakfast included,-
+The Berkeley,Westminster Borough,1964,9.1,Superb,2.1 ,-,Free cancellation
+Luxury studio flat,Brent,234,2.4,Review score,8.7 ,-,Free cancellation
+Westbury Hotel Kensington,Kensington and Chelsea,389,7.5,Good,4.6 ,-,-
+Tulse Hill Hotel,Lambeth,389,8.0,Very good,7.5 ,-,-
+Deluxe Entire Apartment Between Covent Garden and St Pauls Cathedral,City of London,1293,7.8,Good,1.6 ,-,Free cancellation
+"Ham Yard Hotel, Firmdale Hotels",Westminster Borough,1683,9.2,Superb,0.6 ,Breakfast included,Free cancellation
+Leonardo Royal Hotel London City - Tower of London,City of London,572,8.4,Very good,3.5 ,-,-
+Excellent Entire Apartment Between St Pauls Cathedral and Covent Garden,City of London,1258,9.7,Exceptional,1.6 ,-,Free cancellation
+The Z Hotel Trafalgar,Westminster Borough,567,8.4,Very good,0.3,-,-
+Maitrise Hotel Maida Vale - London,Brent,318,6.6,Review score,5.5 ,-,-
+Melbourne House Hotel,Westminster Borough,514,8.2,Very good,2 ,-,-
+The Peninsula London,Westminster Borough,3273,9.5,Exceptional,1.8 ,-,Free cancellation
+Park Grand London Kensington,Kensington and Chelsea,465,7.9,Good,4.7 ,-,-
+The Carlton Tower Jumeirah,Kensington and Chelsea,1854,8.9,Fabulous,2.4 ,-,Free cancellation
+The Connaught,Westminster Borough,2174,9.2,Superb,1.5 ,-,Free cancellation
+London - Wembley International Hotel,Wembley,386,6.7,Review score,12.3 ,-,Free cancellation
+Marlin Aldgate Tower Bridge,Tower Hamlets,584,7.5,Good,4.3 ,-,Free cancellation
+Claridge's,Westminster Borough,2525,9.5,Exceptional,1.5 ,-,Free cancellation
+H10 London Waterloo,Southwark,645,8.4,Very good,1.8 ,-,-
+Opulence Boutique Hotel,Westminster Borough,491,4.8,Review score,2.4 ,-,Free cancellation
+Hyde Park Boutique Hotel,Westminster Borough,433,6.8,Review score,4 ,-,-
+Hotel Cavendish,Camden,473,6.5,Review score,1.7 ,Breakfast included,-
+The Marble Arch London,Westminster Borough,568,6.3,Review score,2.4 ,-,-
+Elmwood Hotel,Camden,333,5.9,Review score,2.4 ,-,-
+Kings Cross Hotel London,Camden,368,5.9,Review score,2.4 ,-,-
+"Covent Garden Hotel, Firmdale Hotels",Camden,1318,9.5,Exceptional,0.8 ,-,Free cancellation
+Maranton House Hotel Kensington,Kensington and Chelsea,356,7.1,Good,4.7 ,-,-
+The Prime London Hotel,Kensington and Chelsea,526,8.2,Very good,4.6 ,-,-
+Hatton Garden Hotel,Camden,567,8.0,Very good,1.9 ,-,-
+"The Soho Hotel, Firmdale Hotels",Westminster Borough,1417,9.5,Exceptional,0.8 ,-,Free cancellation
+mk hotel london,Wandsworth,540,7.9,Good,7.6 ,Breakfast included,Free cancellation
+Four Seasons Hotel London at Ten Trinity Square,City of London,2034,9.3,Superb,3.4 ,-,Free cancellation
+"Mandarin Oriental Hyde Park, London",Westminster Borough,2455,9.0,Superb,2.3 ,-,Free cancellation
+Woodman Pub,London,581,8.3,Very good,9.4 ,-,Free cancellation
+Garden View Hotel,Kensington and Chelsea,346,6.4,Review score,5.1 ,-,-
+"George Canning Denmark Hill, London",Southwark,374,8.4,Very good,5.2 ,-,-
+"Haymarket Hotel, Firmdale Hotels",Westminster Borough,1459,9.3,Superb,300 m from centre,-,Free cancellation
+StayInn Trafalgar Square,Westminster Borough,440,5.8,Review score,250 m from centre,-,-
+Novotel London Bridge,Southwark,616,8.4,Very good,2.3 ,-,-
+Limehouse Library Hotel,Tower Hamlets,436,8.7,Fabulous,6.5 ,-,-
+No. 30 Knightsbridge,Kensington and Chelsea,624,5.5,Review score,2.4 ,-,Free cancellation
+The Tophams Hotel,Westminster Borough,492,8.2,Very good,1.9 ,-,-
+Ember Locke Kensington,Kensington and Chelsea,496,8.7,Fabulous,4.8 ,-,-
+Courthouse Hotel London,Westminster Borough,594,6.7,Review score,1.1 ,-,-
+Holland Inn Hotel,Kensington and Chelsea,230,5.3,Review score,5.7 ,-,-
+"The Cadogan, A Belmond Hotel, London",Kensington and Chelsea,1853,9.3,Superb,2.5 ,-,Free cancellation
+The Clarendon Hotel,Lewisham,353,8.0,Very good,10.4 ,Breakfast included,-
+The Angerstein Hotel,Greenwich,270,7.5,Good,10.3 ,-,-
+Islington Inn,Islington,274,6.2,Review score,4.9 ,-,-
+Nell Gwynn Chelsea Accommodation,Kensington and Chelsea,548,8.0,Very good,3.1 ,-,-
+At Sloane,Kensington and Chelsea,1403,8.5,Very good,2.6 ,-,Free cancellation
+Prince William Hotel,Westminster Borough,398,6.1,Review score,3.6 ,Breakfast included,-
+Rochester Hotel by Blue Orchid,Westminster Borough,542,7.2,Good,1.6 ,-,-
+Grand Bleu - London - Next to Piccadilly Line Tube Station & Brand New Facilities,Ealing,457,6.2,Review score,13.2 ,Breakfast included,Free cancellation
+The Tudor Inn Hotel,Westminster Borough,842,6.8,Review score,2.1 ,-,-
+Park Avenue Baker Street,Westminster Borough,528,6.7,Review score,3 ,-,-
+Citadines Trafalgar Square,Westminster Borough,707,8.0,Very good,200 m from centre,-,-
+The Kings Head Hotel,Acton,327,7.3,Good,10.1 ,-,-
+The Marble Arch Suites,Westminster Borough,518,6.3,Review score,2.4 ,-,-
+St Simeon,Kensington and Chelsea,944,8.1,Very good,4.4 ,Breakfast included,Free cancellation
+The Bailey's Hotel London Kensington,Kensington and Chelsea,587,8.0,Very good,4.1 ,-,-
+StayInn Covent Garden,Westminster Borough,629,6.7,Review score,0.7 ,-,-
+Fielding Hotel,Westminster Borough,705,8.2,Very good,0.8 ,-,-
+Dover Hotel - B&B,Westminster Borough,320,7.0,Good,2 ,-,-
+ND Hotel - Hyde Park,Westminster Borough,1342,5.1,Review score,4.2 ,-,Free cancellation
+The Connaught,Westminster Borough,2174,9.2,Superb,1.5 ,-,Free cancellation
+The Portobello Hotel,Kensington and Chelsea,1102,8.5,Very good,5.3 ,-,Free cancellation
+OYO Bros Inn Hotel,Southwark,278,4.9,Review score,4.6 ,-,-
+Wedgewood Hotel,Westminster Borough,316,5.7,Review score,4.6 ,-,-
+Great Entire Apartment at Regent St. and Oxford St. London,Westminster Borough,1392,5.5,Review score,0.9 ,-,Free cancellation
+No. 30 Knightsbridge,Kensington and Chelsea,624,5.5,Review score,2.4 ,-,Free cancellation
+The Tophams Hotel,Westminster Borough,492,8.2,Very good,1.9 ,-,-
+Courthouse Hotel London,Westminster Borough,594,6.7,Review score,1.1 ,-,-
+"The Cadogan, A Belmond Hotel, London",Kensington and Chelsea,1853,9.3,Superb,2.5 ,-,Free cancellation
+The Clarendon Hotel,Lewisham,353,8.0,Very good,10.4 ,Breakfast included,-
+The Angerstein Hotel,Greenwich,270,7.5,Good,10.3 ,-,-
+The Zetter Marylebone,Westminster Borough,1143,8.6,Fabulous,2.3 ,-,Free cancellation
+Islington Inn,Islington,274,6.2,Review score,4.9 ,-,-
+Nell Gwynn Chelsea Accommodation,Kensington and Chelsea,548,8.0,Very good,3.1 ,-,-
+At Sloane,Kensington and Chelsea,1403,8.5,Very good,2.6 ,-,Free cancellation
+Prince William Hotel,Westminster Borough,398,6.1,Review score,3.6 ,Breakfast included,-
+Rochester Hotel by Blue Orchid,Westminster Borough,542,7.2,Good,1.6 ,-,-
+Grand Bleu - London - Next to Piccadilly Line Tube Station & Brand New Facilities,Ealing,457,6.2,Review score,13.2 ,Breakfast included,Free cancellation
+The Tudor Inn Hotel,Westminster Borough,842,6.8,Review score,2.1 ,-,-
+Park Avenue Baker Street,Westminster Borough,528,6.7,Review score,3 ,-,-
+The Marble Arch Suites,Westminster Borough,518,6.3,Review score,2.4 ,-,-
+St Simeon,Kensington and Chelsea,944,8.1,Very good,4.4 ,Breakfast included,Free cancellation
+The Bailey's Hotel London Kensington,Kensington and Chelsea,587,8.0,Very good,4.1 ,-,-
+Fielding Hotel,Westminster Borough,705,8.2,Very good,0.8 ,-,-
+Dover Hotel - B&B,Westminster Borough,320,7.0,Good,2 ,-,-
+Fielding Hotel,Westminster Borough,705,8.2,Very good,0.8 ,-,-
+Dover Hotel - B&B,Westminster Borough,320,7.0,Good,2 ,-,-
+ND Hotel - Hyde Park,Westminster Borough,1342,5.1,Review score,4.2 ,-,Free cancellation
+The 29 London,Westminster Borough,515,6.7,Review score,2.2 ,-,-
+Marble Arch Mews Apart'hotel,Westminster Borough,341,5.4,Review score,2.4 ,-,-
+City View Hotel - Roman Road Market,Tower Hamlets,169,4.3,Review score,7.3 ,-,-
+Point A Hotel London Paddington,Westminster Borough,597,8.0,Very good,3.2 ,-,-
+room2 Chiswick Hometel,Chiswick,454,9.2,Superb,9.1 ,-,-
+London Central Acton Aparthotel,Hammersmith and Fulham,210,,,8.3 ,-,-
+Sonder Kensington Gardens,Kensington and Chelsea,595,7.9,Good,4.1 ,Breakfast included,-
+CitySpace Tower Bridge,Southwark,385,6.6,Review score,3.4 ,-,-
+OYO Central Hotel Golders Green,Golders Green,247,5.4,Review score,9 ,-,-
+The Rembrandt,Kensington and Chelsea,647,8.2,Very good,3.2 ,Breakfast included,-
+Tower Suites by Blue Orchid,City of London,731,8.6,Fabulous,3.6 ,-,-
+Hyde Park Court Hotel,Westminster Borough,348,5.3,Review score,3.3 ,Breakfast included,-
+Point A Hotel London Westminster,Lambeth,526,7.3,Good,1.4 ,-,-
+K Hotel Kensington,Kensington and Chelsea,601,7.7,Good,4.4 ,-,-
+The Other House South Kensington,Kensington and Chelsea,771,8.7,Fabulous,4.2 ,-,-
+CitySpace Borough,Southwark,409,6.7,Review score,2.5 ,-,-
+"Sonder The Prince, Vauxhall",Lambeth,533,7.5,Good,1.9 ,-,-
+easyHotel Paddington,Westminster Borough,355,4.8,Review score,3.3 ,-,-
+Millennium Hotel London Knightsbridge,Kensington and Chelsea,617,6.8,Review score,2.4 ,-,-
+Duke and Duchess Apartments and Rooms - Private in Room Hot Tub Suites,Islington,351,6.5,Review score,5.5 ,-,-
+Mercure London Paddington Hotel,Westminster Borough,572,6.5,Review score,3.4 ,-,-
+Millennium Gloucester Hotel London,Kensington and Chelsea,555,7.3,Good,4.1 ,-,-
 The Gresham Hotel,Westminster Borough,451,7.0,Good,3.2 ,Breakfast included,-
-Hampton By Hilton London Docklands,Newham,272,8.3,Very good,11.7 ,Breakfast included,-
-Ambassadors Bloomsbury,Camden,478,6.9,Fair,2.1 ,-,Free cancellation
-Olympic House Hotel,Westminster Borough,386,7.2,Good,3.2 ,Breakfast included,Free cancellation
-The Waterman's Arms,Tower Hamlets,304,8.6,Fabulous,8.6 ,-,Free cancellation
-"Holiday Inn Express Earls Court, an IHG Hotel",Hammersmith and Fulham,407,8.1,Very good,5.7 ,Breakfast included,-
-TRIBE London Canary Wharf,Tower Hamlets,332,8.4,Very good,7.9 ,-,-
-Leman Locke,Tower Hamlets,475,8.8,Fabulous,4 ,-,-
-London Marriott Hotel Marble Arch,Westminster Borough,691,7.5,Good,2.7 ,-,-
-Sanderson London,Westminster Borough,771,8.3,Very good,1.3 ,-,-
-Cove Landmark Pinnacle,Tower Hamlets,388,9.0,Superb,7.2 ,-,-
-NOX West Hampstead,Camden,325,8.1,Very good,6.6 ,-,-
-Camden Enterprise Hotel,Camden,571,8.6,Fabulous,4.4 ,-,-
-Dreamtel London Kensington,Kensington and Chelsea,365,6.4,Fair,4.7 ,-,-
-The Barbican Rooms,Islington,568,7.5,Good,2.9 ,-,Free cancellation
-The Montcalm At Brewery London City,City of London,595,7.0,Good,2.9 ,-,Free cancellation
-Ruby Zoe Hotel London,Kensington and Chelsea,466,8.8,Fabulous,5 ,-,-
-The Piccadilly London West End,Westminster Borough,880,8.0,Very good,0.6 ,Breakfast included,Free cancellation
-Rubens At The Palace,Westminster Borough,832,8.6,Fabulous,1.5 ,-,Free cancellation
-COVE Cannon Street,City of London,465,9.1,Superb,2.4 ,-,-
-Treehouse Hotel London,Westminster Borough,910,8.5,Very good,1.5 ,-,-
-198 Studios,Camden,325,8.1,Very good,6.5 ,-,-
-Kingsland Locke,Hackney,435,8.7,Fabulous,6 ,-,-
-ME London by Melia,Westminster Borough,1181,8.5,Very good,0.8 ,-,-
-Citadines Barbican London,Islington,386,8.2,Very good,2.6 ,-,-
-Hampton By Hilton London Docklands,Newham,272,8.3,Very good,11.7 ,Breakfast included,-
-The Waterman's Arms,Tower Hamlets,304,8.6,Fabulous,8.6 ,-,Free cancellation
-TRIBE London Canary Wharf,Tower Hamlets,332,8.4,Very good,7.9 ,-,-
-Leman Locke,Tower Hamlets,475,8.8,Fabulous,4 ,-,-
-Cove Landmark Pinnacle,Tower Hamlets,388,9.0,Superb,7.2 ,-,-
-Camden Enterprise Hotel,Camden,571,8.6,Fabulous,4.4 ,-,-
-The Barbican Rooms,Islington,568,7.5,Good,2.9 ,-,Free cancellation
-The Montcalm At Brewery London City,City of London,595,7.0,Good,2.9 ,-,Free cancellation
-The Piccadilly London West End,Westminster Borough,880,8.0,Very good,0.6 ,Breakfast included,Free cancellation
-Rubens At The Palace,Westminster Borough,832,8.6,Fabulous,1.5 ,-,Free cancellation
-Apex City Of London Hotel,City of London,513,8.8,Fabulous,3.4 ,-,-
-Hotel La Place,Westminster Borough,757,8.0,Very good,2.4 ,-,Free cancellation
-Hour Glass Hotel,Southwark,218,6.9,Fair,3.8 ,-,-
-Park Grand London Kensington,Kensington and Chelsea,499,7.9,Good,4.7 ,-,-
-Haven Hotel,Westminster Borough,333,7.0,Good,3.2 ,-,Free cancellation
-"The Hoxton, Holborn",Camden,665,8.4,Very good,1.1 ,-,Free cancellation
-198 Studios,Camden,325,8.1,Very good,6.5 ,-,-
-Moxy London Excel,Newham,278,8.2,Very good,11.8 ,-,-
-DoubleTree By Hilton London Excel,Newham,299,7.9,Good,11.5 ,-,-
-The Coach,Clerkenwell,504,8.2,Very good,2.2 ,-,Free cancellation
-"The Hoxton, Shepherds Bush",Hammersmith and Fulham,466,8.8,Fabulous,6.7 ,-,Free cancellation
-citizenM London Bankside,Southwark,507,8.6,Fabulous,2.1 ,-,Free cancellation
-ibis London City - Shoreditch,Tower Hamlets,490,7.9,Good,3.9 ,-,Free cancellation
-Kingsland Locke,Hackney,435,8.7,Fabulous,6 ,-,-
-ME London by Melia,Westminster Borough,1181,8.5,Very good,0.8 ,-,-
-Citadines Barbican London,Islington,386,8.2,Very good,2.6 ,-,-
-Hampton By Hilton London Docklands,Newham,272,8.3,Very good,11.7 ,Breakfast included,-
-The Waterman's Arms,Tower Hamlets,304,8.6,Fabulous,8.6 ,-,Free cancellation
-TRIBE London Canary Wharf,Tower Hamlets,332,8.4,Very good,7.9 ,-,-
-The Z Hotel Gloucester Place,Westminster Borough,410,7.9,Good,2.4 ,-,-
-Apex City Of London Hotel,City of London,513,8.8,Fabulous,3.4 ,-,-
-Hour Glass Hotel,Southwark,218,6.9,Fair,3.8 ,-,-
-The Knaresborough by Aura Collection,Kensington and Chelsea,382,7.8,Good,4.6 ,-,-
-Croft Court Hotel,Golders Green,246,8.0,Very good,9.2 ,-,-
-Haven Hotel,Westminster Borough,333,7.0,Good,3.2 ,-,Free cancellation
-"The Hoxton, Holborn",Camden,665,8.4,Very good,1.1 ,-,Free cancellation
-198 Studios,Camden,325,8.1,Very good,6.5 ,-,-
-Moxy London Excel,Newham,278,8.2,Very good,11.8 ,-,-
-DoubleTree By Hilton London Excel,Newham,299,7.9,Good,11.5 ,-,-
-The Coach,Clerkenwell,504,8.2,Very good,2.2 ,-,Free cancellation
-"The Hoxton, Shepherds Bush",Hammersmith and Fulham,466,8.8,Fabulous,6.7 ,-,Free cancellation
-citizenM London Bankside,Southwark,507,8.6,Fabulous,2.1 ,-,Free cancellation
-ibis London City - Shoreditch,Tower Hamlets,490,7.9,Good,3.9 ,-,Free cancellation
-"Maldron Hotel Finsbury Park, London",Islington,430,8.5,Very good,6.4 ,-,Free cancellation
-The Z Hotel Piccadilly,Westminster Borough,468,7.9,Good,0.3,-,-
-"Holiday Inn Express Southwark, an IHG Hotel",Southwark,607,8.1,Very good,1.8 ,Breakfast included,Free cancellation
-The Z Hotel Shoreditch,Islington,369,7.8,Good,3.5 ,-,-
-Hilton London Kensington Hotel,Kensington and Chelsea,416,7.0,Good,6 ,-,-
-The Z Hotel City,City of London,422,7.8,Good,1.4 ,-,-
-Kingsland Locke,Hackney,435,8.7,Fabulous,6 ,-,-
-ME London by Melia,Westminster Borough,1181,8.5,Very good,0.8 ,-,-
-Citadines Barbican London,Islington,386,8.2,Very good,2.6 ,-,-
-Hampton By Hilton London Docklands,Newham,272,8.3,Very good,11.7 ,Breakfast included,-
-The Waterman's Arms,Tower Hamlets,304,8.6,Fabulous,8.6 ,-,Free cancellation
-TRIBE London Canary Wharf,Tower Hamlets,332,8.4,Very good,7.9 ,-,-
-The Z Hotel Gloucester Place,Westminster Borough,410,7.9,Good,2.4 ,-,-
-Apex City Of London Hotel,City of London,513,8.8,Fabulous,3.4 ,-,-
-Hour Glass Hotel,Southwark,218,6.9,Fair,3.8 ,-,-
-The Knaresborough by Aura Collection,Kensington and Chelsea,382,7.8,Good,4.6 ,-,-
-Croft Court Hotel,Golders Green,246,8.0,Very good,9.2 ,-,-
-Haven Hotel,Westminster Borough,333,7.0,Good,3.2 ,-,Free cancellation
-"The Hoxton, Holborn",Camden,665,8.4,Very good,1.1 ,-,Free cancellation
-198 Studios,Camden,325,8.1,Very good,6.5 ,-,-
-Moxy London Excel,Newham,278,8.2,Very good,11.8 ,-,-
-DoubleTree By Hilton London Excel,Newham,299,7.9,Good,11.5 ,-,-
-The Coach,Clerkenwell,504,8.2,Very good,2.2 ,-,Free cancellation
-"The Hoxton, Shepherds Bush",Hammersmith and Fulham,466,8.8,Fabulous,6.7 ,-,Free cancellation
-citizenM London Bankside,Southwark,507,8.6,Fabulous,2.1 ,-,Free cancellation
-ibis London City - Shoreditch,Tower Hamlets,490,7.9,Good,3.9 ,-,Free cancellation
-"Maldron Hotel Finsbury Park, London",Islington,430,8.5,Very good,6.4 ,-,Free cancellation
-The Z Hotel Piccadilly,Westminster Borough,468,7.9,Good,0.3,-,-
-"Holiday Inn Express Southwark, an IHG Hotel",Southwark,607,8.1,Very good,1.8 ,Breakfast included,Free cancellation
-The Z Hotel Shoreditch,Islington,369,7.8,Good,3.5 ,-,-
-Hilton London Kensington Hotel,Kensington and Chelsea,416,7.0,Good,6 ,-,-
-"Holiday Inn London - Regent's Park, an IHG Hotel",Westminster Borough,513,7.9,Good,2 ,-,-
-Kingsland Locke,Hackney,435,8.7,Fabulous,6 ,-,-
-ME London by Melia,Westminster Borough,1181,8.5,Very good,0.8 ,-,-
-Citadines Barbican London,Islington,386,8.2,Very good,2.6 ,-,-
-Hampton By Hilton London Docklands,Newham,272,8.3,Very good,11.7 ,Breakfast included,-
-The Waterman's Arms,Tower Hamlets,304,8.6,Fabulous,8.6 ,-,Free cancellation
-TRIBE London Canary Wharf,Tower Hamlets,332,8.4,Very good,7.9 ,-,-
-Leman Locke,Tower Hamlets,475,8.8,Fabulous,4 ,-,-
-Cove Landmark Pinnacle,Tower Hamlets,388,9.0,Superb,7.2 ,-,-
-Camden Enterprise Hotel,Camden,571,8.6,Fabulous,4.4 ,-,-
-The Barbican Rooms,Islington,568,7.5,Good,2.9 ,-,Free cancellation
-The Montcalm At Brewery London City,City of London,595,7.0,Good,2.9 ,-,Free cancellation
-The Piccadilly London West End,Westminster Borough,880,8.0,Very good,0.6 ,Breakfast included,Free cancellation
-Rubens At The Palace,Westminster Borough,832,8.6,Fabulous,1.5 ,-,Free cancellation
-The Z Hotel Gloucester Place,Westminster Borough,410,7.9,Good,2.4 ,-,-
-Apex City Of London Hotel,City of London,513,8.8,Fabulous,3.4 ,-,-
-Hotel La Place,Westminster Borough,757,8.0,Very good,2.4 ,-,Free cancellation
-The Chesterfield Mayfair,Westminster Borough,1054,9.0,Superb,1.4 ,-,Free cancellation
-Park Grand London Kensington,Kensington and Chelsea,499,7.9,Good,4.7 ,-,-
-The Knaresborough by Aura Collection,Kensington and Chelsea,382,7.8,Good,4.6 ,-,-
-Croft Court Hotel,Golders Green,246,8.0,Very good,9.2 ,-,-
-Haven Hotel,Westminster Borough,333,7.0,Good,3.2 ,-,Free cancellation
-"The Hoxton, Holborn",Camden,665,8.4,Very good,1.1 ,-,Free cancellation
-198 Studios,Camden,325,8.1,Very good,6.5 ,-,-
-Moxy London Excel,Newham,278,8.2,Very good,11.8 ,-,-
-DoubleTree By Hilton London Excel,Newham,299,7.9,Good,11.5 ,-,-
-The Coach,Clerkenwell,504,8.2,Very good,2.2 ,-,Free cancellation
-Kingsland Locke,Hackney,435,8.7,Fabulous,6 ,-,-
-Citadines Barbican London,Islington,386,8.2,Very good,2.6 ,-,-
-Hampton By Hilton London Docklands,Newham,272,8.3,Very good,11.7 ,Breakfast included,-
-The Waterman's Arms,Tower Hamlets,304,8.6,Fabulous,8.6 ,-,Free cancellation
-TRIBE London Canary Wharf,Tower Hamlets,332,8.4,Very good,7.9 ,-,-
-Leman Locke,Tower Hamlets,475,8.8,Fabulous,4 ,-,-
-Cove Landmark Pinnacle,Tower Hamlets,388,9.0,Superb,7.2 ,-,-
-Camden Enterprise Hotel,Camden,571,8.6,Fabulous,4.4 ,-,-
-The Montcalm At Brewery London City,City of London,595,7.0,Good,2.9 ,-,Free cancellation
-The Piccadilly London West End,Westminster Borough,880,8.0,Very good,0.6 ,Breakfast included,Free cancellation
-The Z Hotel Gloucester Place,Westminster Borough,410,7.9,Good,2.4 ,-,-
-Apex City Of London Hotel,City of London,513,8.8,Fabulous,3.4 ,-,-
-Hour Glass Hotel,Southwark,218,6.9,Fair,3.8 ,-,-
-The Chesterfield Mayfair,Westminster Borough,1054,9.0,Superb,1.4 ,-,Free cancellation
-Park Grand London Kensington,Kensington and Chelsea,499,7.9,Good,4.7 ,-,-
-The Knaresborough by Aura Collection,Kensington and Chelsea,382,7.8,Good,4.6 ,-,-
-Croft Court Hotel,Golders Green,246,8.0,Very good,9.2 ,-,-
-Haven Hotel,Westminster Borough,333,7.0,Good,3.2 ,-,Free cancellation
-198 Studios,Camden,325,8.1,Very good,6.5 ,-,-
-Moxy London Excel,Newham,278,8.2,Very good,11.8 ,-,-
-DoubleTree By Hilton London Excel,Newham,299,7.9,Good,11.5 ,-,-
-The Coach,Clerkenwell,504,8.2,Very good,2.2 ,-,Free cancellation
-"The Hoxton, Shepherds Bush",Hammersmith and Fulham,466,8.8,Fabulous,6.7 ,-,Free cancellation
-citizenM London Bankside,Southwark,507,8.6,Fabulous,2.1 ,-,Free cancellation
-ibis London City - Shoreditch,Tower Hamlets,490,7.9,Good,3.9 ,-,Free cancellation
-Kingsland Locke,Hackney,435,8.7,Fabulous,6 ,-,-
-ME London by Melia,Westminster Borough,1181,8.5,Very good,0.8 ,-,-
-Citadines Barbican London,Islington,386,8.2,Very good,2.6 ,-,-
-Hampton By Hilton London Docklands,Newham,272,8.3,Very good,11.7 ,Breakfast included,-
-The Waterman's Arms,Tower Hamlets,304,8.6,Fabulous,8.6 ,-,Free cancellation
-TRIBE London Canary Wharf,Tower Hamlets,332,8.4,Very good,7.9 ,-,-
-Leman Locke,Tower Hamlets,475,8.8,Fabulous,4 ,-,-
-Cove Landmark Pinnacle,Tower Hamlets,388,9.0,Superb,7.2 ,-,-
-The Barbican Rooms,Islington,568,7.5,Good,2.9 ,-,Free cancellation
-The Montcalm At Brewery London City,City of London,595,7.0,Good,2.9 ,-,Free cancellation
-The Piccadilly London West End,Westminster Borough,880,8.0,Very good,0.6 ,Breakfast included,Free cancellation
-Rubens At The Palace,Westminster Borough,832,8.6,Fabulous,1.5 ,-,Free cancellation
-The Z Hotel Gloucester Place,Westminster Borough,410,7.9,Good,2.4 ,-,-
-Apex City Of London Hotel,City of London,513,8.8,Fabulous,3.4 ,-,-
-Hotel La Place,Westminster Borough,757,8.0,Very good,2.4 ,-,Free cancellation
-Hour Glass Hotel,Southwark,218,6.9,Fair,3.8 ,-,-
-The Chesterfield Mayfair,Westminster Borough,1054,9.0,Superb,1.4 ,-,Free cancellation
-Park Grand London Kensington,Kensington and Chelsea,499,7.9,Good,4.7 ,-,-
-The Knaresborough by Aura Collection,Kensington and Chelsea,382,7.8,Good,4.6 ,-,-
-Croft Court Hotel,Golders Green,246,8.0,Very good,9.2 ,-,-
-Haven Hotel,Westminster Borough,333,7.0,Good,3.2 ,-,Free cancellation
-"The Hoxton, Holborn",Camden,665,8.4,Very good,1.1 ,-,Free cancellation
-198 Studios,Camden,325,8.1,Very good,6.5 ,-,-
-Moxy London Excel,Newham,278,8.2,Very good,11.8 ,-,-
-DoubleTree By Hilton London Excel,Newham,299,7.9,Good,11.5 ,-,-
-"The Hoxton, Shepherds Bush",Hammersmith and Fulham,466,8.8,Fabulous,6.7 ,-,Free cancellation
-Kingsland Locke,Hackney,435,8.7,Fabulous,6 ,-,-
-ME London by Melia,Westminster Borough,1181,8.5,Very good,0.8 ,-,-
-Citadines Barbican London,Islington,386,8.2,Very good,2.6 ,-,-
-Hampton By Hilton London Docklands,Newham,272,8.3,Very good,11.7 ,Breakfast included,-
-The Waterman's Arms,Tower Hamlets,304,8.6,Fabulous,8.6 ,-,Free cancellation
-TRIBE London Canary Wharf,Tower Hamlets,332,8.4,Very good,7.9 ,-,-
-The Z Hotel Gloucester Place,Westminster Borough,410,7.9,Good,2.4 ,-,-
-Apex City Of London Hotel,City of London,513,8.8,Fabulous,3.4 ,-,-
-Hour Glass Hotel,Southwark,218,6.9,Fair,3.8 ,-,-
-The Knaresborough by Aura Collection,Kensington and Chelsea,382,7.8,Good,4.6 ,-,-
-Croft Court Hotel,Golders Green,246,8.0,Very good,9.2 ,-,-
-Haven Hotel,Westminster Borough,333,7.0,Good,3.2 ,-,Free cancellation
-"The Hoxton, Holborn",Camden,665,8.4,Very good,1.1 ,-,Free cancellation
-198 Studios,Camden,325,8.1,Very good,6.5 ,-,-
-Moxy London Excel,Newham,278,8.2,Very good,11.8 ,-,-
-DoubleTree By Hilton London Excel,Newham,299,7.9,Good,11.5 ,-,-
-The Coach,Clerkenwell,504,8.2,Very good,2.2 ,-,Free cancellation
-"The Hoxton, Shepherds Bush",Hammersmith and Fulham,466,8.8,Fabulous,6.7 ,-,Free cancellation
-citizenM London Bankside,Southwark,507,8.6,Fabulous,2.1 ,-,Free cancellation
-ibis London City - Shoreditch,Tower Hamlets,490,7.9,Good,3.9 ,-,Free cancellation
-"Maldron Hotel Finsbury Park, London",Islington,430,8.5,Very good,6.4 ,-,Free cancellation
-The Z Hotel Piccadilly,Westminster Borough,468,7.9,Good,0.3,-,-
-"Holiday Inn Express Southwark, an IHG Hotel",Southwark,607,8.1,Very good,1.8 ,Breakfast included,Free cancellation
-The Z Hotel Shoreditch,Islington,369,7.8,Good,3.5 ,-,-
-Hilton London Kensington Hotel,Kensington and Chelsea,416,7.0,Good,6 ,-,-
-"Holiday Inn London - Regent's Park, an IHG Hotel",Westminster Borough,513,7.9,Good,2 ,-,-
-Kingsland Locke,Hackney,435,8.7,Fabulous,6 ,-,-
-ME London by Melia,Westminster Borough,1181,8.5,Very good,0.8 ,-,-
-Citadines Barbican London,Islington,386,8.2,Very good,2.6 ,-,-
-Hampton By Hilton London Docklands,Newham,272,8.3,Very good,11.7 ,Breakfast included,-
-The Waterman's Arms,Tower Hamlets,304,8.6,Fabulous,8.6 ,-,Free cancellation
-TRIBE London Canary Wharf,Tower Hamlets,332,8.4,Very good,7.9 ,-,-
-Leman Locke,Tower Hamlets,475,8.8,Fabulous,4 ,-,-
-Cove Landmark Pinnacle,Tower Hamlets,388,9.0,Superb,7.2 ,-,-
-Camden Enterprise Hotel,Camden,571,8.6,Fabulous,4.4 ,-,-
-The Barbican Rooms,Islington,568,7.5,Good,2.9 ,-,Free cancellation
-The Montcalm At Brewery London City,City of London,595,7.0,Good,2.9 ,-,Free cancellation
-The Piccadilly London West End,Westminster Borough,880,8.0,Very good,0.6 ,Breakfast included,Free cancellation
-Rubens At The Palace,Westminster Borough,832,8.6,Fabulous,1.5 ,-,Free cancellation
-The Z Hotel Gloucester Place,Westminster Borough,410,7.9,Good,2.4 ,-,-
-Apex City Of London Hotel,City of London,513,8.8,Fabulous,3.4 ,-,-
-Hotel La Place,Westminster Borough,757,8.0,Very good,2.4 ,-,Free cancellation
-Hour Glass Hotel,Southwark,218,6.9,Fair,3.8 ,-,-
-The Chesterfield Mayfair,Westminster Borough,1054,9.0,Superb,1.4 ,-,Free cancellation
-Park Grand London Kensington,Kensington and Chelsea,499,7.9,Good,4.7 ,-,-
-The Knaresborough by Aura Collection,Kensington and Chelsea,382,7.8,Good,4.6 ,-,-
-Croft Court Hotel,Golders Green,246,8.0,Very good,9.2 ,-,-
-Haven Hotel,Westminster Borough,333,7.0,Good,3.2 ,-,Free cancellation
-"The Hoxton, Holborn",Camden,665,8.4,Very good,1.1 ,-,Free cancellation
-198 Studios,Camden,325,8.1,Very good,6.5 ,-,-
-Moxy London Excel,Newham,278,8.2,Very good,11.8 ,-,-
-DoubleTree By Hilton London Excel,Newham,299,7.9,Good,11.5 ,-,-
-Kingsland Locke,Hackney,435,8.7,Fabulous,6 ,-,-
-ME London by Melia,Westminster Borough,1181,8.5,Very good,0.8 ,-,-
-Citadines Barbican London,Islington,386,8.2,Very good,2.6 ,-,-
-Hampton By Hilton London Docklands,Newham,272,8.3,Very good,11.7 ,Breakfast included,-
-TRIBE London Canary Wharf,Tower Hamlets,332,8.4,Very good,7.9 ,-,-
-Leman Locke,Tower Hamlets,475,8.8,Fabulous,4 ,-,-
-Cove Landmark Pinnacle,Tower Hamlets,388,9.0,Superb,7.2 ,-,-
-Camden Enterprise Hotel,Camden,571,8.6,Fabulous,4.4 ,-,-
-The Barbican Rooms,Islington,568,7.5,Good,2.9 ,-,Free cancellation
-The Montcalm At Brewery London City,City of London,595,7.0,Good,2.9 ,-,Free cancellation
-The Piccadilly London West End,Westminster Borough,880,8.0,Very good,0.6 ,Breakfast included,Free cancellation
-Rubens At The Palace,Westminster Borough,832,8.6,Fabulous,1.5 ,-,Free cancellation
-The Z Hotel Gloucester Place,Westminster Borough,410,7.9,Good,2.4 ,-,-
-Apex City Of London Hotel,City of London,513,8.8,Fabulous,3.4 ,-,-
-Hotel La Place,Westminster Borough,757,8.0,Very good,2.4 ,-,Free cancellation
-Hour Glass Hotel,Southwark,218,6.9,Fair,3.8 ,-,-
-The Chesterfield Mayfair,Westminster Borough,1054,9.0,Superb,1.4 ,-,Free cancellation
-Park Grand London Kensington,Kensington and Chelsea,499,7.9,Good,4.7 ,-,-
-The Knaresborough by Aura Collection,Kensington and Chelsea,382,7.8,Good,4.6 ,-,-
-Croft Court Hotel,Golders Green,246,8.0,Very good,9.2 ,-,-
-Haven Hotel,Westminster Borough,333,7.0,Good,3.2 ,-,Free cancellation
-"The Hoxton, Holborn",Camden,665,8.4,Very good,1.1 ,-,Free cancellation
-198 Studios,Camden,325,8.1,Very good,6.5 ,-,-
-Moxy London Excel,Newham,278,8.2,Very good,11.8 ,-,-
-The Coach,Clerkenwell,504,8.2,Very good,2.2 ,-,Free cancellation
-"The Hoxton, Shepherds Bush",Hammersmith and Fulham,466,8.8,Fabulous,6.7 ,-,Free cancellation
-Kingsland Locke,Hackney,435,8.7,Fabulous,6 ,-,-
-ME London by Melia,Westminster Borough,1181,8.5,Very good,0.8 ,-,-
-Citadines Barbican London,Islington,386,8.2,Very good,2.6 ,-,-
-Hampton By Hilton London Docklands,Newham,272,8.3,Very good,11.7 ,Breakfast included,-
-The Waterman's Arms,Tower Hamlets,304,8.6,Fabulous,8.6 ,-,Free cancellation
-TRIBE London Canary Wharf,Tower Hamlets,332,8.4,Very good,7.9 ,-,-
-Leman Locke,Tower Hamlets,475,8.8,Fabulous,4 ,-,-
-Cove Landmark Pinnacle,Tower Hamlets,388,9.0,Superb,7.2 ,-,-
-Camden Enterprise Hotel,Camden,571,8.6,Fabulous,4.4 ,-,-
-The Barbican Rooms,Islington,568,7.5,Good,2.9 ,-,Free cancellation
-The Montcalm At Brewery London City,City of London,595,7.0,Good,2.9 ,-,Free cancellation
-The Piccadilly London West End,Westminster Borough,880,8.0,Very good,0.6 ,Breakfast included,Free cancellation
-Rubens At The Palace,Westminster Borough,832,8.6,Fabulous,1.5 ,-,Free cancellation
-The Z Hotel Gloucester Place,Westminster Borough,410,7.9,Good,2.4 ,-,-
-Apex City Of London Hotel,City of London,513,8.8,Fabulous,3.4 ,-,-
-Hour Glass Hotel,Southwark,218,6.9,Fair,3.8 ,-,-
-The Chesterfield Mayfair,Westminster Borough,1054,9.0,Superb,1.4 ,-,Free cancellation
-Park Grand London Kensington,Kensington and Chelsea,499,7.9,Good,4.7 ,-,-
-The Knaresborough by Aura Collection,Kensington and Chelsea,382,7.8,Good,4.6 ,-,-
-Croft Court Hotel,Golders Green,246,8.0,Very good,9.2 ,-,-
-Haven Hotel,Westminster Borough,333,7.0,Good,3.2 ,-,Free cancellation
-"The Hoxton, Holborn",Camden,665,8.4,Very good,1.1 ,-,Free cancellation
-198 Studios,Camden,325,8.1,Very good,6.5 ,-,-
-Moxy London Excel,Newham,278,8.2,Very good,11.8 ,-,-
-DoubleTree By Hilton London Excel,Newham,299,7.9,Good,11.5 ,-,-
-Hotel La Place,Westminster Borough,841,8.0,Very good,2.4 ,-,Free cancellation
-Kingsland Locke,Hackney,435,8.7,Fabulous,6 ,-,-
-ME London by Melia,Westminster Borough,1181,8.5,Very good,0.8 ,-,-
-Citadines Barbican London,Islington,386,8.2,Very good,2.6 ,-,-
-Hampton By Hilton London Docklands,Newham,272,8.3,Very good,11.7 ,Breakfast included,-
-The Waterman's Arms,Tower Hamlets,304,8.6,Fabulous,8.6 ,-,Free cancellation
-TRIBE London Canary Wharf,Tower Hamlets,332,8.4,Very good,7.9 ,-,-
-The Z Hotel Gloucester Place,Westminster Borough,410,7.9,Good,2.4 ,-,-
-Apex City Of London Hotel,City of London,513,8.8,Fabulous,3.4 ,-,-
-Hour Glass Hotel,Southwark,218,6.9,Fair,3.8 ,-,-
-The Knaresborough by Aura Collection,Kensington and Chelsea,382,7.8,Good,4.6 ,-,-
-Croft Court Hotel,Golders Green,246,8.0,Very good,9.2 ,-,-
-Haven Hotel,Westminster Borough,333,7.0,Good,3.2 ,-,Free cancellation
-"The Hoxton, Holborn",Camden,665,8.4,Very good,1.1 ,-,Free cancellation
-198 Studios,Camden,325,8.1,Very good,6.5 ,-,-
-Moxy London Excel,Newham,278,8.2,Very good,11.8 ,-,-
-DoubleTree By Hilton London Excel,Newham,299,7.9,Good,11.5 ,-,-
-The Coach,Clerkenwell,504,8.2,Very good,2.2 ,-,Free cancellation
-"The Hoxton, Shepherds Bush",Hammersmith and Fulham,466,8.8,Fabulous,6.7 ,-,Free cancellation
-citizenM London Bankside,Southwark,507,8.6,Fabulous,2.1 ,-,Free cancellation
-ibis London City - Shoreditch,Tower Hamlets,490,7.9,Good,3.9 ,-,Free cancellation
-"Maldron Hotel Finsbury Park, London",Islington,430,8.5,Very good,6.4 ,-,Free cancellation
-The Z Hotel Piccadilly,Westminster Borough,468,7.9,Good,0.3,-,-
-"Holiday Inn Express Southwark, an IHG Hotel",Southwark,607,8.1,Very good,1.8 ,Breakfast included,Free cancellation
-The Z Hotel Shoreditch,Islington,369,7.8,Good,3.5 ,-,-
-Hilton London Kensington Hotel,Kensington and Chelsea,416,7.0,Good,6 ,-,-
-"Holiday Inn London - Regent's Park, an IHG Hotel",Westminster Borough,513,7.9,Good,2 ,-,-
-Kingsland Locke,Hackney,435,8.7,Fabulous,6 ,-,-
-ME London by Melia,Westminster Borough,1181,8.5,Very good,0.8 ,-,-
-Citadines Barbican London,Islington,386,8.2,Very good,2.6 ,-,-
-Hampton By Hilton London Docklands,Newham,272,8.3,Very good,11.7 ,Breakfast included,-
-The Waterman's Arms,Tower Hamlets,304,8.6,Fabulous,8.6 ,-,Free cancellation
-TRIBE London Canary Wharf,Tower Hamlets,332,8.4,Very good,7.9 ,-,-
-Leman Locke,Tower Hamlets,475,8.8,Fabulous,4 ,-,-
-Cove Landmark Pinnacle,Tower Hamlets,388,9.0,Superb,7.2 ,-,-
-Camden Enterprise Hotel,Camden,571,8.6,Fabulous,4.4 ,-,-
-The Barbican Rooms,Islington,568,7.5,Good,2.9 ,-,Free cancellation
-The Montcalm At Brewery London City,City of London,595,7.0,Good,2.9 ,-,Free cancellation
-The Piccadilly London West End,Westminster Borough,880,8.0,Very good,0.6 ,Breakfast included,Free cancellation
-Rubens At The Palace,Westminster Borough,832,8.6,Fabulous,1.5 ,-,Free cancellation
-The Z Hotel Gloucester Place,Westminster Borough,410,7.9,Good,2.4 ,-,-
-Apex City Of London Hotel,City of London,513,8.8,Fabulous,3.4 ,-,-
-Hotel La Place,Westminster Borough,757,8.0,Very good,2.4 ,-,Free cancellation
-Hour Glass Hotel,Southwark,218,6.9,Fair,3.8 ,-,-
-The Chesterfield Mayfair,Westminster Borough,1054,9.0,Superb,1.4 ,-,Free cancellation
-Park Grand London Kensington,Kensington and Chelsea,499,7.9,Good,4.7 ,-,-
-The Knaresborough by Aura Collection,Kensington and Chelsea,382,7.8,Good,4.6 ,-,-
-Croft Court Hotel,Golders Green,246,8.0,Very good,9.2 ,-,-
-Haven Hotel,Westminster Borough,333,7.0,Good,3.2 ,-,Free cancellation
-"The Hoxton, Holborn",Camden,665,8.4,Very good,1.1 ,-,Free cancellation
-198 Studios,Camden,325,8.1,Very good,6.5 ,-,-
-Moxy London Excel,Newham,278,8.2,Very good,11.8 ,-,-
-DoubleTree By Hilton London Excel,Newham,299,7.9,Good,11.5 ,-,-
-Kingsland Locke,Hackney,435,8.7,Fabulous,6 ,-,-
-ME London by Melia,Westminster Borough,1181,8.5,Very good,0.8 ,-,-
-Citadines Barbican London,Islington,386,8.2,Very good,2.6 ,-,-
-Hampton By Hilton London Docklands,Newham,272,8.3,Very good,11.7 ,Breakfast included,-
-The Waterman's Arms,Tower Hamlets,304,8.6,Fabulous,8.6 ,-,Free cancellation
-TRIBE London Canary Wharf,Tower Hamlets,332,8.4,Very good,7.9 ,-,-
-Leman Locke,Tower Hamlets,475,8.8,Fabulous,4 ,-,-
-Cove Landmark Pinnacle,Tower Hamlets,388,9.0,Superb,7.2 ,-,-
-Camden Enterprise Hotel,Camden,571,8.6,Fabulous,4.4 ,-,-
-The Barbican Rooms,Islington,568,7.5,Good,2.9 ,-,Free cancellation
-The Montcalm At Brewery London City,City of London,595,7.0,Good,2.9 ,-,Free cancellation
-The Piccadilly London West End,Westminster Borough,880,8.0,Very good,0.6 ,Breakfast included,Free cancellation
-Rubens At The Palace,Westminster Borough,832,8.6,Fabulous,1.5 ,-,Free cancellation
-The Z Hotel Gloucester Place,Westminster Borough,410,7.9,Good,2.4 ,-,-
-Apex City Of London Hotel,City of London,513,8.8,Fabulous,3.4 ,-,-
-Hotel La Place,Westminster Borough,757,8.0,Very good,2.4 ,-,Free cancellation
-Hour Glass Hotel,Southwark,218,6.9,Fair,3.8 ,-,-
-The Chesterfield Mayfair,Westminster Borough,1054,9.0,Superb,1.4 ,-,Free cancellation
-Park Grand London Kensington,Kensington and Chelsea,499,7.9,Good,4.7 ,-,-
-The Knaresborough by Aura Collection,Kensington and Chelsea,382,7.8,Good,4.6 ,-,-
-Croft Court Hotel,Golders Green,246,8.0,Very good,9.2 ,-,-
-Haven Hotel,Westminster Borough,333,7.0,Good,3.2 ,-,Free cancellation
-"The Hoxton, Holborn",Camden,665,8.4,Very good,1.1 ,-,Free cancellation
-198 Studios,Camden,325,8.1,Very good,6.5 ,-,-
-Moxy London Excel,Newham,278,8.2,Very good,11.8 ,-,-
-DoubleTree By Hilton London Excel,Newham,299,7.9,Good,11.5 ,-,-
+Bentley London,Kensington and Chelsea,594,7.1,Good,4.2 ,-,-
+Roomzzz London Stratford,Newham,469,8.5,Very good,9.8 ,-,-
+Cheshire Hotel Central London,Camden,555,6.7,Review score,1.1 ,-,-
+Aspen Hotel,Westminster Borough,457,7.3,Good,3.3 ,-,-
+ibis London Wembley,Wembley,445,7.8,Good,12.1 ,-,-
+The Zetter Clerkenwell,Islington,765,8.7,Fabulous,2.4 ,-,-
+The Rokxy Townhouse - Kings Cross,Camden,611,8.5,Very good,2.4 ,-,-
+Shakespeare Hotel,Westminster Borough,402,6.7,Review score,3.3 ,-,-
+54 Queen's Gate Hotel,Kensington and Chelsea,688,8.7,Fabulous,3.8 ,-,-
+Sheraton Grand London Park Lane,Westminster Borough,793,8.2,Very good,1.4 ,-,-
+Canary Wharf Holiday Rooms,Tower Hamlets,232,4.7,Review score,8.2 ,-,-
+Blades Hotel,Westminster Borough,514,7.2,Good,2.1 ,-,-
+Thanet Hotel Annex,Camden,330,4.2,Review score,1.4 ,-,-
+Montagu Place Hotel,Westminster Borough,734,8.0,Very good,2.5 ,-,-
+Novotel London Wembley,Wembley,475,8.4,Very good,12.2 ,-,-
+OYO Sino Hotel,Hammersmith and Fulham,295,5.2,Review score,6.6 ,-,-
+Woodford Hotel,London,313,7.6,Good,14.1 ,-,-
+Axiom Park Hotel,Wandsworth,389,6.1,Review score,4.2 ,-,Free cancellation
+City Continental London Kensington,Kensington and Chelsea,491,5.7,Review score,4.9 ,-,-
+SACO Holborn – Lamb’s Conduit St,Camden,700,8.2,Very good,1.8 ,-,-
+London City Airport Hotel,Newham,332,7.3,Good,12.5 ,-,-
+The Devonshire,Westminster Borough,539,6.9,Review score,3.7 ,-,-
+Sapphire Hotel London,Hammersmith and Fulham,367,6.0,Review score,6.6 ,-,-
+Thanet Hotel,Camden,447,5.0,Review score,1.4 ,-,-
+St George's Inn Victoria,Westminster Borough,521,6.7,Review score,2 ,-,-
+Tower Residences by Blue Orchid,City of London,798,8.3,Very good,3.4 ,-,-
+The Stafford London,Westminster Borough,1031,9.0,Superb,0.9 ,-,-
+Boundary Shoreditch,Shoreditch,636,8.5,Very good,4 ,-,-
+Native Bankside,Southwark,798,9.0,Superb,2.2 ,-,-
+Gresham Hotel Bloomsbury,Camden,343,4.4,Review score,1.2 ,-,-
+Rosewood London,Camden,1683,9.1,Superb,1.3 ,-,-
+K Hotel Kensington,Kensington and Chelsea,646,7.7,Good,4.4 ,-,-
+The Clerk & Well Pub and Rooms,Camden,760,8.5,Very good,2 ,Breakfast included,-
+Dorsett Shepherds Bush London,Hammersmith and Fulham,572,7.8,Good,6.7 ,-,-
+The Resident Covent Garden,Westminster Borough,928,9.3,Superb,400 m from centre,-,-
+Courthouse Hotel Shoreditch,Hackney,594,6.7,Review score,4 ,-,-
+G Eighty Four,Hackney,339,8.0,Very good,7.5 ,-,-
+Sonder The Henry,Westminster Borough,682,8.2,Very good,3.9 ,-,-
+BOKA Hotel,Kensington and Chelsea,383,5.1,Review score,5.2 ,-,-
+Magda London,Westminster Borough,821,9.5,Exceptional,1.5 ,-,-
+Astor Court Hotel,Westminster Borough,542,8.3,Very good,1.7 ,Breakfast included,Free cancellation
+Aaraya Sussex Gardens,Westminster Borough,568,6.9,Review score,3.2 ,-,-
+The Savoy,Westminster Borough,1783,9.4,Superb,0.6 ,-,-
+Berkley Apartments,Hackney,514,7.9,Good,3.8 ,-,-
+Sonder St Johns Garden,Islington,566,6.7,Review score,2.5 ,-,-
+Grand Plaza Serviced Apartments,Westminster Borough,513,7.7,Good,4.4 ,-,-
+30 willesden lane,Brent,238,4.9,Review score,6.3 ,-,-
+Best Western Northfields Ealing Hotel,Ealing,450,8.1,Very good,13 ,-,-
+The Fox & Goose Hotel,Ealing,534,9.1,Superb,12 ,Breakfast included,-
+San Domenico House,Kensington and Chelsea,1026,9.0,Superb,2.9 ,-,-
+Plaza London Hotel,Tower Hamlets,378,5.7,Review score,5.9 ,-,-
+Home Grown Club,Westminster Borough,785,8.3,Very good,2.4 ,-,-
+"OYO Abbey Hotel, London Shepherd's Bush Market",Hammersmith and Fulham,435,7.2,Good,6.7 ,-,-
+Flexistay Norbury Aparthotel,London,283,6.9,Review score,10.9 ,-,-
+Nobu Hotel London Portman Square,Westminster Borough,1085,8.6,Fabulous,2.3 ,-,-
+New Linden Hotel,Kensington and Chelsea,449,6.4,Review score,4.6 ,-,-
+Prince Regent Hotel Excel London,Newham,467,7.7,Good,11.1 ,-,-
+Aragon House,Hammersmith and Fulham,697,8.8,Fabulous,6.4 ,-,-
+The Brompton Hotel,Kensington and Chelsea,381,5.8,Review score,3.6 ,-,-
+Dolphin Hotel,Westminster Borough,444,6.8,Review score,3.3 ,-,-
+The Railway Tavern Hotel,Newham,432,6.3,Review score,9.8 ,-,-
+"The Park Tower Knightsbridge, a Luxury Collection Hotel, London",Westminster Borough,972,7.5,Good,2.3 ,-,-
+Angel Townhouse,Islington,565,8.1,Very good,4.1 ,-,-
+Melandre Hotel By Saba,Hammersmith and Fulham,488,6.7,Review score,6.6 ,Breakfast included,-
+St Johns Boutique Hotel,Westminster Borough,1934,7.5,Good,4.1 ,-,-
+Eighteen Rutland Gate,Westminster Borough,1894,,,2.9 ,-,-
+StayInn Soho Apartments,Westminster Borough,757,6.1,Review score,0.7 ,-,-
+Oliver Plaza Hotel,Kensington and Chelsea,736,8.1,Very good,5 ,-,-
+41,Westminster Borough,1221,9.7,Exceptional,1.5 ,-,-
+Sonder Chelsea Green,Kensington and Chelsea,758,7.7,Good,3.3 ,Breakfast included,-
+The Lion & Key Hotel,London,375,8.0,Very good,10.2 ,-,-
+TWIN TOWERD HOTEL,Brent,222,3.3,Review score,9.3 ,-,-
+Fox Connaught London ExCel,Newham,457,6.7,Review score,11.6 ,-,-
+Home House - Private Member's Club,Westminster Borough,1222,8.6,Fabulous,2.2 ,-,-
+OYO Boston Court Hotel,Westminster Borough,406,5.1,Review score,2.5 ,-,-
+The Portico Hotel,Westminster Borough,694,7.9,Good,2.2 ,-,-
+St Paul's Hotel,Hammersmith and Fulham,822,8.4,Very good,6.5 ,-,-
+Dolphin Inn - The Lodge,Westminster Borough,483,6.9,Review score,3.3 ,-,-
+Beaverbrook Town House,Kensington and Chelsea,1356,9.8,Exceptional,2.6 ,Breakfast included,-
+Sleepy Joes,Hackney,958,8.9,Fabulous,3.8 ,-,-
+The Mandrake,Westminster Borough,1517,8.5,Very good,1.3 ,-,-
+Berjaya Eden Park London Hotel,Westminster Borough,642,5.7,Review score,4.1 ,-,-
+OYO The Green Man Pub And Hotel,Wembley,469,7.6,Good,12.5 ,-,-
+"OYO The Arch, Wembly Stadium",Wembley,521,7.4,Good,12 ,-,-
+Berkeley Court Hotel,Westminster Borough,402,3.9,Review score,2.5 ,-,-
+Excellent Entire Apartment at Regent St. and Oxford St. London,London,2102,,,0.9 ,-,-
+St Mark Hotel,Kensington and Chelsea,631,5.4,Review score,4.6 ,Breakfast included,-
+The House on Warwick,Westminster Borough,1262,7.7,Good,2 ,-,-
+London Continental Hotel,Westminster Borough,482,3.9,Review score,2.6 ,-,-
+Mayfair House,Westminster Borough,1938,8.2,Very good,1.4 ,-,-
+Lordship Studios,Southwark,379,3.0,Review score,6.5 ,-,-
+Russell Square Hotel,Camden,746,4.7,Review score,1.8 ,-,-
+Ambassadors Hotel,Kensington and Chelsea,921,2.0,Review score,4.5 ,-,-
+Nightingale Suites,Wandsworth,1262,,Fabulous 8.9,6.3 ,-,-
+"Marriott Executive Apartments London, Canary Wharf",Tower Hamlets,1120,8.1,Very good,7.4 ,-,-
+Royal Park Hotel,Westminster Borough,1271,7.0,Good,4.1 ,-,-
+12 London Street Apartments,Westminster Borough,1052,6.1,Review score,3.4 ,-,-
+Coronation Hotel,Kensington and Chelsea,1066,6.4,Review score,5.1 ,-,-
+Chilworth Court,Westminster Borough,1334,8.4,Very good,3.8 ,-,-
+Coronation Hotel,Kensington and Chelsea,1066,6.4,Review score,5.1 ,-,-
+Manor Hotel,Kensington and Chelsea,2338,6.1,Review score,5 ,-,-
+London Town Hotel,Kensington and Chelsea,580,7.7,Good,4.9 ,-,Free cancellation
+The Villa Kensington,Kensington and Chelsea,510,7.4,Good,4.3 ,-,-
+The Long Room Hotel and Bar,Wandsworth,281,6.2,Review score,9.5 ,-,Free cancellation
+Cricklewood Lodge Hotel,Brent,234,6.5,Review score,7.6 ,-,-
+Wanstead Hotel,London,278,7.6,Good,12.4 ,-,-
+Comfotel GRN,Hammersmith and Fulham,417,5.6,Review score,6.6 ,-,-
+Old Ship Inn Hackney,Hackney,579,8.4,Very good,6.6 ,-,-
+Sheriff Hotel,Westminster Borough,533,5.6,Review score,2.2 ,-,-
+The Grapevine Hotel,Westminster Borough,444,3.7,Review score,2.2 ,-,-
+Flexistay Aparthotel Tooting,Wandsworth,505,7.0,Good,9.3 ,-,-
+"OYO Townhouse New England, London Victoria",Westminster Borough,865,7.3,Good,2.2 ,-,-
