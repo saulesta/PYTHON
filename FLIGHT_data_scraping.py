@@ -42,24 +42,27 @@ flight_data = []
 
 for element in flight_elements:
     try:
-        price = element.find('div', class_='f8F1-price-text').text.strip()
-        time_info = element.find('div', class_='vmXl-mod-variant-large').text.strip()
+        price = element.find('div', class_='f8F1-price-text').text.strip().replace('£', '')
         flight_time_elements = element.find_all('div', class_='vmXl-mod-variant-large')
         if len(flight_time_elements) >= 2:
             outbound_time = flight_time_elements[0].text.strip()
             return_time = flight_time_elements[1].text.strip()
-            flight_times = element.find('div', class_='xdW8 xdW8-mod-full-airport').text.strip()
+        flight_times = element.find_all('div', class_='xdW8 xdW8-mod-full-airport')
+        if len(flight_times) >= 1:
+            outbound_hours = flight_times[0].text.strip()
+            return_hours = flight_times[1].text.strip()
+
 
         stops_elem = element.find('span', class_='JWEO-stops-text')
         stops = stops_elem.text.strip() if stops_elem else 'No stops'
 
         flight_data.append({
             'Price': price,
-            'Outbound Flight Time': time_info,
             'Outbound Time': outbound_time,
+            'Outbound hours': outbound_hours,
             'Return Time': return_time,
-            'Stops': stops,
-            'Return Flight Time': flight_times})
+            'Return hours': return_hours,
+            'Stops': stops})
     except AttributeError:
         print("Error extracting data from an element")
 
