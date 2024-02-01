@@ -43,7 +43,7 @@ What was done:
 * Bar chart for hotels and their average price by locations
 
 
-## Flight Analysis → 
+## Flight Analysis → flight-analysis.py
 Having cleaned and transformed the data for analysis,
 
 * Bar chart to represent the average prices for direct flights, flights with one stop, and flights with two stops;
