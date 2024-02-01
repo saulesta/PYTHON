@@ -5,9 +5,9 @@ Created by: Saule Staneviciute and Alsu Saakjan
 
 This is the end project in Vilnius Coding School, Data Analytics and Fundamentals of Python program.
 
-Project theme: scraping web pages for hotels in London and flights (VNO - LDN) during May 3rd to 5th, to see...
+Project theme: Scraping web pages for hotels in London and flights (VNO - LDN) from May 3rd to 5th.
 
-Project goal:
+Project goal: Identify the most cost-effective accommodation options and secure the best flight deals for an upcoming trip.
 
 # Applied Knowledge
 Used libraries: pandas, matplotlib, numpy, seaborn, selenium, scikit-learn
@@ -21,7 +21,7 @@ Steps:
 1. Used the requests library to fetch HTML content from Booking.com search results pages.
 2. Utilized BeautifulSoup to parse the HTML content and navigate through the structure of the web page.
 3. For each hotel listing, extracted relevant details such as name, location, price, rating, distance, breakfast availability, and free cancellation possibility.
-5. Used Pandas to convert the list of dictionaries (hotels_data) into a DataFrame, removed duplicate entries.
+5. Used Pandas to convert the list of dictionaries (hotels_data) into a DataFrame, and removed duplicate entries.
 6. Saved the cleaned data to a CSV file named 'booking.csv'
 
 FLIGHT_data_scraping.py
@@ -33,12 +33,13 @@ Steps:
 5. Organized flight data, converted it to a Pandas DataFrame, and saved it as 'sorted_flights.csv'.
 
 ## Hotel Analysis → 
-A file where calculations and visual were made for booking.com hotel extracted data.
+A file where calculations and visuals were made for booking.com hotel extracted data.
 
 What was done:
-* Bar chart for 10 the most cheap hotels;
+* Bar chart for the 10 most cheap hotels;
 * Bar chart for hotels and their average price by locations
 
 ## Flight Analysis → 
+* Bar chart to represent the average prices for direct flights, flights with one-stop, and flights with two stops;
 
 # Conclusions
