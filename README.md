@@ -56,7 +56,7 @@ Correlation of the chosen features looked like this:
 
 IKELTI <correlation-flights.png>
 
-After testing several regression models, the best fit was GradientBoostingRegressor:
+After testing several regression models _(DecisionTreeRegressor, SVR, KNeighborsRegressor, LinearRegression, RandomForestRegressor, GradientBoostingRegressor, AdaBoostRegressor)_ the best fit was GradientBoostingRegressor:
 
 | Measure | Score |
 |:---:|:---:|
