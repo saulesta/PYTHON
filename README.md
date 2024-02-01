@@ -44,7 +44,8 @@ What was done:
 ![average_price_chart.png](https://github.com/saulesta/final_project/blob/master/screenshots/average_price_chart.png)
 
 * Bar chart for the hotels in Golder Greens
-
+  
+![golden-green-hotels.png](https://github.com/saulesta/final_project/blob/master/screenshots/golders-green-hotels.png)
 
   
 
