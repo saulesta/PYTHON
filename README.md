@@ -42,6 +42,8 @@ What was done:
 * Bar chart for the 10 most cheap hotels;
 * Bar chart for hotels and their average price by locations
 
+![average_price_chart.png](https://github.com/saulesta/final_project/blob/master/screenshots/average_price_chart.png)
+
 
 ## Flight Analysis → flight-analysis.py
 Having cleaned and transformed the data for analysis, visuals were created:
