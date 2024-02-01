@@ -1,36 +1,22 @@
-# BOOKING.COM HOTELS AND KAYAK.CO.UK FLIGHTS ANALYSIS
+BOOKING.COM HOTELS AND KAYAK.CO.UK FLIGHTS ANALYSIS
 
-## Details
-
-### Created by: Saule Staneviciute and Alsu
+DETAILS
+Created by: Saule Staneviciute and Alsu Saakjan
 
 This is the end project in Vilnius Coding School, Data Analytics and Fundamentals of Python program.
 
-Project theme: scraping web pages for hotels in London and flights (VNO - LDN) during the period of May 3rd to 5th, to see...
+Project theme: 
+Project goal:
 
+# Applied Knowledge
+Used libraries: pandas, matplotlib, numpy, seaborn, selenium, scikit-learn
 
-## Applied knowledge 
-Used libraries: Pandas, Matplotlib, BeautifulSoup, Selenium, Numpy, Scikit-learn
+# Project Steps
 
-### BOOKING_data_scraping.py
-Steps:
-1. Used the requests library to fetch HTML content from Booking.com search results pages.
-2. Utilized BeautifulSoup to parse the HTML content and navigate through the structure of the web page.
-3. For each hotel listing, extracted relevant details such as name, location, price, rating, distance, breakfast availability, and free cancellation possibility.
-5. Used Pandas to convert the list of dictionaries (hotels_data) into a DataFrame, removed duplicate entries.
-6. Saved the cleaned data to a CSV file named 'booking.csv'
+## Scraping Booking.com & Kayak.co.uk → 
 
-### FLIGHT_data_scraping.py
-Steps:
-1. Used Selenium with Chrome WebDriver to automate browser interactions, opening the Kayak website, handling any pop-ups, also clicking the "Show More" button and scrolling to reveal more options.
-3. Utilized BeautifulSoup to parse the HTML content and extract flight details such as price, outbound and return times, hours, and stops.
-4. Implemented error handling to manage potential exceptions while extracting data.
-5. Organized flight data, converted it to a Pandas DataFrame, and saved it as 'sorted_flights.csv'.
+## Hotel Analysis → 
 
+## Flight Analysis → 
 
-### BOOKING_analysis.py
-A file where calculations and visual were made for booking.com hotel extracted data.
-
-What was done:
-* Bar chart for 10 the most cheap hotels;
-* Bar chart for hotels and their average price by locations
+# Conclusions
