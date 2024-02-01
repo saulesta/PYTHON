@@ -44,7 +44,25 @@ What was done:
 
 
 ## Flight Analysis → 
+Having cleaned and transformed the data for analysis,
+
 * Bar chart to represent the average prices for direct flights, flights with one stop, and flights with two stops;
 
+
+Correlation of the chosen features looked like this:
+
+IKELTI <correlation-flights.png>
+
+After testing several regression models, the best fit was GradientBoostingRegressor:
+
+| Measure | Score |
+|:---:|:---:|
+| R2 | 0.743 |
+| R2 to train data | 0.858 |
+| MAE | 20.419 |
+| MSE | 712.077 |
+| RMSE | 26.685 |
+
+The final model can predict flight ticket prices with an error of  ≈ 20.42 £ 
 
 # Conclusions
