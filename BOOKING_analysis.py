@@ -8,14 +8,15 @@ booking_df = pd.read_csv(file_path)
 print(booking_df)
 
 
-#top hoteliai Golden Green
+#hoteliai Golders Green
 top_hotels = booking_df[booking_df['Location'] == 'Golders Green']
-plt.figure(figsize=(20,10))
-plt.bar(top_hotels['Name'], top_hotels['Price'])
-plt.title('Hotels in Golden Green')
+plt.figure(figsize=(20, 10))
+plt.scatter(booking_df['Name'], booking_df['Price'], marker='o', alpha=0.6, label='All Hotels')
+plt.scatter(x='Name', y='Price', data=top_hotels, color='red', marker='*', label='Golders Green')
 plt.ylabel('Price for two nights')
-plt.xticks(rotation=90, wrap=True)
-plt.grid(True)
+plt.title('Hotel Prices in Different Locations')
+plt.legend()
+plt.xticks([])
 plt.show()
 
 
@@ -40,6 +41,5 @@ print(farfromcentre_price)
 filtered_products1 = (booking_df[booking_df['Breakfast'] == 'Breakfast included'])
 filtered_products2 = (filtered_products1['Free cancelation'] == 'Free cancellation')
 print(filtered_products2)
-
 
 
