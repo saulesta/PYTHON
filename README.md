@@ -1,6 +1,7 @@
 # BOOKING.COM HOTELS AND KAYAK.CO.UK FLIGHTS ANALYSIS
 
-DETAILS
+### DETAILS
+
 Created by: Saule Staneviciute and Alsu Saakjan
 
 This is the end project in Vilnius Coding School, Data Analytics and Fundamentals of Python program.
