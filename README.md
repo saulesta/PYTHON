@@ -6,9 +6,10 @@ Created by: Saule Staneviciute and Alsu Saakjan
 
 This is the end project in Vilnius Coding School, Data Analytics and Fundamentals of Python program.
 
-Project theme: Scraping web pages for hotels in London and flights (VNO - LDN) from May 3rd to 5th.
+Project theme: Scraping web pages for hotels in London and flights (Vilnius - London) from May 3rd to 5th.
 
-Project goal: Identify the most cost-effective accommodation options and secure the best flight deals for an upcoming trip.
+Project goals: Predict the best flight prices for VNO - LDN for the mentioned period. Do the hotel analysis based on different criteria.
+Identify the most cost-effective accommodation options and secure the best flight deals for an upcoming trip.
 
 # Applied Knowledge
 Used libraries: pandas, matplotlib, numpy, seaborn, selenium, scikit-learn
@@ -39,10 +40,14 @@ Steps:
 A file where calculations and visuals were made for booking.com hotel extracted data.
 
 What was done:
-* Bar chart for the 10 most cheap hotels;
 * Bar chart for hotels and their average price by locations
 
 ![average_price_chart.png](https://github.com/saulesta/final_project/blob/master/screenshots/average_price_chart.png)
+
+* Bar chart for the hotels in Golder Greens
+
+
+  
 
 
 ## Flight Analysis → flight-analysis.py
@@ -76,3 +81,7 @@ After testing several regression models _(DecisionTreeRegressor, SVR, KNeighbors
 ![final-model-flights.png](https://github.com/saulesta/final_project/assets/157811352/fb31a542-d544-441b-a814-52a9c3f186a6)
 
 # Conclusions
+To sum up, the most optional flight choice would be a direct one, it's the cheapest, although the number of those are quite limited. The majority of the prices range 
+from 200£ to 250£. And the final regression model can predict flight ticket prices with an error of ≈ 20.42 £.
+
+Talking about hotels, our results showed that the most expensive hotels are based in the centre (neighbourhoods: Westminster, Chelsea) with an average price of 800 £ for two nights. For the budget-friendly option, Golders Green neighbourhood would be the best choice money-wise, although the rating average for this location is only 6,98. However, the best option from our analysis is - Holiday Inn Express Southwark, an IHG Hotel, with a rating of 8,1, which is considered very good, 1,8 km from the centre and breakfast is included.
