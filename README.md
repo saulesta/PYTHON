@@ -63,6 +63,8 @@ After testing several regression models, the best fit was GradientBoostingRegres
 | MSE | 712.077 |
 | RMSE | 26.685 |
 
-The final model can predict flight ticket prices with an error of  ≈ 20.42 £ 
+The final model can predict flight ticket prices with an error of  ≈ 20.42 £
+
+IKELTI <final-model-flights.png>
 
 # Conclusions
