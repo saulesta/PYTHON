@@ -1,4 +1,4 @@
-#### BOOKING.COM HOTELS AND KAYAK.CO.UK FLIGHTS ANALYSIS
+##### BOOKING.COM HOTELS AND KAYAK.CO.UK FLIGHTS ANALYSIS
 
 DETAILS
 Created by: Saule Staneviciute and Alsu Saakjan
@@ -6,6 +6,7 @@ Created by: Saule Staneviciute and Alsu Saakjan
 This is the end project in Vilnius Coding School, Data Analytics and Fundamentals of Python program.
 
 Project theme: scraping web pages for hotels in London and flights (VNO - LDN) during May 3rd to 5th, to see...
+
 Project goal:
 
 # Applied Knowledge
@@ -32,6 +33,11 @@ Steps:
 5. Organized flight data, converted it to a Pandas DataFrame, and saved it as 'sorted_flights.csv'.
 
 ## Hotel Analysis → 
+A file where calculations and visual were made for booking.com hotel extracted data.
+
+What was done:
+* Bar chart for 10 the most cheap hotels;
+* Bar chart for hotels and their average price by locations
 
 ## Flight Analysis → 
 
