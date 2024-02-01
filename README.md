@@ -60,8 +60,8 @@ After testing several regression models, the best fit was GradientBoostingRegres
 
 | Measure | Score |
 |:---:|:---:|
-| R2 | 0.743 |
-| R2 to train data | 0.858 |
+| R2 test | 0.743 |
+| R2 train | 0.858 |
 | MAE | 20.419 |
 | MSE | 712.077 |
 | RMSE | 26.685 |
