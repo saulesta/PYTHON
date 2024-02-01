@@ -8,8 +8,7 @@ This is the end project in Vilnius Coding School, Data Analytics and Fundamental
 
 Project theme: Scraping web pages for hotels in London and flights (Vilnius - London) from May 3rd to 5th.
 
-Project goals: Predict the best flight prices for VNO - LDN for the mentioned period. Do the hotel analysis based on different criteria.
-Identify the most cost-effective accommodation options and secure the best flight deals for an upcoming trip.
+Project goals: Do the hotel analysis based on different criteria and identify the most cost-effective accommodation option. Predict the best flight prices for VNO - LDN for the mentioned period.
 
 # Applied Knowledge
 Used libraries: pandas, matplotlib, numpy, seaborn, selenium, scikit-learn
