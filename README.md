@@ -56,10 +56,6 @@ Having cleaned and transformed the data for analysis, visuals were created:
 * Bar chart to represent the average prices for direct flights, flights with one stop, and flights with two stops
 ![flights.png](https://github.com/saulesta/final_project/blob/master/screenshots/flights.png)
 
-* Distribution of flight prices was:
-
-![distribution-flights.png](https://github.com/saulesta/final_project/assets/157811352/ade03019-e700-433b-a108-c6a723d05dfe)
-
 
 * Correlation of the chosen features looked like this:
 
