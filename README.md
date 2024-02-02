@@ -35,7 +35,7 @@ Steps:
 5. Organized flight data, converted it to a Pandas DataFrame, and saved it as 'sorted_flights.csv'.
 
 
-## Hotel Analysis → 
+## Hotel Analysis → BOOKING_analysis.py
 A file where calculations and visuals were made for booking.com hotel extracted data.
 
 What was done:
